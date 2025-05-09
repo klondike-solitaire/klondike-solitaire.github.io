@@ -5,6 +5,15 @@ Custom script
 This file will not be overwritten by the updater
 
 */
+(function() {
+  // Create the meta tag
+  var metaTag = document.createElement('meta');
+  metaTag.name = 'robots';
+  metaTag.content = 'noindex, nofollow';
+
+  // Append it to the <head> of the document
+  document.head.appendChild(metaTag);
+})();
 
 // JavaScript code
 function search_animal() {
