@@ -1,0 +1,317 @@
+<turbo-stream action="append" target="story-cards-grid" >
+  <template>
+      <div  class="py-2 py-sm-4 mb-4 col-md-4">
+  <a
+    href="/customer-stories/zendesk"
+    class="no-underline d-block rounded-1 Link--outlineOffset"
+  >
+    <span class="sr-only">Read more about Zendesk&apos;s customer story</span>
+    <div class="mb-4 position-relative">
+      <div style="height: 268px">
+        <picture>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/4YyBQrpOJ4aqYNMEgOoL0J/b65e2524d78d4e8d7bf2a52f7d9f30d0/zendesk-hero.jpg?w=1200&amp;fm=avif 1200w,//images.ctfassets.net/aukesvz1i7g8/4YyBQrpOJ4aqYNMEgOoL0J/b65e2524d78d4e8d7bf2a52f7d9f30d0/zendesk-hero.jpg?w=960&amp;fm=avif 960w,//images.ctfassets.net/aukesvz1i7g8/4YyBQrpOJ4aqYNMEgOoL0J/b65e2524d78d4e8d7bf2a52f7d9f30d0/zendesk-hero.jpg?w=720&amp;fm=avif 720w,//images.ctfassets.net/aukesvz1i7g8/4YyBQrpOJ4aqYNMEgOoL0J/b65e2524d78d4e8d7bf2a52f7d9f30d0/zendesk-hero.jpg?w=600&amp;fm=avif 600w,//images.ctfassets.net/aukesvz1i7g8/4YyBQrpOJ4aqYNMEgOoL0J/b65e2524d78d4e8d7bf2a52f7d9f30d0/zendesk-hero.jpg?w=480&amp;fm=avif 480w,//images.ctfassets.net/aukesvz1i7g8/4YyBQrpOJ4aqYNMEgOoL0J/b65e2524d78d4e8d7bf2a52f7d9f30d0/zendesk-hero.jpg?w=240&amp;fm=avif 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/avif"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/4YyBQrpOJ4aqYNMEgOoL0J/b65e2524d78d4e8d7bf2a52f7d9f30d0/zendesk-hero.jpg?w=1200&amp;fm=webp 1200w,//images.ctfassets.net/aukesvz1i7g8/4YyBQrpOJ4aqYNMEgOoL0J/b65e2524d78d4e8d7bf2a52f7d9f30d0/zendesk-hero.jpg?w=960&amp;fm=webp 960w,//images.ctfassets.net/aukesvz1i7g8/4YyBQrpOJ4aqYNMEgOoL0J/b65e2524d78d4e8d7bf2a52f7d9f30d0/zendesk-hero.jpg?w=720&amp;fm=webp 720w,//images.ctfassets.net/aukesvz1i7g8/4YyBQrpOJ4aqYNMEgOoL0J/b65e2524d78d4e8d7bf2a52f7d9f30d0/zendesk-hero.jpg?w=600&amp;fm=webp 600w,//images.ctfassets.net/aukesvz1i7g8/4YyBQrpOJ4aqYNMEgOoL0J/b65e2524d78d4e8d7bf2a52f7d9f30d0/zendesk-hero.jpg?w=480&amp;fm=webp 480w,//images.ctfassets.net/aukesvz1i7g8/4YyBQrpOJ4aqYNMEgOoL0J/b65e2524d78d4e8d7bf2a52f7d9f30d0/zendesk-hero.jpg?w=240&amp;fm=webp 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/webp"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/4YyBQrpOJ4aqYNMEgOoL0J/b65e2524d78d4e8d7bf2a52f7d9f30d0/zendesk-hero.jpg?w=1200&amp;fm=jpg 1200w,//images.ctfassets.net/aukesvz1i7g8/4YyBQrpOJ4aqYNMEgOoL0J/b65e2524d78d4e8d7bf2a52f7d9f30d0/zendesk-hero.jpg?w=960&amp;fm=jpg 960w,//images.ctfassets.net/aukesvz1i7g8/4YyBQrpOJ4aqYNMEgOoL0J/b65e2524d78d4e8d7bf2a52f7d9f30d0/zendesk-hero.jpg?w=720&amp;fm=jpg 720w,//images.ctfassets.net/aukesvz1i7g8/4YyBQrpOJ4aqYNMEgOoL0J/b65e2524d78d4e8d7bf2a52f7d9f30d0/zendesk-hero.jpg?w=600&amp;fm=jpg 600w,//images.ctfassets.net/aukesvz1i7g8/4YyBQrpOJ4aqYNMEgOoL0J/b65e2524d78d4e8d7bf2a52f7d9f30d0/zendesk-hero.jpg?w=480&amp;fm=jpg 480w,//images.ctfassets.net/aukesvz1i7g8/4YyBQrpOJ4aqYNMEgOoL0J/b65e2524d78d4e8d7bf2a52f7d9f30d0/zendesk-hero.jpg?w=240&amp;fm=jpg 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/jpeg"></source>
+  <img class="d-block width-full height-full object-fit-cover rounded-2" width="1200" height="1400" loading="lazy" decoding="async" alt="" src="//images.ctfassets.net/aukesvz1i7g8/4YyBQrpOJ4aqYNMEgOoL0J/b65e2524d78d4e8d7bf2a52f7d9f30d0/zendesk-hero.jpg?w=1200&amp;fm=jpg" />
+</picture>
+      </div>
+    </div>
+    <h3  class="f4-mktg color-fg-muted pb-2" aria-hidden="true"> Zendesk</h3>
+    <p  class="h6-mktg color-fg-default py-1 pb-sm-4 text-semibold" aria-hidden="true">Zendesk and GitHub: Building best-in-class tools for a decade—and counting.</p>
+    <p class="f4 d-block d-sm-inline no-underline text-semibold arrow-target-mktg color-fg-accent" aria-hidden="true">
+      Read story <svg xmlns="http://www.w3.org/2000/svg" class="octicon arrow-symbol-mktg octicon" width="16" height="16" viewBox="0 0 16 16" fill="none"><path fill="currentColor" d="M7.28033 3.21967C6.98744 2.92678 6.51256 2.92678 6.21967 3.21967C5.92678 3.51256 5.92678 3.98744 6.21967 4.28033L7.28033 3.21967ZM11 8L11.5303 8.53033C11.8232 8.23744 11.8232 7.76256 11.5303 7.46967L11 8ZM6.21967 11.7197C5.92678 12.0126 5.92678 12.4874 6.21967 12.7803C6.51256 13.0732 6.98744 13.0732 7.28033 12.7803L6.21967 11.7197ZM6.21967 4.28033L10.4697 8.53033L11.5303 7.46967L7.28033 3.21967L6.21967 4.28033ZM10.4697 7.46967L6.21967 11.7197L7.28033 12.7803L11.5303 8.53033L10.4697 7.46967Z"></path><path class="octicon-chevrow-stem" stroke="currentColor" d="M1.75 8H11" stroke-width="1.5" stroke-linecap="round"></path></svg>
+
+    </p>
+  </a>
+</div>
+
+      <div  class="py-2 py-sm-4 mb-4 col-md-4">
+  <a
+    href="/customer-stories/braintree"
+    class="no-underline d-block rounded-1 Link--outlineOffset"
+  >
+    <span class="sr-only">Read more about Braintree&apos;s customer story</span>
+    <div class="mb-4 position-relative">
+      <div style="height: 268px">
+        <picture>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/BmbVrsk8bwMNkS7EjPKqY/a5f5dd68ac66d99eed31d433e38633fb/hero.jpg?w=1200&amp;fm=avif 1200w,//images.ctfassets.net/aukesvz1i7g8/BmbVrsk8bwMNkS7EjPKqY/a5f5dd68ac66d99eed31d433e38633fb/hero.jpg?w=960&amp;fm=avif 960w,//images.ctfassets.net/aukesvz1i7g8/BmbVrsk8bwMNkS7EjPKqY/a5f5dd68ac66d99eed31d433e38633fb/hero.jpg?w=720&amp;fm=avif 720w,//images.ctfassets.net/aukesvz1i7g8/BmbVrsk8bwMNkS7EjPKqY/a5f5dd68ac66d99eed31d433e38633fb/hero.jpg?w=600&amp;fm=avif 600w,//images.ctfassets.net/aukesvz1i7g8/BmbVrsk8bwMNkS7EjPKqY/a5f5dd68ac66d99eed31d433e38633fb/hero.jpg?w=480&amp;fm=avif 480w,//images.ctfassets.net/aukesvz1i7g8/BmbVrsk8bwMNkS7EjPKqY/a5f5dd68ac66d99eed31d433e38633fb/hero.jpg?w=240&amp;fm=avif 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/avif"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/BmbVrsk8bwMNkS7EjPKqY/a5f5dd68ac66d99eed31d433e38633fb/hero.jpg?w=1200&amp;fm=webp 1200w,//images.ctfassets.net/aukesvz1i7g8/BmbVrsk8bwMNkS7EjPKqY/a5f5dd68ac66d99eed31d433e38633fb/hero.jpg?w=960&amp;fm=webp 960w,//images.ctfassets.net/aukesvz1i7g8/BmbVrsk8bwMNkS7EjPKqY/a5f5dd68ac66d99eed31d433e38633fb/hero.jpg?w=720&amp;fm=webp 720w,//images.ctfassets.net/aukesvz1i7g8/BmbVrsk8bwMNkS7EjPKqY/a5f5dd68ac66d99eed31d433e38633fb/hero.jpg?w=600&amp;fm=webp 600w,//images.ctfassets.net/aukesvz1i7g8/BmbVrsk8bwMNkS7EjPKqY/a5f5dd68ac66d99eed31d433e38633fb/hero.jpg?w=480&amp;fm=webp 480w,//images.ctfassets.net/aukesvz1i7g8/BmbVrsk8bwMNkS7EjPKqY/a5f5dd68ac66d99eed31d433e38633fb/hero.jpg?w=240&amp;fm=webp 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/webp"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/BmbVrsk8bwMNkS7EjPKqY/a5f5dd68ac66d99eed31d433e38633fb/hero.jpg?w=1200&amp;fm=jpg 1200w,//images.ctfassets.net/aukesvz1i7g8/BmbVrsk8bwMNkS7EjPKqY/a5f5dd68ac66d99eed31d433e38633fb/hero.jpg?w=960&amp;fm=jpg 960w,//images.ctfassets.net/aukesvz1i7g8/BmbVrsk8bwMNkS7EjPKqY/a5f5dd68ac66d99eed31d433e38633fb/hero.jpg?w=720&amp;fm=jpg 720w,//images.ctfassets.net/aukesvz1i7g8/BmbVrsk8bwMNkS7EjPKqY/a5f5dd68ac66d99eed31d433e38633fb/hero.jpg?w=600&amp;fm=jpg 600w,//images.ctfassets.net/aukesvz1i7g8/BmbVrsk8bwMNkS7EjPKqY/a5f5dd68ac66d99eed31d433e38633fb/hero.jpg?w=480&amp;fm=jpg 480w,//images.ctfassets.net/aukesvz1i7g8/BmbVrsk8bwMNkS7EjPKqY/a5f5dd68ac66d99eed31d433e38633fb/hero.jpg?w=240&amp;fm=jpg 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/jpeg"></source>
+  <img class="d-block width-full height-full object-fit-cover rounded-2" width="1200" height="1400" loading="lazy" decoding="async" alt="" src="//images.ctfassets.net/aukesvz1i7g8/BmbVrsk8bwMNkS7EjPKqY/a5f5dd68ac66d99eed31d433e38633fb/hero.jpg?w=1200&amp;fm=jpg" />
+</picture>
+      </div>
+    </div>
+    <h3  class="f4-mktg color-fg-muted pb-2" aria-hidden="true"> Braintree</h3>
+    <p  class="h6-mktg color-fg-default py-1 pb-sm-4 text-semibold" aria-hidden="true">Braintree brings their customers closer to their development and release processes with GitHub.</p>
+    <p class="f4 d-block d-sm-inline no-underline text-semibold arrow-target-mktg color-fg-accent" aria-hidden="true">
+      Read story <svg xmlns="http://www.w3.org/2000/svg" class="octicon arrow-symbol-mktg octicon" width="16" height="16" viewBox="0 0 16 16" fill="none"><path fill="currentColor" d="M7.28033 3.21967C6.98744 2.92678 6.51256 2.92678 6.21967 3.21967C5.92678 3.51256 5.92678 3.98744 6.21967 4.28033L7.28033 3.21967ZM11 8L11.5303 8.53033C11.8232 8.23744 11.8232 7.76256 11.5303 7.46967L11 8ZM6.21967 11.7197C5.92678 12.0126 5.92678 12.4874 6.21967 12.7803C6.51256 13.0732 6.98744 13.0732 7.28033 12.7803L6.21967 11.7197ZM6.21967 4.28033L10.4697 8.53033L11.5303 7.46967L7.28033 3.21967L6.21967 4.28033ZM10.4697 7.46967L6.21967 11.7197L7.28033 12.7803L11.5303 8.53033L10.4697 7.46967Z"></path><path class="octicon-chevrow-stem" stroke="currentColor" d="M1.75 8H11" stroke-width="1.5" stroke-linecap="round"></path></svg>
+
+    </p>
+  </a>
+</div>
+
+      <div  class="py-2 py-sm-4 mb-4 col-md-4">
+  <a
+    href="/customer-stories/nutanix"
+    class="no-underline d-block rounded-1 Link--outlineOffset"
+  >
+    <span class="sr-only">Read more about Nutanix&apos;s customer story</span>
+    <div class="mb-4 position-relative">
+      <div style="height: 268px">
+        <picture>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/3HFm2Ex0tbPB8aebkX1YUl/94942e078da44b60cafb65973b2a77bc/Nutanix12.jpg?w=1200&amp;fm=avif 1200w,//images.ctfassets.net/aukesvz1i7g8/3HFm2Ex0tbPB8aebkX1YUl/94942e078da44b60cafb65973b2a77bc/Nutanix12.jpg?w=960&amp;fm=avif 960w,//images.ctfassets.net/aukesvz1i7g8/3HFm2Ex0tbPB8aebkX1YUl/94942e078da44b60cafb65973b2a77bc/Nutanix12.jpg?w=720&amp;fm=avif 720w,//images.ctfassets.net/aukesvz1i7g8/3HFm2Ex0tbPB8aebkX1YUl/94942e078da44b60cafb65973b2a77bc/Nutanix12.jpg?w=600&amp;fm=avif 600w,//images.ctfassets.net/aukesvz1i7g8/3HFm2Ex0tbPB8aebkX1YUl/94942e078da44b60cafb65973b2a77bc/Nutanix12.jpg?w=480&amp;fm=avif 480w,//images.ctfassets.net/aukesvz1i7g8/3HFm2Ex0tbPB8aebkX1YUl/94942e078da44b60cafb65973b2a77bc/Nutanix12.jpg?w=240&amp;fm=avif 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/avif"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/3HFm2Ex0tbPB8aebkX1YUl/94942e078da44b60cafb65973b2a77bc/Nutanix12.jpg?w=1200&amp;fm=webp 1200w,//images.ctfassets.net/aukesvz1i7g8/3HFm2Ex0tbPB8aebkX1YUl/94942e078da44b60cafb65973b2a77bc/Nutanix12.jpg?w=960&amp;fm=webp 960w,//images.ctfassets.net/aukesvz1i7g8/3HFm2Ex0tbPB8aebkX1YUl/94942e078da44b60cafb65973b2a77bc/Nutanix12.jpg?w=720&amp;fm=webp 720w,//images.ctfassets.net/aukesvz1i7g8/3HFm2Ex0tbPB8aebkX1YUl/94942e078da44b60cafb65973b2a77bc/Nutanix12.jpg?w=600&amp;fm=webp 600w,//images.ctfassets.net/aukesvz1i7g8/3HFm2Ex0tbPB8aebkX1YUl/94942e078da44b60cafb65973b2a77bc/Nutanix12.jpg?w=480&amp;fm=webp 480w,//images.ctfassets.net/aukesvz1i7g8/3HFm2Ex0tbPB8aebkX1YUl/94942e078da44b60cafb65973b2a77bc/Nutanix12.jpg?w=240&amp;fm=webp 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/webp"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/3HFm2Ex0tbPB8aebkX1YUl/94942e078da44b60cafb65973b2a77bc/Nutanix12.jpg?w=1200&amp;fm=jpg 1200w,//images.ctfassets.net/aukesvz1i7g8/3HFm2Ex0tbPB8aebkX1YUl/94942e078da44b60cafb65973b2a77bc/Nutanix12.jpg?w=960&amp;fm=jpg 960w,//images.ctfassets.net/aukesvz1i7g8/3HFm2Ex0tbPB8aebkX1YUl/94942e078da44b60cafb65973b2a77bc/Nutanix12.jpg?w=720&amp;fm=jpg 720w,//images.ctfassets.net/aukesvz1i7g8/3HFm2Ex0tbPB8aebkX1YUl/94942e078da44b60cafb65973b2a77bc/Nutanix12.jpg?w=600&amp;fm=jpg 600w,//images.ctfassets.net/aukesvz1i7g8/3HFm2Ex0tbPB8aebkX1YUl/94942e078da44b60cafb65973b2a77bc/Nutanix12.jpg?w=480&amp;fm=jpg 480w,//images.ctfassets.net/aukesvz1i7g8/3HFm2Ex0tbPB8aebkX1YUl/94942e078da44b60cafb65973b2a77bc/Nutanix12.jpg?w=240&amp;fm=jpg 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/jpeg"></source>
+  <img class="d-block width-full height-full object-fit-cover rounded-2" width="1200" height="1400" loading="lazy" decoding="async" alt="" src="//images.ctfassets.net/aukesvz1i7g8/3HFm2Ex0tbPB8aebkX1YUl/94942e078da44b60cafb65973b2a77bc/Nutanix12.jpg?w=1200&amp;fm=jpg" />
+</picture>
+      </div>
+    </div>
+    <h3  class="f4-mktg color-fg-muted pb-2" aria-hidden="true"> Nutanix</h3>
+    <p  class="h6-mktg color-fg-default py-1 pb-sm-4 text-semibold" aria-hidden="true">To meet developers where they are, Nutanix becomes agile with GitHub Enterprise.</p>
+    <p class="f4 d-block d-sm-inline no-underline text-semibold arrow-target-mktg color-fg-accent" aria-hidden="true">
+      Read story <svg xmlns="http://www.w3.org/2000/svg" class="octicon arrow-symbol-mktg octicon" width="16" height="16" viewBox="0 0 16 16" fill="none"><path fill="currentColor" d="M7.28033 3.21967C6.98744 2.92678 6.51256 2.92678 6.21967 3.21967C5.92678 3.51256 5.92678 3.98744 6.21967 4.28033L7.28033 3.21967ZM11 8L11.5303 8.53033C11.8232 8.23744 11.8232 7.76256 11.5303 7.46967L11 8ZM6.21967 11.7197C5.92678 12.0126 5.92678 12.4874 6.21967 12.7803C6.51256 13.0732 6.98744 13.0732 7.28033 12.7803L6.21967 11.7197ZM6.21967 4.28033L10.4697 8.53033L11.5303 7.46967L7.28033 3.21967L6.21967 4.28033ZM10.4697 7.46967L6.21967 11.7197L7.28033 12.7803L11.5303 8.53033L10.4697 7.46967Z"></path><path class="octicon-chevrow-stem" stroke="currentColor" d="M1.75 8H11" stroke-width="1.5" stroke-linecap="round"></path></svg>
+
+    </p>
+  </a>
+</div>
+
+      <div  class="py-2 py-sm-4 mb-4 col-md-4">
+  <a
+    href="/customer-stories/wayfair"
+    class="no-underline d-block rounded-1 Link--outlineOffset"
+  >
+    <span class="sr-only">Read more about Wayfair&apos;s customer story</span>
+    <div class="mb-4 position-relative">
+      <div style="height: 268px">
+        <picture>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/5TbPZPwooH11lL3xZlSb0c/04a4aeb8cd22dc00d5d6cd20373528eb/Wayfair5.JPG?w=1200&amp;fm=avif 1200w,//images.ctfassets.net/aukesvz1i7g8/5TbPZPwooH11lL3xZlSb0c/04a4aeb8cd22dc00d5d6cd20373528eb/Wayfair5.JPG?w=960&amp;fm=avif 960w,//images.ctfassets.net/aukesvz1i7g8/5TbPZPwooH11lL3xZlSb0c/04a4aeb8cd22dc00d5d6cd20373528eb/Wayfair5.JPG?w=720&amp;fm=avif 720w,//images.ctfassets.net/aukesvz1i7g8/5TbPZPwooH11lL3xZlSb0c/04a4aeb8cd22dc00d5d6cd20373528eb/Wayfair5.JPG?w=600&amp;fm=avif 600w,//images.ctfassets.net/aukesvz1i7g8/5TbPZPwooH11lL3xZlSb0c/04a4aeb8cd22dc00d5d6cd20373528eb/Wayfair5.JPG?w=480&amp;fm=avif 480w,//images.ctfassets.net/aukesvz1i7g8/5TbPZPwooH11lL3xZlSb0c/04a4aeb8cd22dc00d5d6cd20373528eb/Wayfair5.JPG?w=240&amp;fm=avif 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/avif"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/5TbPZPwooH11lL3xZlSb0c/04a4aeb8cd22dc00d5d6cd20373528eb/Wayfair5.JPG?w=1200&amp;fm=webp 1200w,//images.ctfassets.net/aukesvz1i7g8/5TbPZPwooH11lL3xZlSb0c/04a4aeb8cd22dc00d5d6cd20373528eb/Wayfair5.JPG?w=960&amp;fm=webp 960w,//images.ctfassets.net/aukesvz1i7g8/5TbPZPwooH11lL3xZlSb0c/04a4aeb8cd22dc00d5d6cd20373528eb/Wayfair5.JPG?w=720&amp;fm=webp 720w,//images.ctfassets.net/aukesvz1i7g8/5TbPZPwooH11lL3xZlSb0c/04a4aeb8cd22dc00d5d6cd20373528eb/Wayfair5.JPG?w=600&amp;fm=webp 600w,//images.ctfassets.net/aukesvz1i7g8/5TbPZPwooH11lL3xZlSb0c/04a4aeb8cd22dc00d5d6cd20373528eb/Wayfair5.JPG?w=480&amp;fm=webp 480w,//images.ctfassets.net/aukesvz1i7g8/5TbPZPwooH11lL3xZlSb0c/04a4aeb8cd22dc00d5d6cd20373528eb/Wayfair5.JPG?w=240&amp;fm=webp 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/webp"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/5TbPZPwooH11lL3xZlSb0c/04a4aeb8cd22dc00d5d6cd20373528eb/Wayfair5.JPG?w=1200&amp;fm=jpg 1200w,//images.ctfassets.net/aukesvz1i7g8/5TbPZPwooH11lL3xZlSb0c/04a4aeb8cd22dc00d5d6cd20373528eb/Wayfair5.JPG?w=960&amp;fm=jpg 960w,//images.ctfassets.net/aukesvz1i7g8/5TbPZPwooH11lL3xZlSb0c/04a4aeb8cd22dc00d5d6cd20373528eb/Wayfair5.JPG?w=720&amp;fm=jpg 720w,//images.ctfassets.net/aukesvz1i7g8/5TbPZPwooH11lL3xZlSb0c/04a4aeb8cd22dc00d5d6cd20373528eb/Wayfair5.JPG?w=600&amp;fm=jpg 600w,//images.ctfassets.net/aukesvz1i7g8/5TbPZPwooH11lL3xZlSb0c/04a4aeb8cd22dc00d5d6cd20373528eb/Wayfair5.JPG?w=480&amp;fm=jpg 480w,//images.ctfassets.net/aukesvz1i7g8/5TbPZPwooH11lL3xZlSb0c/04a4aeb8cd22dc00d5d6cd20373528eb/Wayfair5.JPG?w=240&amp;fm=jpg 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/jpeg"></source>
+  <img class="d-block width-full height-full object-fit-cover rounded-2" width="1200" height="1400" loading="lazy" decoding="async" alt="" src="//images.ctfassets.net/aukesvz1i7g8/5TbPZPwooH11lL3xZlSb0c/04a4aeb8cd22dc00d5d6cd20373528eb/Wayfair5.JPG?w=1200&amp;fm=jpg" />
+</picture>
+      </div>
+    </div>
+    <h3  class="f4-mktg color-fg-muted pb-2" aria-hidden="true"> Wayfair</h3>
+    <p  class="h6-mktg color-fg-default py-1 pb-sm-4 text-semibold" aria-hidden="true">By balancing cloud and on-premises management, Wayfair creates a customer experience that edges out the competition.</p>
+    <p class="f4 d-block d-sm-inline no-underline text-semibold arrow-target-mktg color-fg-accent" aria-hidden="true">
+      Read story <svg xmlns="http://www.w3.org/2000/svg" class="octicon arrow-symbol-mktg octicon" width="16" height="16" viewBox="0 0 16 16" fill="none"><path fill="currentColor" d="M7.28033 3.21967C6.98744 2.92678 6.51256 2.92678 6.21967 3.21967C5.92678 3.51256 5.92678 3.98744 6.21967 4.28033L7.28033 3.21967ZM11 8L11.5303 8.53033C11.8232 8.23744 11.8232 7.76256 11.5303 7.46967L11 8ZM6.21967 11.7197C5.92678 12.0126 5.92678 12.4874 6.21967 12.7803C6.51256 13.0732 6.98744 13.0732 7.28033 12.7803L6.21967 11.7197ZM6.21967 4.28033L10.4697 8.53033L11.5303 7.46967L7.28033 3.21967L6.21967 4.28033ZM10.4697 7.46967L6.21967 11.7197L7.28033 12.7803L11.5303 8.53033L10.4697 7.46967Z"></path><path class="octicon-chevrow-stem" stroke="currentColor" d="M1.75 8H11" stroke-width="1.5" stroke-linecap="round"></path></svg>
+
+    </p>
+  </a>
+</div>
+
+      <div  class="py-2 py-sm-4 mb-4 col-md-4">
+  <a
+    href="/customer-stories/coinbase"
+    class="no-underline d-block rounded-1 Link--outlineOffset"
+  >
+    <span class="sr-only">Read more about Coinbase&apos;s customer story</span>
+    <div class="mb-4 position-relative">
+      <div style="height: 268px">
+        <picture>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/5aRczj6FvJ2dI6hFR6yb8I/004396e930894c69f46658782ee360c5/hero.jpg?w=1200&amp;fm=avif 1200w,//images.ctfassets.net/aukesvz1i7g8/5aRczj6FvJ2dI6hFR6yb8I/004396e930894c69f46658782ee360c5/hero.jpg?w=960&amp;fm=avif 960w,//images.ctfassets.net/aukesvz1i7g8/5aRczj6FvJ2dI6hFR6yb8I/004396e930894c69f46658782ee360c5/hero.jpg?w=720&amp;fm=avif 720w,//images.ctfassets.net/aukesvz1i7g8/5aRczj6FvJ2dI6hFR6yb8I/004396e930894c69f46658782ee360c5/hero.jpg?w=600&amp;fm=avif 600w,//images.ctfassets.net/aukesvz1i7g8/5aRczj6FvJ2dI6hFR6yb8I/004396e930894c69f46658782ee360c5/hero.jpg?w=480&amp;fm=avif 480w,//images.ctfassets.net/aukesvz1i7g8/5aRczj6FvJ2dI6hFR6yb8I/004396e930894c69f46658782ee360c5/hero.jpg?w=240&amp;fm=avif 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/avif"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/5aRczj6FvJ2dI6hFR6yb8I/004396e930894c69f46658782ee360c5/hero.jpg?w=1200&amp;fm=webp 1200w,//images.ctfassets.net/aukesvz1i7g8/5aRczj6FvJ2dI6hFR6yb8I/004396e930894c69f46658782ee360c5/hero.jpg?w=960&amp;fm=webp 960w,//images.ctfassets.net/aukesvz1i7g8/5aRczj6FvJ2dI6hFR6yb8I/004396e930894c69f46658782ee360c5/hero.jpg?w=720&amp;fm=webp 720w,//images.ctfassets.net/aukesvz1i7g8/5aRczj6FvJ2dI6hFR6yb8I/004396e930894c69f46658782ee360c5/hero.jpg?w=600&amp;fm=webp 600w,//images.ctfassets.net/aukesvz1i7g8/5aRczj6FvJ2dI6hFR6yb8I/004396e930894c69f46658782ee360c5/hero.jpg?w=480&amp;fm=webp 480w,//images.ctfassets.net/aukesvz1i7g8/5aRczj6FvJ2dI6hFR6yb8I/004396e930894c69f46658782ee360c5/hero.jpg?w=240&amp;fm=webp 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/webp"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/5aRczj6FvJ2dI6hFR6yb8I/004396e930894c69f46658782ee360c5/hero.jpg?w=1200&amp;fm=jpg 1200w,//images.ctfassets.net/aukesvz1i7g8/5aRczj6FvJ2dI6hFR6yb8I/004396e930894c69f46658782ee360c5/hero.jpg?w=960&amp;fm=jpg 960w,//images.ctfassets.net/aukesvz1i7g8/5aRczj6FvJ2dI6hFR6yb8I/004396e930894c69f46658782ee360c5/hero.jpg?w=720&amp;fm=jpg 720w,//images.ctfassets.net/aukesvz1i7g8/5aRczj6FvJ2dI6hFR6yb8I/004396e930894c69f46658782ee360c5/hero.jpg?w=600&amp;fm=jpg 600w,//images.ctfassets.net/aukesvz1i7g8/5aRczj6FvJ2dI6hFR6yb8I/004396e930894c69f46658782ee360c5/hero.jpg?w=480&amp;fm=jpg 480w,//images.ctfassets.net/aukesvz1i7g8/5aRczj6FvJ2dI6hFR6yb8I/004396e930894c69f46658782ee360c5/hero.jpg?w=240&amp;fm=jpg 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/jpeg"></source>
+  <img class="d-block width-full height-full object-fit-cover rounded-2" width="1200" height="1400" loading="lazy" decoding="async" alt="" src="//images.ctfassets.net/aukesvz1i7g8/5aRczj6FvJ2dI6hFR6yb8I/004396e930894c69f46658782ee360c5/hero.jpg?w=1200&amp;fm=jpg" />
+</picture>
+      </div>
+    </div>
+    <h3  class="f4-mktg color-fg-muted pb-2" aria-hidden="true"> Coinbase</h3>
+    <p  class="h6-mktg color-fg-default py-1 pb-sm-4 text-semibold" aria-hidden="true">Coinbase creates a culture of empowerment while maintaining security or compliance.</p>
+    <p class="f4 d-block d-sm-inline no-underline text-semibold arrow-target-mktg color-fg-accent" aria-hidden="true">
+      Read story <svg xmlns="http://www.w3.org/2000/svg" class="octicon arrow-symbol-mktg octicon" width="16" height="16" viewBox="0 0 16 16" fill="none"><path fill="currentColor" d="M7.28033 3.21967C6.98744 2.92678 6.51256 2.92678 6.21967 3.21967C5.92678 3.51256 5.92678 3.98744 6.21967 4.28033L7.28033 3.21967ZM11 8L11.5303 8.53033C11.8232 8.23744 11.8232 7.76256 11.5303 7.46967L11 8ZM6.21967 11.7197C5.92678 12.0126 5.92678 12.4874 6.21967 12.7803C6.51256 13.0732 6.98744 13.0732 7.28033 12.7803L6.21967 11.7197ZM6.21967 4.28033L10.4697 8.53033L11.5303 7.46967L7.28033 3.21967L6.21967 4.28033ZM10.4697 7.46967L6.21967 11.7197L7.28033 12.7803L11.5303 8.53033L10.4697 7.46967Z"></path><path class="octicon-chevrow-stem" stroke="currentColor" d="M1.75 8H11" stroke-width="1.5" stroke-linecap="round"></path></svg>
+
+    </p>
+  </a>
+</div>
+
+      <div  class="py-2 py-sm-4 mb-4 col-md-4">
+  <a
+    href="/customer-stories/globant"
+    class="no-underline d-block rounded-1 Link--outlineOffset"
+  >
+    <span class="sr-only">Read more about Globant&apos;s customer story</span>
+    <div class="mb-4 position-relative">
+      <div style="height: 268px">
+        <picture>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/2oPkhsANinSDSqApfh7DUc/7ccd2c3aa78abf19daea5d8f0814299b/globant-hero.jpg?w=1200&amp;fm=avif 1200w,//images.ctfassets.net/aukesvz1i7g8/2oPkhsANinSDSqApfh7DUc/7ccd2c3aa78abf19daea5d8f0814299b/globant-hero.jpg?w=960&amp;fm=avif 960w,//images.ctfassets.net/aukesvz1i7g8/2oPkhsANinSDSqApfh7DUc/7ccd2c3aa78abf19daea5d8f0814299b/globant-hero.jpg?w=720&amp;fm=avif 720w,//images.ctfassets.net/aukesvz1i7g8/2oPkhsANinSDSqApfh7DUc/7ccd2c3aa78abf19daea5d8f0814299b/globant-hero.jpg?w=600&amp;fm=avif 600w,//images.ctfassets.net/aukesvz1i7g8/2oPkhsANinSDSqApfh7DUc/7ccd2c3aa78abf19daea5d8f0814299b/globant-hero.jpg?w=480&amp;fm=avif 480w,//images.ctfassets.net/aukesvz1i7g8/2oPkhsANinSDSqApfh7DUc/7ccd2c3aa78abf19daea5d8f0814299b/globant-hero.jpg?w=240&amp;fm=avif 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/avif"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/2oPkhsANinSDSqApfh7DUc/7ccd2c3aa78abf19daea5d8f0814299b/globant-hero.jpg?w=1200&amp;fm=webp 1200w,//images.ctfassets.net/aukesvz1i7g8/2oPkhsANinSDSqApfh7DUc/7ccd2c3aa78abf19daea5d8f0814299b/globant-hero.jpg?w=960&amp;fm=webp 960w,//images.ctfassets.net/aukesvz1i7g8/2oPkhsANinSDSqApfh7DUc/7ccd2c3aa78abf19daea5d8f0814299b/globant-hero.jpg?w=720&amp;fm=webp 720w,//images.ctfassets.net/aukesvz1i7g8/2oPkhsANinSDSqApfh7DUc/7ccd2c3aa78abf19daea5d8f0814299b/globant-hero.jpg?w=600&amp;fm=webp 600w,//images.ctfassets.net/aukesvz1i7g8/2oPkhsANinSDSqApfh7DUc/7ccd2c3aa78abf19daea5d8f0814299b/globant-hero.jpg?w=480&amp;fm=webp 480w,//images.ctfassets.net/aukesvz1i7g8/2oPkhsANinSDSqApfh7DUc/7ccd2c3aa78abf19daea5d8f0814299b/globant-hero.jpg?w=240&amp;fm=webp 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/webp"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/2oPkhsANinSDSqApfh7DUc/7ccd2c3aa78abf19daea5d8f0814299b/globant-hero.jpg?w=1200&amp;fm=jpg 1200w,//images.ctfassets.net/aukesvz1i7g8/2oPkhsANinSDSqApfh7DUc/7ccd2c3aa78abf19daea5d8f0814299b/globant-hero.jpg?w=960&amp;fm=jpg 960w,//images.ctfassets.net/aukesvz1i7g8/2oPkhsANinSDSqApfh7DUc/7ccd2c3aa78abf19daea5d8f0814299b/globant-hero.jpg?w=720&amp;fm=jpg 720w,//images.ctfassets.net/aukesvz1i7g8/2oPkhsANinSDSqApfh7DUc/7ccd2c3aa78abf19daea5d8f0814299b/globant-hero.jpg?w=600&amp;fm=jpg 600w,//images.ctfassets.net/aukesvz1i7g8/2oPkhsANinSDSqApfh7DUc/7ccd2c3aa78abf19daea5d8f0814299b/globant-hero.jpg?w=480&amp;fm=jpg 480w,//images.ctfassets.net/aukesvz1i7g8/2oPkhsANinSDSqApfh7DUc/7ccd2c3aa78abf19daea5d8f0814299b/globant-hero.jpg?w=240&amp;fm=jpg 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/jpeg"></source>
+  <img class="d-block width-full height-full object-fit-cover rounded-2" width="1200" height="1400" loading="lazy" decoding="async" alt="" src="//images.ctfassets.net/aukesvz1i7g8/2oPkhsANinSDSqApfh7DUc/7ccd2c3aa78abf19daea5d8f0814299b/globant-hero.jpg?w=1200&amp;fm=jpg" />
+</picture>
+      </div>
+    </div>
+    <h3  class="f4-mktg color-fg-muted pb-2" aria-hidden="true"> Globant</h3>
+    <p  class="h6-mktg color-fg-default py-1 pb-sm-4 text-semibold" aria-hidden="true">With GitHub, Globant’s globally distributed workforce helps companies keep their edge.</p>
+    <p class="f4 d-block d-sm-inline no-underline text-semibold arrow-target-mktg color-fg-accent" aria-hidden="true">
+      Read story <svg xmlns="http://www.w3.org/2000/svg" class="octicon arrow-symbol-mktg octicon" width="16" height="16" viewBox="0 0 16 16" fill="none"><path fill="currentColor" d="M7.28033 3.21967C6.98744 2.92678 6.51256 2.92678 6.21967 3.21967C5.92678 3.51256 5.92678 3.98744 6.21967 4.28033L7.28033 3.21967ZM11 8L11.5303 8.53033C11.8232 8.23744 11.8232 7.76256 11.5303 7.46967L11 8ZM6.21967 11.7197C5.92678 12.0126 5.92678 12.4874 6.21967 12.7803C6.51256 13.0732 6.98744 13.0732 7.28033 12.7803L6.21967 11.7197ZM6.21967 4.28033L10.4697 8.53033L11.5303 7.46967L7.28033 3.21967L6.21967 4.28033ZM10.4697 7.46967L6.21967 11.7197L7.28033 12.7803L11.5303 8.53033L10.4697 7.46967Z"></path><path class="octicon-chevrow-stem" stroke="currentColor" d="M1.75 8H11" stroke-width="1.5" stroke-linecap="round"></path></svg>
+
+    </p>
+  </a>
+</div>
+
+      <div  class="py-2 py-sm-4 mb-4 col-md-4">
+  <a
+    href="/customer-stories/engie"
+    class="no-underline d-block rounded-1 Link--outlineOffset"
+  >
+    <span class="sr-only">Read more about ENGIE&apos;s customer story</span>
+    <div class="mb-4 position-relative">
+      <div style="height: 268px">
+        <picture>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/yuR5qn1tYYj9TNSBXUiMF/ef185143db29cd3f1e75396c1e521d13/engie-hero.jpg?w=1200&amp;fm=avif 1200w,//images.ctfassets.net/aukesvz1i7g8/yuR5qn1tYYj9TNSBXUiMF/ef185143db29cd3f1e75396c1e521d13/engie-hero.jpg?w=960&amp;fm=avif 960w,//images.ctfassets.net/aukesvz1i7g8/yuR5qn1tYYj9TNSBXUiMF/ef185143db29cd3f1e75396c1e521d13/engie-hero.jpg?w=720&amp;fm=avif 720w,//images.ctfassets.net/aukesvz1i7g8/yuR5qn1tYYj9TNSBXUiMF/ef185143db29cd3f1e75396c1e521d13/engie-hero.jpg?w=600&amp;fm=avif 600w,//images.ctfassets.net/aukesvz1i7g8/yuR5qn1tYYj9TNSBXUiMF/ef185143db29cd3f1e75396c1e521d13/engie-hero.jpg?w=480&amp;fm=avif 480w,//images.ctfassets.net/aukesvz1i7g8/yuR5qn1tYYj9TNSBXUiMF/ef185143db29cd3f1e75396c1e521d13/engie-hero.jpg?w=240&amp;fm=avif 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/avif"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/yuR5qn1tYYj9TNSBXUiMF/ef185143db29cd3f1e75396c1e521d13/engie-hero.jpg?w=1200&amp;fm=webp 1200w,//images.ctfassets.net/aukesvz1i7g8/yuR5qn1tYYj9TNSBXUiMF/ef185143db29cd3f1e75396c1e521d13/engie-hero.jpg?w=960&amp;fm=webp 960w,//images.ctfassets.net/aukesvz1i7g8/yuR5qn1tYYj9TNSBXUiMF/ef185143db29cd3f1e75396c1e521d13/engie-hero.jpg?w=720&amp;fm=webp 720w,//images.ctfassets.net/aukesvz1i7g8/yuR5qn1tYYj9TNSBXUiMF/ef185143db29cd3f1e75396c1e521d13/engie-hero.jpg?w=600&amp;fm=webp 600w,//images.ctfassets.net/aukesvz1i7g8/yuR5qn1tYYj9TNSBXUiMF/ef185143db29cd3f1e75396c1e521d13/engie-hero.jpg?w=480&amp;fm=webp 480w,//images.ctfassets.net/aukesvz1i7g8/yuR5qn1tYYj9TNSBXUiMF/ef185143db29cd3f1e75396c1e521d13/engie-hero.jpg?w=240&amp;fm=webp 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/webp"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/yuR5qn1tYYj9TNSBXUiMF/ef185143db29cd3f1e75396c1e521d13/engie-hero.jpg?w=1200&amp;fm=jpg 1200w,//images.ctfassets.net/aukesvz1i7g8/yuR5qn1tYYj9TNSBXUiMF/ef185143db29cd3f1e75396c1e521d13/engie-hero.jpg?w=960&amp;fm=jpg 960w,//images.ctfassets.net/aukesvz1i7g8/yuR5qn1tYYj9TNSBXUiMF/ef185143db29cd3f1e75396c1e521d13/engie-hero.jpg?w=720&amp;fm=jpg 720w,//images.ctfassets.net/aukesvz1i7g8/yuR5qn1tYYj9TNSBXUiMF/ef185143db29cd3f1e75396c1e521d13/engie-hero.jpg?w=600&amp;fm=jpg 600w,//images.ctfassets.net/aukesvz1i7g8/yuR5qn1tYYj9TNSBXUiMF/ef185143db29cd3f1e75396c1e521d13/engie-hero.jpg?w=480&amp;fm=jpg 480w,//images.ctfassets.net/aukesvz1i7g8/yuR5qn1tYYj9TNSBXUiMF/ef185143db29cd3f1e75396c1e521d13/engie-hero.jpg?w=240&amp;fm=jpg 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/jpeg"></source>
+  <img class="d-block width-full height-full object-fit-cover rounded-2" width="1200" height="1400" loading="lazy" decoding="async" alt="" src="//images.ctfassets.net/aukesvz1i7g8/yuR5qn1tYYj9TNSBXUiMF/ef185143db29cd3f1e75396c1e521d13/engie-hero.jpg?w=1200&amp;fm=jpg" />
+</picture>
+      </div>
+    </div>
+    <h3  class="f4-mktg color-fg-muted pb-2" aria-hidden="true"> ENGIE</h3>
+    <p  class="h6-mktg color-fg-default py-1 pb-sm-4 text-semibold" aria-hidden="true">Innersourcing is the cornerstone of a new culture within Engie.</p>
+    <p class="f4 d-block d-sm-inline no-underline text-semibold arrow-target-mktg color-fg-accent" aria-hidden="true">
+      Read story <svg xmlns="http://www.w3.org/2000/svg" class="octicon arrow-symbol-mktg octicon" width="16" height="16" viewBox="0 0 16 16" fill="none"><path fill="currentColor" d="M7.28033 3.21967C6.98744 2.92678 6.51256 2.92678 6.21967 3.21967C5.92678 3.51256 5.92678 3.98744 6.21967 4.28033L7.28033 3.21967ZM11 8L11.5303 8.53033C11.8232 8.23744 11.8232 7.76256 11.5303 7.46967L11 8ZM6.21967 11.7197C5.92678 12.0126 5.92678 12.4874 6.21967 12.7803C6.51256 13.0732 6.98744 13.0732 7.28033 12.7803L6.21967 11.7197ZM6.21967 4.28033L10.4697 8.53033L11.5303 7.46967L7.28033 3.21967L6.21967 4.28033ZM10.4697 7.46967L6.21967 11.7197L7.28033 12.7803L11.5303 8.53033L10.4697 7.46967Z"></path><path class="octicon-chevrow-stem" stroke="currentColor" d="M1.75 8H11" stroke-width="1.5" stroke-linecap="round"></path></svg>
+
+    </p>
+  </a>
+</div>
+
+      <div  class="py-2 py-sm-4 mb-4 col-md-4">
+  <a
+    href="/customer-stories/vodafone"
+    class="no-underline d-block rounded-1 Link--outlineOffset"
+  >
+    <span class="sr-only">Read more about Vodafone &apos;s customer story</span>
+    <div class="mb-4 position-relative">
+      <div style="height: 268px">
+        <picture>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/3R7NUFBlnrjZzYJkF5Unwu/1c74d80d67a67c9e70fcaa9485369a1a/Ratio_16_9-GettyImages-1180225161RETOUCH-RED__1_.jpg?w=1200&amp;fm=avif 1200w,//images.ctfassets.net/aukesvz1i7g8/3R7NUFBlnrjZzYJkF5Unwu/1c74d80d67a67c9e70fcaa9485369a1a/Ratio_16_9-GettyImages-1180225161RETOUCH-RED__1_.jpg?w=960&amp;fm=avif 960w,//images.ctfassets.net/aukesvz1i7g8/3R7NUFBlnrjZzYJkF5Unwu/1c74d80d67a67c9e70fcaa9485369a1a/Ratio_16_9-GettyImages-1180225161RETOUCH-RED__1_.jpg?w=720&amp;fm=avif 720w,//images.ctfassets.net/aukesvz1i7g8/3R7NUFBlnrjZzYJkF5Unwu/1c74d80d67a67c9e70fcaa9485369a1a/Ratio_16_9-GettyImages-1180225161RETOUCH-RED__1_.jpg?w=600&amp;fm=avif 600w,//images.ctfassets.net/aukesvz1i7g8/3R7NUFBlnrjZzYJkF5Unwu/1c74d80d67a67c9e70fcaa9485369a1a/Ratio_16_9-GettyImages-1180225161RETOUCH-RED__1_.jpg?w=480&amp;fm=avif 480w,//images.ctfassets.net/aukesvz1i7g8/3R7NUFBlnrjZzYJkF5Unwu/1c74d80d67a67c9e70fcaa9485369a1a/Ratio_16_9-GettyImages-1180225161RETOUCH-RED__1_.jpg?w=240&amp;fm=avif 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/avif"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/3R7NUFBlnrjZzYJkF5Unwu/1c74d80d67a67c9e70fcaa9485369a1a/Ratio_16_9-GettyImages-1180225161RETOUCH-RED__1_.jpg?w=1200&amp;fm=webp 1200w,//images.ctfassets.net/aukesvz1i7g8/3R7NUFBlnrjZzYJkF5Unwu/1c74d80d67a67c9e70fcaa9485369a1a/Ratio_16_9-GettyImages-1180225161RETOUCH-RED__1_.jpg?w=960&amp;fm=webp 960w,//images.ctfassets.net/aukesvz1i7g8/3R7NUFBlnrjZzYJkF5Unwu/1c74d80d67a67c9e70fcaa9485369a1a/Ratio_16_9-GettyImages-1180225161RETOUCH-RED__1_.jpg?w=720&amp;fm=webp 720w,//images.ctfassets.net/aukesvz1i7g8/3R7NUFBlnrjZzYJkF5Unwu/1c74d80d67a67c9e70fcaa9485369a1a/Ratio_16_9-GettyImages-1180225161RETOUCH-RED__1_.jpg?w=600&amp;fm=webp 600w,//images.ctfassets.net/aukesvz1i7g8/3R7NUFBlnrjZzYJkF5Unwu/1c74d80d67a67c9e70fcaa9485369a1a/Ratio_16_9-GettyImages-1180225161RETOUCH-RED__1_.jpg?w=480&amp;fm=webp 480w,//images.ctfassets.net/aukesvz1i7g8/3R7NUFBlnrjZzYJkF5Unwu/1c74d80d67a67c9e70fcaa9485369a1a/Ratio_16_9-GettyImages-1180225161RETOUCH-RED__1_.jpg?w=240&amp;fm=webp 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/webp"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/3R7NUFBlnrjZzYJkF5Unwu/1c74d80d67a67c9e70fcaa9485369a1a/Ratio_16_9-GettyImages-1180225161RETOUCH-RED__1_.jpg?w=1200&amp;fm=jpg 1200w,//images.ctfassets.net/aukesvz1i7g8/3R7NUFBlnrjZzYJkF5Unwu/1c74d80d67a67c9e70fcaa9485369a1a/Ratio_16_9-GettyImages-1180225161RETOUCH-RED__1_.jpg?w=960&amp;fm=jpg 960w,//images.ctfassets.net/aukesvz1i7g8/3R7NUFBlnrjZzYJkF5Unwu/1c74d80d67a67c9e70fcaa9485369a1a/Ratio_16_9-GettyImages-1180225161RETOUCH-RED__1_.jpg?w=720&amp;fm=jpg 720w,//images.ctfassets.net/aukesvz1i7g8/3R7NUFBlnrjZzYJkF5Unwu/1c74d80d67a67c9e70fcaa9485369a1a/Ratio_16_9-GettyImages-1180225161RETOUCH-RED__1_.jpg?w=600&amp;fm=jpg 600w,//images.ctfassets.net/aukesvz1i7g8/3R7NUFBlnrjZzYJkF5Unwu/1c74d80d67a67c9e70fcaa9485369a1a/Ratio_16_9-GettyImages-1180225161RETOUCH-RED__1_.jpg?w=480&amp;fm=jpg 480w,//images.ctfassets.net/aukesvz1i7g8/3R7NUFBlnrjZzYJkF5Unwu/1c74d80d67a67c9e70fcaa9485369a1a/Ratio_16_9-GettyImages-1180225161RETOUCH-RED__1_.jpg?w=240&amp;fm=jpg 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/jpeg"></source>
+  <img class="d-block width-full height-full object-fit-cover rounded-2" width="1200" height="1400" loading="lazy" decoding="async" alt="" src="//images.ctfassets.net/aukesvz1i7g8/3R7NUFBlnrjZzYJkF5Unwu/1c74d80d67a67c9e70fcaa9485369a1a/Ratio_16_9-GettyImages-1180225161RETOUCH-RED__1_.jpg?w=1200&amp;fm=jpg" />
+</picture>
+      </div>
+    </div>
+    <h3  class="f4-mktg color-fg-muted pb-2" aria-hidden="true"> Vodafone </h3>
+    <p  class="h6-mktg color-fg-default py-1 pb-sm-4 text-semibold" aria-hidden="true">Vodafone builds connections around the world with GitHub and Microsoft’s Azure DevOps.</p>
+    <p class="f4 d-block d-sm-inline no-underline text-semibold arrow-target-mktg color-fg-accent" aria-hidden="true">
+      Read story <svg xmlns="http://www.w3.org/2000/svg" class="octicon arrow-symbol-mktg octicon" width="16" height="16" viewBox="0 0 16 16" fill="none"><path fill="currentColor" d="M7.28033 3.21967C6.98744 2.92678 6.51256 2.92678 6.21967 3.21967C5.92678 3.51256 5.92678 3.98744 6.21967 4.28033L7.28033 3.21967ZM11 8L11.5303 8.53033C11.8232 8.23744 11.8232 7.76256 11.5303 7.46967L11 8ZM6.21967 11.7197C5.92678 12.0126 5.92678 12.4874 6.21967 12.7803C6.51256 13.0732 6.98744 13.0732 7.28033 12.7803L6.21967 11.7197ZM6.21967 4.28033L10.4697 8.53033L11.5303 7.46967L7.28033 3.21967L6.21967 4.28033ZM10.4697 7.46967L6.21967 11.7197L7.28033 12.7803L11.5303 8.53033L10.4697 7.46967Z"></path><path class="octicon-chevrow-stem" stroke="currentColor" d="M1.75 8H11" stroke-width="1.5" stroke-linecap="round"></path></svg>
+
+    </p>
+  </a>
+</div>
+
+      <div  class="py-2 py-sm-4 mb-4 col-md-4">
+  <a
+    href="/customer-stories/amplifon"
+    class="no-underline d-block rounded-1 Link--outlineOffset"
+  >
+    <span class="sr-only">Read more about Amplifon&apos;s customer story</span>
+    <div class="mb-4 position-relative">
+      <div style="height: 268px">
+        <picture>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/4ugPKC6tL2NNqfZPqX86Aq/3ab8703920901f2a04ec3015cd62a605/2022_Amplifon_Corporate0570__1_.jpg?w=1200&amp;fm=avif 1200w,//images.ctfassets.net/aukesvz1i7g8/4ugPKC6tL2NNqfZPqX86Aq/3ab8703920901f2a04ec3015cd62a605/2022_Amplifon_Corporate0570__1_.jpg?w=960&amp;fm=avif 960w,//images.ctfassets.net/aukesvz1i7g8/4ugPKC6tL2NNqfZPqX86Aq/3ab8703920901f2a04ec3015cd62a605/2022_Amplifon_Corporate0570__1_.jpg?w=720&amp;fm=avif 720w,//images.ctfassets.net/aukesvz1i7g8/4ugPKC6tL2NNqfZPqX86Aq/3ab8703920901f2a04ec3015cd62a605/2022_Amplifon_Corporate0570__1_.jpg?w=600&amp;fm=avif 600w,//images.ctfassets.net/aukesvz1i7g8/4ugPKC6tL2NNqfZPqX86Aq/3ab8703920901f2a04ec3015cd62a605/2022_Amplifon_Corporate0570__1_.jpg?w=480&amp;fm=avif 480w,//images.ctfassets.net/aukesvz1i7g8/4ugPKC6tL2NNqfZPqX86Aq/3ab8703920901f2a04ec3015cd62a605/2022_Amplifon_Corporate0570__1_.jpg?w=240&amp;fm=avif 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/avif"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/4ugPKC6tL2NNqfZPqX86Aq/3ab8703920901f2a04ec3015cd62a605/2022_Amplifon_Corporate0570__1_.jpg?w=1200&amp;fm=webp 1200w,//images.ctfassets.net/aukesvz1i7g8/4ugPKC6tL2NNqfZPqX86Aq/3ab8703920901f2a04ec3015cd62a605/2022_Amplifon_Corporate0570__1_.jpg?w=960&amp;fm=webp 960w,//images.ctfassets.net/aukesvz1i7g8/4ugPKC6tL2NNqfZPqX86Aq/3ab8703920901f2a04ec3015cd62a605/2022_Amplifon_Corporate0570__1_.jpg?w=720&amp;fm=webp 720w,//images.ctfassets.net/aukesvz1i7g8/4ugPKC6tL2NNqfZPqX86Aq/3ab8703920901f2a04ec3015cd62a605/2022_Amplifon_Corporate0570__1_.jpg?w=600&amp;fm=webp 600w,//images.ctfassets.net/aukesvz1i7g8/4ugPKC6tL2NNqfZPqX86Aq/3ab8703920901f2a04ec3015cd62a605/2022_Amplifon_Corporate0570__1_.jpg?w=480&amp;fm=webp 480w,//images.ctfassets.net/aukesvz1i7g8/4ugPKC6tL2NNqfZPqX86Aq/3ab8703920901f2a04ec3015cd62a605/2022_Amplifon_Corporate0570__1_.jpg?w=240&amp;fm=webp 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/webp"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/4ugPKC6tL2NNqfZPqX86Aq/3ab8703920901f2a04ec3015cd62a605/2022_Amplifon_Corporate0570__1_.jpg?w=1200&amp;fm=jpg 1200w,//images.ctfassets.net/aukesvz1i7g8/4ugPKC6tL2NNqfZPqX86Aq/3ab8703920901f2a04ec3015cd62a605/2022_Amplifon_Corporate0570__1_.jpg?w=960&amp;fm=jpg 960w,//images.ctfassets.net/aukesvz1i7g8/4ugPKC6tL2NNqfZPqX86Aq/3ab8703920901f2a04ec3015cd62a605/2022_Amplifon_Corporate0570__1_.jpg?w=720&amp;fm=jpg 720w,//images.ctfassets.net/aukesvz1i7g8/4ugPKC6tL2NNqfZPqX86Aq/3ab8703920901f2a04ec3015cd62a605/2022_Amplifon_Corporate0570__1_.jpg?w=600&amp;fm=jpg 600w,//images.ctfassets.net/aukesvz1i7g8/4ugPKC6tL2NNqfZPqX86Aq/3ab8703920901f2a04ec3015cd62a605/2022_Amplifon_Corporate0570__1_.jpg?w=480&amp;fm=jpg 480w,//images.ctfassets.net/aukesvz1i7g8/4ugPKC6tL2NNqfZPqX86Aq/3ab8703920901f2a04ec3015cd62a605/2022_Amplifon_Corporate0570__1_.jpg?w=240&amp;fm=jpg 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/jpeg"></source>
+  <img class="d-block width-full height-full object-fit-cover rounded-2" width="1200" height="1400" loading="lazy" decoding="async" alt="" src="//images.ctfassets.net/aukesvz1i7g8/4ugPKC6tL2NNqfZPqX86Aq/3ab8703920901f2a04ec3015cd62a605/2022_Amplifon_Corporate0570__1_.jpg?w=1200&amp;fm=jpg" />
+</picture>
+      </div>
+    </div>
+    <h3  class="f4-mktg color-fg-muted pb-2" aria-hidden="true"> Amplifon</h3>
+    <p  class="h6-mktg color-fg-default py-1 pb-sm-4 text-semibold" aria-hidden="true">Amplifon centralizes development on GitHub to accelerate healthcare innovation.</p>
+    <p class="f4 d-block d-sm-inline no-underline text-semibold arrow-target-mktg color-fg-accent" aria-hidden="true">
+      Read story <svg xmlns="http://www.w3.org/2000/svg" class="octicon arrow-symbol-mktg octicon" width="16" height="16" viewBox="0 0 16 16" fill="none"><path fill="currentColor" d="M7.28033 3.21967C6.98744 2.92678 6.51256 2.92678 6.21967 3.21967C5.92678 3.51256 5.92678 3.98744 6.21967 4.28033L7.28033 3.21967ZM11 8L11.5303 8.53033C11.8232 8.23744 11.8232 7.76256 11.5303 7.46967L11 8ZM6.21967 11.7197C5.92678 12.0126 5.92678 12.4874 6.21967 12.7803C6.51256 13.0732 6.98744 13.0732 7.28033 12.7803L6.21967 11.7197ZM6.21967 4.28033L10.4697 8.53033L11.5303 7.46967L7.28033 3.21967L6.21967 4.28033ZM10.4697 7.46967L6.21967 11.7197L7.28033 12.7803L11.5303 8.53033L10.4697 7.46967Z"></path><path class="octicon-chevrow-stem" stroke="currentColor" d="M1.75 8H11" stroke-width="1.5" stroke-linecap="round"></path></svg>
+
+    </p>
+  </a>
+</div>
+
+      <div  class="py-2 py-sm-4 mb-4 col-md-4">
+  <a
+    href="/customer-stories/indra"
+    class="no-underline d-block rounded-1 Link--outlineOffset"
+  >
+    <span class="sr-only">Read more about Indra&apos;s customer story</span>
+    <div class="mb-4 position-relative">
+      <div style="height: 268px">
+        <picture>
+  
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/5mxfgYUk8B17XvOjnqDT4T/d9c5d9d092bd19b6a25b2eedf7d63168/GettyImages-962449150_adaptada.png?w=1200&amp;fm=webp 1200w,//images.ctfassets.net/aukesvz1i7g8/5mxfgYUk8B17XvOjnqDT4T/d9c5d9d092bd19b6a25b2eedf7d63168/GettyImages-962449150_adaptada.png?w=960&amp;fm=webp 960w,//images.ctfassets.net/aukesvz1i7g8/5mxfgYUk8B17XvOjnqDT4T/d9c5d9d092bd19b6a25b2eedf7d63168/GettyImages-962449150_adaptada.png?w=720&amp;fm=webp 720w,//images.ctfassets.net/aukesvz1i7g8/5mxfgYUk8B17XvOjnqDT4T/d9c5d9d092bd19b6a25b2eedf7d63168/GettyImages-962449150_adaptada.png?w=600&amp;fm=webp 600w,//images.ctfassets.net/aukesvz1i7g8/5mxfgYUk8B17XvOjnqDT4T/d9c5d9d092bd19b6a25b2eedf7d63168/GettyImages-962449150_adaptada.png?w=480&amp;fm=webp 480w,//images.ctfassets.net/aukesvz1i7g8/5mxfgYUk8B17XvOjnqDT4T/d9c5d9d092bd19b6a25b2eedf7d63168/GettyImages-962449150_adaptada.png?w=240&amp;fm=webp 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/webp"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/5mxfgYUk8B17XvOjnqDT4T/d9c5d9d092bd19b6a25b2eedf7d63168/GettyImages-962449150_adaptada.png?w=1200&amp;fm=png 1200w,//images.ctfassets.net/aukesvz1i7g8/5mxfgYUk8B17XvOjnqDT4T/d9c5d9d092bd19b6a25b2eedf7d63168/GettyImages-962449150_adaptada.png?w=960&amp;fm=png 960w,//images.ctfassets.net/aukesvz1i7g8/5mxfgYUk8B17XvOjnqDT4T/d9c5d9d092bd19b6a25b2eedf7d63168/GettyImages-962449150_adaptada.png?w=720&amp;fm=png 720w,//images.ctfassets.net/aukesvz1i7g8/5mxfgYUk8B17XvOjnqDT4T/d9c5d9d092bd19b6a25b2eedf7d63168/GettyImages-962449150_adaptada.png?w=600&amp;fm=png 600w,//images.ctfassets.net/aukesvz1i7g8/5mxfgYUk8B17XvOjnqDT4T/d9c5d9d092bd19b6a25b2eedf7d63168/GettyImages-962449150_adaptada.png?w=480&amp;fm=png 480w,//images.ctfassets.net/aukesvz1i7g8/5mxfgYUk8B17XvOjnqDT4T/d9c5d9d092bd19b6a25b2eedf7d63168/GettyImages-962449150_adaptada.png?w=240&amp;fm=png 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/png"></source>
+  <img class="d-block width-full height-full object-fit-cover rounded-2" width="1200" height="1400" loading="lazy" decoding="async" alt="" src="//images.ctfassets.net/aukesvz1i7g8/5mxfgYUk8B17XvOjnqDT4T/d9c5d9d092bd19b6a25b2eedf7d63168/GettyImages-962449150_adaptada.png?w=1200&amp;fm=png" />
+</picture>
+      </div>
+    </div>
+    <h3  class="f4-mktg color-fg-muted pb-2" aria-hidden="true"> Indra</h3>
+    <p  class="h6-mktg color-fg-default py-1 pb-sm-4 text-semibold" aria-hidden="true">GitHub Copilot helps Indra focus on making the world safer.</p>
+    <p class="f4 d-block d-sm-inline no-underline text-semibold arrow-target-mktg color-fg-accent" aria-hidden="true">
+      Read story <svg xmlns="http://www.w3.org/2000/svg" class="octicon arrow-symbol-mktg octicon" width="16" height="16" viewBox="0 0 16 16" fill="none"><path fill="currentColor" d="M7.28033 3.21967C6.98744 2.92678 6.51256 2.92678 6.21967 3.21967C5.92678 3.51256 5.92678 3.98744 6.21967 4.28033L7.28033 3.21967ZM11 8L11.5303 8.53033C11.8232 8.23744 11.8232 7.76256 11.5303 7.46967L11 8ZM6.21967 11.7197C5.92678 12.0126 5.92678 12.4874 6.21967 12.7803C6.51256 13.0732 6.98744 13.0732 7.28033 12.7803L6.21967 11.7197ZM6.21967 4.28033L10.4697 8.53033L11.5303 7.46967L7.28033 3.21967L6.21967 4.28033ZM10.4697 7.46967L6.21967 11.7197L7.28033 12.7803L11.5303 8.53033L10.4697 7.46967Z"></path><path class="octicon-chevrow-stem" stroke="currentColor" d="M1.75 8H11" stroke-width="1.5" stroke-linecap="round"></path></svg>
+
+    </p>
+  </a>
+</div>
+
+      <div  class="py-2 py-sm-4 mb-4 col-md-4">
+  <a
+    href="/customer-stories/societe-generale"
+    class="no-underline d-block rounded-1 Link--outlineOffset"
+  >
+    <span class="sr-only">Read more about Societe Generale&apos;s customer story</span>
+    <div class="mb-4 position-relative">
+      <div style="height: 268px">
+        <picture>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/1W4XaD6NFmbbUAIEI6kNvO/30a3b22ff16457751ec0e833e9f38422/sg-hero.jpg?w=1200&amp;fm=avif 1200w,//images.ctfassets.net/aukesvz1i7g8/1W4XaD6NFmbbUAIEI6kNvO/30a3b22ff16457751ec0e833e9f38422/sg-hero.jpg?w=960&amp;fm=avif 960w,//images.ctfassets.net/aukesvz1i7g8/1W4XaD6NFmbbUAIEI6kNvO/30a3b22ff16457751ec0e833e9f38422/sg-hero.jpg?w=720&amp;fm=avif 720w,//images.ctfassets.net/aukesvz1i7g8/1W4XaD6NFmbbUAIEI6kNvO/30a3b22ff16457751ec0e833e9f38422/sg-hero.jpg?w=600&amp;fm=avif 600w,//images.ctfassets.net/aukesvz1i7g8/1W4XaD6NFmbbUAIEI6kNvO/30a3b22ff16457751ec0e833e9f38422/sg-hero.jpg?w=480&amp;fm=avif 480w,//images.ctfassets.net/aukesvz1i7g8/1W4XaD6NFmbbUAIEI6kNvO/30a3b22ff16457751ec0e833e9f38422/sg-hero.jpg?w=240&amp;fm=avif 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/avif"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/1W4XaD6NFmbbUAIEI6kNvO/30a3b22ff16457751ec0e833e9f38422/sg-hero.jpg?w=1200&amp;fm=webp 1200w,//images.ctfassets.net/aukesvz1i7g8/1W4XaD6NFmbbUAIEI6kNvO/30a3b22ff16457751ec0e833e9f38422/sg-hero.jpg?w=960&amp;fm=webp 960w,//images.ctfassets.net/aukesvz1i7g8/1W4XaD6NFmbbUAIEI6kNvO/30a3b22ff16457751ec0e833e9f38422/sg-hero.jpg?w=720&amp;fm=webp 720w,//images.ctfassets.net/aukesvz1i7g8/1W4XaD6NFmbbUAIEI6kNvO/30a3b22ff16457751ec0e833e9f38422/sg-hero.jpg?w=600&amp;fm=webp 600w,//images.ctfassets.net/aukesvz1i7g8/1W4XaD6NFmbbUAIEI6kNvO/30a3b22ff16457751ec0e833e9f38422/sg-hero.jpg?w=480&amp;fm=webp 480w,//images.ctfassets.net/aukesvz1i7g8/1W4XaD6NFmbbUAIEI6kNvO/30a3b22ff16457751ec0e833e9f38422/sg-hero.jpg?w=240&amp;fm=webp 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/webp"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/1W4XaD6NFmbbUAIEI6kNvO/30a3b22ff16457751ec0e833e9f38422/sg-hero.jpg?w=1200&amp;fm=jpg 1200w,//images.ctfassets.net/aukesvz1i7g8/1W4XaD6NFmbbUAIEI6kNvO/30a3b22ff16457751ec0e833e9f38422/sg-hero.jpg?w=960&amp;fm=jpg 960w,//images.ctfassets.net/aukesvz1i7g8/1W4XaD6NFmbbUAIEI6kNvO/30a3b22ff16457751ec0e833e9f38422/sg-hero.jpg?w=720&amp;fm=jpg 720w,//images.ctfassets.net/aukesvz1i7g8/1W4XaD6NFmbbUAIEI6kNvO/30a3b22ff16457751ec0e833e9f38422/sg-hero.jpg?w=600&amp;fm=jpg 600w,//images.ctfassets.net/aukesvz1i7g8/1W4XaD6NFmbbUAIEI6kNvO/30a3b22ff16457751ec0e833e9f38422/sg-hero.jpg?w=480&amp;fm=jpg 480w,//images.ctfassets.net/aukesvz1i7g8/1W4XaD6NFmbbUAIEI6kNvO/30a3b22ff16457751ec0e833e9f38422/sg-hero.jpg?w=240&amp;fm=jpg 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/jpeg"></source>
+  <img class="d-block width-full height-full object-fit-cover rounded-2" width="1200" height="1400" loading="lazy" decoding="async" alt="" src="//images.ctfassets.net/aukesvz1i7g8/1W4XaD6NFmbbUAIEI6kNvO/30a3b22ff16457751ec0e833e9f38422/sg-hero.jpg?w=1200&amp;fm=jpg" />
+</picture>
+      </div>
+    </div>
+    <h3  class="f4-mktg color-fg-muted pb-2" aria-hidden="true"> Societe Generale</h3>
+    <p  class="h6-mktg color-fg-default py-1 pb-sm-4 text-semibold" aria-hidden="true">Societe Generale’s open IT infrastructure brings more solutions and innovation to the table.</p>
+    <p class="f4 d-block d-sm-inline no-underline text-semibold arrow-target-mktg color-fg-accent" aria-hidden="true">
+      Read story <svg xmlns="http://www.w3.org/2000/svg" class="octicon arrow-symbol-mktg octicon" width="16" height="16" viewBox="0 0 16 16" fill="none"><path fill="currentColor" d="M7.28033 3.21967C6.98744 2.92678 6.51256 2.92678 6.21967 3.21967C5.92678 3.51256 5.92678 3.98744 6.21967 4.28033L7.28033 3.21967ZM11 8L11.5303 8.53033C11.8232 8.23744 11.8232 7.76256 11.5303 7.46967L11 8ZM6.21967 11.7197C5.92678 12.0126 5.92678 12.4874 6.21967 12.7803C6.51256 13.0732 6.98744 13.0732 7.28033 12.7803L6.21967 11.7197ZM6.21967 4.28033L10.4697 8.53033L11.5303 7.46967L7.28033 3.21967L6.21967 4.28033ZM10.4697 7.46967L6.21967 11.7197L7.28033 12.7803L11.5303 8.53033L10.4697 7.46967Z"></path><path class="octicon-chevrow-stem" stroke="currentColor" d="M1.75 8H11" stroke-width="1.5" stroke-linecap="round"></path></svg>
+
+    </p>
+  </a>
+</div>
+
+      <div  class="py-2 py-sm-4 mb-4 col-md-4">
+  <a
+    href="/customer-stories/seagate"
+    class="no-underline d-block rounded-1 Link--outlineOffset"
+  >
+    <span class="sr-only">Read more about Seagate&apos;s customer story</span>
+    <div class="mb-4 position-relative">
+      <div style="height: 268px">
+        <picture>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/1Gxm3Ttkq27wxoGxf2d8Nl/8c247dbe46a861b39d5091ef452617c3/Seagate1.jpg?w=1200&amp;fm=avif 1200w,//images.ctfassets.net/aukesvz1i7g8/1Gxm3Ttkq27wxoGxf2d8Nl/8c247dbe46a861b39d5091ef452617c3/Seagate1.jpg?w=960&amp;fm=avif 960w,//images.ctfassets.net/aukesvz1i7g8/1Gxm3Ttkq27wxoGxf2d8Nl/8c247dbe46a861b39d5091ef452617c3/Seagate1.jpg?w=720&amp;fm=avif 720w,//images.ctfassets.net/aukesvz1i7g8/1Gxm3Ttkq27wxoGxf2d8Nl/8c247dbe46a861b39d5091ef452617c3/Seagate1.jpg?w=600&amp;fm=avif 600w,//images.ctfassets.net/aukesvz1i7g8/1Gxm3Ttkq27wxoGxf2d8Nl/8c247dbe46a861b39d5091ef452617c3/Seagate1.jpg?w=480&amp;fm=avif 480w,//images.ctfassets.net/aukesvz1i7g8/1Gxm3Ttkq27wxoGxf2d8Nl/8c247dbe46a861b39d5091ef452617c3/Seagate1.jpg?w=240&amp;fm=avif 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/avif"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/1Gxm3Ttkq27wxoGxf2d8Nl/8c247dbe46a861b39d5091ef452617c3/Seagate1.jpg?w=1200&amp;fm=webp 1200w,//images.ctfassets.net/aukesvz1i7g8/1Gxm3Ttkq27wxoGxf2d8Nl/8c247dbe46a861b39d5091ef452617c3/Seagate1.jpg?w=960&amp;fm=webp 960w,//images.ctfassets.net/aukesvz1i7g8/1Gxm3Ttkq27wxoGxf2d8Nl/8c247dbe46a861b39d5091ef452617c3/Seagate1.jpg?w=720&amp;fm=webp 720w,//images.ctfassets.net/aukesvz1i7g8/1Gxm3Ttkq27wxoGxf2d8Nl/8c247dbe46a861b39d5091ef452617c3/Seagate1.jpg?w=600&amp;fm=webp 600w,//images.ctfassets.net/aukesvz1i7g8/1Gxm3Ttkq27wxoGxf2d8Nl/8c247dbe46a861b39d5091ef452617c3/Seagate1.jpg?w=480&amp;fm=webp 480w,//images.ctfassets.net/aukesvz1i7g8/1Gxm3Ttkq27wxoGxf2d8Nl/8c247dbe46a861b39d5091ef452617c3/Seagate1.jpg?w=240&amp;fm=webp 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/webp"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/1Gxm3Ttkq27wxoGxf2d8Nl/8c247dbe46a861b39d5091ef452617c3/Seagate1.jpg?w=1200&amp;fm=jpg 1200w,//images.ctfassets.net/aukesvz1i7g8/1Gxm3Ttkq27wxoGxf2d8Nl/8c247dbe46a861b39d5091ef452617c3/Seagate1.jpg?w=960&amp;fm=jpg 960w,//images.ctfassets.net/aukesvz1i7g8/1Gxm3Ttkq27wxoGxf2d8Nl/8c247dbe46a861b39d5091ef452617c3/Seagate1.jpg?w=720&amp;fm=jpg 720w,//images.ctfassets.net/aukesvz1i7g8/1Gxm3Ttkq27wxoGxf2d8Nl/8c247dbe46a861b39d5091ef452617c3/Seagate1.jpg?w=600&amp;fm=jpg 600w,//images.ctfassets.net/aukesvz1i7g8/1Gxm3Ttkq27wxoGxf2d8Nl/8c247dbe46a861b39d5091ef452617c3/Seagate1.jpg?w=480&amp;fm=jpg 480w,//images.ctfassets.net/aukesvz1i7g8/1Gxm3Ttkq27wxoGxf2d8Nl/8c247dbe46a861b39d5091ef452617c3/Seagate1.jpg?w=240&amp;fm=jpg 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/jpeg"></source>
+  <img class="d-block width-full height-full object-fit-cover rounded-2" width="1200" height="1400" loading="lazy" decoding="async" alt="" src="//images.ctfassets.net/aukesvz1i7g8/1Gxm3Ttkq27wxoGxf2d8Nl/8c247dbe46a861b39d5091ef452617c3/Seagate1.jpg?w=1200&amp;fm=jpg" />
+</picture>
+      </div>
+    </div>
+    <h3  class="f4-mktg color-fg-muted pb-2" aria-hidden="true"> Seagate</h3>
+    <p  class="h6-mktg color-fg-default py-1 pb-sm-4 text-semibold" aria-hidden="true">Seagate expands the potential of hardware through open source software.</p>
+    <p class="f4 d-block d-sm-inline no-underline text-semibold arrow-target-mktg color-fg-accent" aria-hidden="true">
+      Read story <svg xmlns="http://www.w3.org/2000/svg" class="octicon arrow-symbol-mktg octicon" width="16" height="16" viewBox="0 0 16 16" fill="none"><path fill="currentColor" d="M7.28033 3.21967C6.98744 2.92678 6.51256 2.92678 6.21967 3.21967C5.92678 3.51256 5.92678 3.98744 6.21967 4.28033L7.28033 3.21967ZM11 8L11.5303 8.53033C11.8232 8.23744 11.8232 7.76256 11.5303 7.46967L11 8ZM6.21967 11.7197C5.92678 12.0126 5.92678 12.4874 6.21967 12.7803C6.51256 13.0732 6.98744 13.0732 7.28033 12.7803L6.21967 11.7197ZM6.21967 4.28033L10.4697 8.53033L11.5303 7.46967L7.28033 3.21967L6.21967 4.28033ZM10.4697 7.46967L6.21967 11.7197L7.28033 12.7803L11.5303 8.53033L10.4697 7.46967Z"></path><path class="octicon-chevrow-stem" stroke="currentColor" d="M1.75 8H11" stroke-width="1.5" stroke-linecap="round"></path></svg>
+
+    </p>
+  </a>
+</div>
+
+  </template>
+</turbo-stream>
+
+  <turbo-stream action="replace" target="load-more-stories-button" >
+    <template>
+      <a class="btn-mktg flex-justify-center flex-items-center" data-analytics-event="{&quot;category&quot;:&quot;View more stories&quot;,&quot;action&quot;:&quot;click to View more stories&quot;,&quot;label&quot;:&quot;ref_cta:View more stories;&quot;}" href="/customer-stories/search.turbo_stream?category=Enterprise&amp;category=Enterprise&amp;offset=24&amp;region=Middle%2BEast%2B%2526%2BAfrica&amp;target=story-cards-grid" display="flex" border="true" bg="default" data-turbo-stream="" id="load-more-stories-button">
+  View more stories
+  
+        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-chevron-down">
+    <path d="M12.78 5.22a.749.749 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.06 0L3.22 6.28a.749.749 0 1 1 1.06-1.06L8 8.939l3.72-3.719a.749.749 0 0 1 1.06 0Z"></path>
+</svg>
+
+  
+</a>    </template>
+  </turbo-stream>

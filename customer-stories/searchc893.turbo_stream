@@ -1,0 +1,41 @@
+<turbo-stream action="append" target="story-cards-grid" >
+  <template>
+      <div  class="py-2 py-sm-4 mb-4 col-md-4">
+  <a
+    href="/customer-stories/spotify"
+    class="no-underline d-block rounded-1 Link--outlineOffset"
+  >
+    <span class="sr-only">Read more about Spotify&apos;s customer story</span>
+    <div class="mb-4 position-relative">
+      <div style="height: 268px">
+        <picture>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/5s3nMriKbZ3uCFWzEO9KiD/abe30452d9ed0c02adf8c674a9f82cd7/spotifyhero.jpg?w=1200&amp;fm=avif 1200w,//images.ctfassets.net/aukesvz1i7g8/5s3nMriKbZ3uCFWzEO9KiD/abe30452d9ed0c02adf8c674a9f82cd7/spotifyhero.jpg?w=960&amp;fm=avif 960w,//images.ctfassets.net/aukesvz1i7g8/5s3nMriKbZ3uCFWzEO9KiD/abe30452d9ed0c02adf8c674a9f82cd7/spotifyhero.jpg?w=720&amp;fm=avif 720w,//images.ctfassets.net/aukesvz1i7g8/5s3nMriKbZ3uCFWzEO9KiD/abe30452d9ed0c02adf8c674a9f82cd7/spotifyhero.jpg?w=600&amp;fm=avif 600w,//images.ctfassets.net/aukesvz1i7g8/5s3nMriKbZ3uCFWzEO9KiD/abe30452d9ed0c02adf8c674a9f82cd7/spotifyhero.jpg?w=480&amp;fm=avif 480w,//images.ctfassets.net/aukesvz1i7g8/5s3nMriKbZ3uCFWzEO9KiD/abe30452d9ed0c02adf8c674a9f82cd7/spotifyhero.jpg?w=240&amp;fm=avif 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/avif"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/5s3nMriKbZ3uCFWzEO9KiD/abe30452d9ed0c02adf8c674a9f82cd7/spotifyhero.jpg?w=1200&amp;fm=webp 1200w,//images.ctfassets.net/aukesvz1i7g8/5s3nMriKbZ3uCFWzEO9KiD/abe30452d9ed0c02adf8c674a9f82cd7/spotifyhero.jpg?w=960&amp;fm=webp 960w,//images.ctfassets.net/aukesvz1i7g8/5s3nMriKbZ3uCFWzEO9KiD/abe30452d9ed0c02adf8c674a9f82cd7/spotifyhero.jpg?w=720&amp;fm=webp 720w,//images.ctfassets.net/aukesvz1i7g8/5s3nMriKbZ3uCFWzEO9KiD/abe30452d9ed0c02adf8c674a9f82cd7/spotifyhero.jpg?w=600&amp;fm=webp 600w,//images.ctfassets.net/aukesvz1i7g8/5s3nMriKbZ3uCFWzEO9KiD/abe30452d9ed0c02adf8c674a9f82cd7/spotifyhero.jpg?w=480&amp;fm=webp 480w,//images.ctfassets.net/aukesvz1i7g8/5s3nMriKbZ3uCFWzEO9KiD/abe30452d9ed0c02adf8c674a9f82cd7/spotifyhero.jpg?w=240&amp;fm=webp 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/webp"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/5s3nMriKbZ3uCFWzEO9KiD/abe30452d9ed0c02adf8c674a9f82cd7/spotifyhero.jpg?w=1200&amp;fm=jpg 1200w,//images.ctfassets.net/aukesvz1i7g8/5s3nMriKbZ3uCFWzEO9KiD/abe30452d9ed0c02adf8c674a9f82cd7/spotifyhero.jpg?w=960&amp;fm=jpg 960w,//images.ctfassets.net/aukesvz1i7g8/5s3nMriKbZ3uCFWzEO9KiD/abe30452d9ed0c02adf8c674a9f82cd7/spotifyhero.jpg?w=720&amp;fm=jpg 720w,//images.ctfassets.net/aukesvz1i7g8/5s3nMriKbZ3uCFWzEO9KiD/abe30452d9ed0c02adf8c674a9f82cd7/spotifyhero.jpg?w=600&amp;fm=jpg 600w,//images.ctfassets.net/aukesvz1i7g8/5s3nMriKbZ3uCFWzEO9KiD/abe30452d9ed0c02adf8c674a9f82cd7/spotifyhero.jpg?w=480&amp;fm=jpg 480w,//images.ctfassets.net/aukesvz1i7g8/5s3nMriKbZ3uCFWzEO9KiD/abe30452d9ed0c02adf8c674a9f82cd7/spotifyhero.jpg?w=240&amp;fm=jpg 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/jpeg"></source>
+  <img class="d-block width-full height-full object-fit-cover rounded-2" width="1200" height="1400" loading="lazy" decoding="async" alt="" src="//images.ctfassets.net/aukesvz1i7g8/5s3nMriKbZ3uCFWzEO9KiD/abe30452d9ed0c02adf8c674a9f82cd7/spotifyhero.jpg?w=1200&amp;fm=jpg" />
+</picture>
+      </div>
+        <div  class="position-absolute top-0 right-0 mt-2 mr-2">
+          <span
+            class="d-inline-block rounded p-2 mx-auto"
+            style="background-color: rgba(0,0,0,0.5);"
+          >
+            <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-device-camera-video d-block color-fg-on-emphasis">
+    <path d="M16 3.75v8.5a.75.75 0 0 1-1.136.643L11 10.575v.675A1.75 1.75 0 0 1 9.25 13h-7.5A1.75 1.75 0 0 1 0 11.25v-6.5C0 3.784.784 3 1.75 3h7.5c.966 0 1.75.784 1.75 1.75v.675l3.864-2.318A.75.75 0 0 1 16 3.75Zm-6.5 1a.25.25 0 0 0-.25-.25h-7.5a.25.25 0 0 0-.25.25v6.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-6.5ZM11 8.825l3.5 2.1v-5.85l-3.5 2.1Z"></path>
+</svg>
+          </span>
+        </div>
+    </div>
+    <h3  class="f4-mktg color-fg-muted pb-2" aria-hidden="true"> Spotify</h3>
+    <p  class="h6-mktg color-fg-default py-1 pb-sm-4 text-semibold" aria-hidden="true">Spotify developers meet 217 million monthly listeners where they are with seamless collaboration, continuous integration, and GitHub Enterprise.</p>
+    <p class="f4 d-block d-sm-inline no-underline text-semibold arrow-target-mktg color-fg-accent" aria-hidden="true">
+      Read story <svg xmlns="http://www.w3.org/2000/svg" class="octicon arrow-symbol-mktg octicon" width="16" height="16" viewBox="0 0 16 16" fill="none"><path fill="currentColor" d="M7.28033 3.21967C6.98744 2.92678 6.51256 2.92678 6.21967 3.21967C5.92678 3.51256 5.92678 3.98744 6.21967 4.28033L7.28033 3.21967ZM11 8L11.5303 8.53033C11.8232 8.23744 11.8232 7.76256 11.5303 7.46967L11 8ZM6.21967 11.7197C5.92678 12.0126 5.92678 12.4874 6.21967 12.7803C6.51256 13.0732 6.98744 13.0732 7.28033 12.7803L6.21967 11.7197ZM6.21967 4.28033L10.4697 8.53033L11.5303 7.46967L7.28033 3.21967L6.21967 4.28033ZM10.4697 7.46967L6.21967 11.7197L7.28033 12.7803L11.5303 8.53033L10.4697 7.46967Z"></path><path class="octicon-chevrow-stem" stroke="currentColor" d="M1.75 8H11" stroke-width="1.5" stroke-linecap="round"></path></svg>
+
+    </p>
+  </a>
+</div>
+
+  </template>
+</turbo-stream>
+
+  <turbo-stream action="remove" target="load-more-stories-button" ></turbo-stream>

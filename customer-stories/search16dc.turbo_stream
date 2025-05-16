@@ -1,0 +1,317 @@
+<turbo-stream action="append" target="story-cards-grid" >
+  <template>
+      <div  class="py-2 py-sm-4 mb-4 col-md-4">
+  <a
+    href="/customer-stories/national-university-singapore"
+    class="no-underline d-block rounded-1 Link--outlineOffset"
+  >
+    <span class="sr-only">Read more about National University Singapore&apos;s customer story</span>
+    <div class="mb-4 position-relative">
+      <div style="height: 268px">
+        <picture>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/5W1TyrrUv0bXeLBHLH1gDe/95d05a7c811510e7fcaa1ff97fd3734d/School_of_Computing_03.jpg?w=1200&amp;fm=avif 1200w,//images.ctfassets.net/aukesvz1i7g8/5W1TyrrUv0bXeLBHLH1gDe/95d05a7c811510e7fcaa1ff97fd3734d/School_of_Computing_03.jpg?w=960&amp;fm=avif 960w,//images.ctfassets.net/aukesvz1i7g8/5W1TyrrUv0bXeLBHLH1gDe/95d05a7c811510e7fcaa1ff97fd3734d/School_of_Computing_03.jpg?w=720&amp;fm=avif 720w,//images.ctfassets.net/aukesvz1i7g8/5W1TyrrUv0bXeLBHLH1gDe/95d05a7c811510e7fcaa1ff97fd3734d/School_of_Computing_03.jpg?w=600&amp;fm=avif 600w,//images.ctfassets.net/aukesvz1i7g8/5W1TyrrUv0bXeLBHLH1gDe/95d05a7c811510e7fcaa1ff97fd3734d/School_of_Computing_03.jpg?w=480&amp;fm=avif 480w,//images.ctfassets.net/aukesvz1i7g8/5W1TyrrUv0bXeLBHLH1gDe/95d05a7c811510e7fcaa1ff97fd3734d/School_of_Computing_03.jpg?w=240&amp;fm=avif 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/avif"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/5W1TyrrUv0bXeLBHLH1gDe/95d05a7c811510e7fcaa1ff97fd3734d/School_of_Computing_03.jpg?w=1200&amp;fm=webp 1200w,//images.ctfassets.net/aukesvz1i7g8/5W1TyrrUv0bXeLBHLH1gDe/95d05a7c811510e7fcaa1ff97fd3734d/School_of_Computing_03.jpg?w=960&amp;fm=webp 960w,//images.ctfassets.net/aukesvz1i7g8/5W1TyrrUv0bXeLBHLH1gDe/95d05a7c811510e7fcaa1ff97fd3734d/School_of_Computing_03.jpg?w=720&amp;fm=webp 720w,//images.ctfassets.net/aukesvz1i7g8/5W1TyrrUv0bXeLBHLH1gDe/95d05a7c811510e7fcaa1ff97fd3734d/School_of_Computing_03.jpg?w=600&amp;fm=webp 600w,//images.ctfassets.net/aukesvz1i7g8/5W1TyrrUv0bXeLBHLH1gDe/95d05a7c811510e7fcaa1ff97fd3734d/School_of_Computing_03.jpg?w=480&amp;fm=webp 480w,//images.ctfassets.net/aukesvz1i7g8/5W1TyrrUv0bXeLBHLH1gDe/95d05a7c811510e7fcaa1ff97fd3734d/School_of_Computing_03.jpg?w=240&amp;fm=webp 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/webp"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/5W1TyrrUv0bXeLBHLH1gDe/95d05a7c811510e7fcaa1ff97fd3734d/School_of_Computing_03.jpg?w=1200&amp;fm=jpg 1200w,//images.ctfassets.net/aukesvz1i7g8/5W1TyrrUv0bXeLBHLH1gDe/95d05a7c811510e7fcaa1ff97fd3734d/School_of_Computing_03.jpg?w=960&amp;fm=jpg 960w,//images.ctfassets.net/aukesvz1i7g8/5W1TyrrUv0bXeLBHLH1gDe/95d05a7c811510e7fcaa1ff97fd3734d/School_of_Computing_03.jpg?w=720&amp;fm=jpg 720w,//images.ctfassets.net/aukesvz1i7g8/5W1TyrrUv0bXeLBHLH1gDe/95d05a7c811510e7fcaa1ff97fd3734d/School_of_Computing_03.jpg?w=600&amp;fm=jpg 600w,//images.ctfassets.net/aukesvz1i7g8/5W1TyrrUv0bXeLBHLH1gDe/95d05a7c811510e7fcaa1ff97fd3734d/School_of_Computing_03.jpg?w=480&amp;fm=jpg 480w,//images.ctfassets.net/aukesvz1i7g8/5W1TyrrUv0bXeLBHLH1gDe/95d05a7c811510e7fcaa1ff97fd3734d/School_of_Computing_03.jpg?w=240&amp;fm=jpg 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/jpeg"></source>
+  <img class="d-block width-full height-full object-fit-cover rounded-2" width="1200" height="1400" loading="lazy" decoding="async" alt="" src="//images.ctfassets.net/aukesvz1i7g8/5W1TyrrUv0bXeLBHLH1gDe/95d05a7c811510e7fcaa1ff97fd3734d/School_of_Computing_03.jpg?w=1200&amp;fm=jpg" />
+</picture>
+      </div>
+    </div>
+    <h3  class="f4-mktg color-fg-muted pb-2" aria-hidden="true"> National University Singapore</h3>
+    <p  class="h6-mktg color-fg-default py-1 pb-sm-4 text-semibold" aria-hidden="true">National University of Singapore future-proofs students with GitHub.</p>
+    <p class="f4 d-block d-sm-inline no-underline text-semibold arrow-target-mktg color-fg-accent" aria-hidden="true">
+      Read story <svg xmlns="http://www.w3.org/2000/svg" class="octicon arrow-symbol-mktg octicon" width="16" height="16" viewBox="0 0 16 16" fill="none"><path fill="currentColor" d="M7.28033 3.21967C6.98744 2.92678 6.51256 2.92678 6.21967 3.21967C5.92678 3.51256 5.92678 3.98744 6.21967 4.28033L7.28033 3.21967ZM11 8L11.5303 8.53033C11.8232 8.23744 11.8232 7.76256 11.5303 7.46967L11 8ZM6.21967 11.7197C5.92678 12.0126 5.92678 12.4874 6.21967 12.7803C6.51256 13.0732 6.98744 13.0732 7.28033 12.7803L6.21967 11.7197ZM6.21967 4.28033L10.4697 8.53033L11.5303 7.46967L7.28033 3.21967L6.21967 4.28033ZM10.4697 7.46967L6.21967 11.7197L7.28033 12.7803L11.5303 8.53033L10.4697 7.46967Z"></path><path class="octicon-chevrow-stem" stroke="currentColor" d="M1.75 8H11" stroke-width="1.5" stroke-linecap="round"></path></svg>
+
+    </p>
+  </a>
+</div>
+
+      <div  class="py-2 py-sm-4 mb-4 col-md-4">
+  <a
+    href="/customer-stories/hover"
+    class="no-underline d-block rounded-1 Link--outlineOffset"
+  >
+    <span class="sr-only">Read more about HOVER&apos;s customer story</span>
+    <div class="mb-4 position-relative">
+      <div style="height: 268px">
+        <picture>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/3waEypt0VeHWwXaOhRyPBG/ae1e9fe3e58220253fea868a00f47173/1_3D_Models_Desktop.avif?w=1200&amp;fm=avif 1200w,//images.ctfassets.net/aukesvz1i7g8/3waEypt0VeHWwXaOhRyPBG/ae1e9fe3e58220253fea868a00f47173/1_3D_Models_Desktop.avif?w=960&amp;fm=avif 960w,//images.ctfassets.net/aukesvz1i7g8/3waEypt0VeHWwXaOhRyPBG/ae1e9fe3e58220253fea868a00f47173/1_3D_Models_Desktop.avif?w=720&amp;fm=avif 720w,//images.ctfassets.net/aukesvz1i7g8/3waEypt0VeHWwXaOhRyPBG/ae1e9fe3e58220253fea868a00f47173/1_3D_Models_Desktop.avif?w=600&amp;fm=avif 600w,//images.ctfassets.net/aukesvz1i7g8/3waEypt0VeHWwXaOhRyPBG/ae1e9fe3e58220253fea868a00f47173/1_3D_Models_Desktop.avif?w=480&amp;fm=avif 480w,//images.ctfassets.net/aukesvz1i7g8/3waEypt0VeHWwXaOhRyPBG/ae1e9fe3e58220253fea868a00f47173/1_3D_Models_Desktop.avif?w=240&amp;fm=avif 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/avif"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/3waEypt0VeHWwXaOhRyPBG/ae1e9fe3e58220253fea868a00f47173/1_3D_Models_Desktop.avif?w=1200&amp;fm=webp 1200w,//images.ctfassets.net/aukesvz1i7g8/3waEypt0VeHWwXaOhRyPBG/ae1e9fe3e58220253fea868a00f47173/1_3D_Models_Desktop.avif?w=960&amp;fm=webp 960w,//images.ctfassets.net/aukesvz1i7g8/3waEypt0VeHWwXaOhRyPBG/ae1e9fe3e58220253fea868a00f47173/1_3D_Models_Desktop.avif?w=720&amp;fm=webp 720w,//images.ctfassets.net/aukesvz1i7g8/3waEypt0VeHWwXaOhRyPBG/ae1e9fe3e58220253fea868a00f47173/1_3D_Models_Desktop.avif?w=600&amp;fm=webp 600w,//images.ctfassets.net/aukesvz1i7g8/3waEypt0VeHWwXaOhRyPBG/ae1e9fe3e58220253fea868a00f47173/1_3D_Models_Desktop.avif?w=480&amp;fm=webp 480w,//images.ctfassets.net/aukesvz1i7g8/3waEypt0VeHWwXaOhRyPBG/ae1e9fe3e58220253fea868a00f47173/1_3D_Models_Desktop.avif?w=240&amp;fm=webp 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/webp"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/3waEypt0VeHWwXaOhRyPBG/ae1e9fe3e58220253fea868a00f47173/1_3D_Models_Desktop.avif?w=1200&amp;fm=jpg 1200w,//images.ctfassets.net/aukesvz1i7g8/3waEypt0VeHWwXaOhRyPBG/ae1e9fe3e58220253fea868a00f47173/1_3D_Models_Desktop.avif?w=960&amp;fm=jpg 960w,//images.ctfassets.net/aukesvz1i7g8/3waEypt0VeHWwXaOhRyPBG/ae1e9fe3e58220253fea868a00f47173/1_3D_Models_Desktop.avif?w=720&amp;fm=jpg 720w,//images.ctfassets.net/aukesvz1i7g8/3waEypt0VeHWwXaOhRyPBG/ae1e9fe3e58220253fea868a00f47173/1_3D_Models_Desktop.avif?w=600&amp;fm=jpg 600w,//images.ctfassets.net/aukesvz1i7g8/3waEypt0VeHWwXaOhRyPBG/ae1e9fe3e58220253fea868a00f47173/1_3D_Models_Desktop.avif?w=480&amp;fm=jpg 480w,//images.ctfassets.net/aukesvz1i7g8/3waEypt0VeHWwXaOhRyPBG/ae1e9fe3e58220253fea868a00f47173/1_3D_Models_Desktop.avif?w=240&amp;fm=jpg 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/jpeg"></source>
+  <img class="d-block width-full height-full object-fit-cover rounded-2" width="1200" height="1400" loading="lazy" decoding="async" alt="" src="//images.ctfassets.net/aukesvz1i7g8/3waEypt0VeHWwXaOhRyPBG/ae1e9fe3e58220253fea868a00f47173/1_3D_Models_Desktop.avif?w=1200&amp;fm=jpg" />
+</picture>
+      </div>
+    </div>
+    <h3  class="f4-mktg color-fg-muted pb-2" aria-hidden="true"> HOVER</h3>
+    <p  class="h6-mktg color-fg-default py-1 pb-sm-4 text-semibold" aria-hidden="true">HOVER keeps developers in the flow with GitHub’s integrated development platform.</p>
+    <p class="f4 d-block d-sm-inline no-underline text-semibold arrow-target-mktg color-fg-accent" aria-hidden="true">
+      Read story <svg xmlns="http://www.w3.org/2000/svg" class="octicon arrow-symbol-mktg octicon" width="16" height="16" viewBox="0 0 16 16" fill="none"><path fill="currentColor" d="M7.28033 3.21967C6.98744 2.92678 6.51256 2.92678 6.21967 3.21967C5.92678 3.51256 5.92678 3.98744 6.21967 4.28033L7.28033 3.21967ZM11 8L11.5303 8.53033C11.8232 8.23744 11.8232 7.76256 11.5303 7.46967L11 8ZM6.21967 11.7197C5.92678 12.0126 5.92678 12.4874 6.21967 12.7803C6.51256 13.0732 6.98744 13.0732 7.28033 12.7803L6.21967 11.7197ZM6.21967 4.28033L10.4697 8.53033L11.5303 7.46967L7.28033 3.21967L6.21967 4.28033ZM10.4697 7.46967L6.21967 11.7197L7.28033 12.7803L11.5303 8.53033L10.4697 7.46967Z"></path><path class="octicon-chevrow-stem" stroke="currentColor" d="M1.75 8H11" stroke-width="1.5" stroke-linecap="round"></path></svg>
+
+    </p>
+  </a>
+</div>
+
+      <div  class="py-2 py-sm-4 mb-4 col-md-4">
+  <a
+    href="/customer-stories/itau"
+    class="no-underline d-block rounded-1 Link--outlineOffset"
+  >
+    <span class="sr-only">Read more about Itaú &apos;s customer story</span>
+    <div class="mb-4 position-relative">
+      <div style="height: 268px">
+        <picture>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/36pazlJDnfxxUO3oF5bj4w/5cd8cf0062334166e016e1ac982a1a70/1650395106826.jpg?w=1200&amp;fm=avif 1200w,//images.ctfassets.net/aukesvz1i7g8/36pazlJDnfxxUO3oF5bj4w/5cd8cf0062334166e016e1ac982a1a70/1650395106826.jpg?w=960&amp;fm=avif 960w,//images.ctfassets.net/aukesvz1i7g8/36pazlJDnfxxUO3oF5bj4w/5cd8cf0062334166e016e1ac982a1a70/1650395106826.jpg?w=720&amp;fm=avif 720w,//images.ctfassets.net/aukesvz1i7g8/36pazlJDnfxxUO3oF5bj4w/5cd8cf0062334166e016e1ac982a1a70/1650395106826.jpg?w=600&amp;fm=avif 600w,//images.ctfassets.net/aukesvz1i7g8/36pazlJDnfxxUO3oF5bj4w/5cd8cf0062334166e016e1ac982a1a70/1650395106826.jpg?w=480&amp;fm=avif 480w,//images.ctfassets.net/aukesvz1i7g8/36pazlJDnfxxUO3oF5bj4w/5cd8cf0062334166e016e1ac982a1a70/1650395106826.jpg?w=240&amp;fm=avif 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/avif"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/36pazlJDnfxxUO3oF5bj4w/5cd8cf0062334166e016e1ac982a1a70/1650395106826.jpg?w=1200&amp;fm=webp 1200w,//images.ctfassets.net/aukesvz1i7g8/36pazlJDnfxxUO3oF5bj4w/5cd8cf0062334166e016e1ac982a1a70/1650395106826.jpg?w=960&amp;fm=webp 960w,//images.ctfassets.net/aukesvz1i7g8/36pazlJDnfxxUO3oF5bj4w/5cd8cf0062334166e016e1ac982a1a70/1650395106826.jpg?w=720&amp;fm=webp 720w,//images.ctfassets.net/aukesvz1i7g8/36pazlJDnfxxUO3oF5bj4w/5cd8cf0062334166e016e1ac982a1a70/1650395106826.jpg?w=600&amp;fm=webp 600w,//images.ctfassets.net/aukesvz1i7g8/36pazlJDnfxxUO3oF5bj4w/5cd8cf0062334166e016e1ac982a1a70/1650395106826.jpg?w=480&amp;fm=webp 480w,//images.ctfassets.net/aukesvz1i7g8/36pazlJDnfxxUO3oF5bj4w/5cd8cf0062334166e016e1ac982a1a70/1650395106826.jpg?w=240&amp;fm=webp 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/webp"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/36pazlJDnfxxUO3oF5bj4w/5cd8cf0062334166e016e1ac982a1a70/1650395106826.jpg?w=1200&amp;fm=jpg 1200w,//images.ctfassets.net/aukesvz1i7g8/36pazlJDnfxxUO3oF5bj4w/5cd8cf0062334166e016e1ac982a1a70/1650395106826.jpg?w=960&amp;fm=jpg 960w,//images.ctfassets.net/aukesvz1i7g8/36pazlJDnfxxUO3oF5bj4w/5cd8cf0062334166e016e1ac982a1a70/1650395106826.jpg?w=720&amp;fm=jpg 720w,//images.ctfassets.net/aukesvz1i7g8/36pazlJDnfxxUO3oF5bj4w/5cd8cf0062334166e016e1ac982a1a70/1650395106826.jpg?w=600&amp;fm=jpg 600w,//images.ctfassets.net/aukesvz1i7g8/36pazlJDnfxxUO3oF5bj4w/5cd8cf0062334166e016e1ac982a1a70/1650395106826.jpg?w=480&amp;fm=jpg 480w,//images.ctfassets.net/aukesvz1i7g8/36pazlJDnfxxUO3oF5bj4w/5cd8cf0062334166e016e1ac982a1a70/1650395106826.jpg?w=240&amp;fm=jpg 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/jpeg"></source>
+  <img class="d-block width-full height-full object-fit-cover rounded-2" width="1200" height="1400" loading="lazy" decoding="async" alt="" src="//images.ctfassets.net/aukesvz1i7g8/36pazlJDnfxxUO3oF5bj4w/5cd8cf0062334166e016e1ac982a1a70/1650395106826.jpg?w=1200&amp;fm=jpg" />
+</picture>
+      </div>
+    </div>
+    <h3  class="f4-mktg color-fg-muted pb-2" aria-hidden="true"> Itaú </h3>
+    <p  class="h6-mktg color-fg-default py-1 pb-sm-4 text-semibold" aria-hidden="true">Itaú delivers software faster with GitHub Enterprise.</p>
+    <p class="f4 d-block d-sm-inline no-underline text-semibold arrow-target-mktg color-fg-accent" aria-hidden="true">
+      Read story <svg xmlns="http://www.w3.org/2000/svg" class="octicon arrow-symbol-mktg octicon" width="16" height="16" viewBox="0 0 16 16" fill="none"><path fill="currentColor" d="M7.28033 3.21967C6.98744 2.92678 6.51256 2.92678 6.21967 3.21967C5.92678 3.51256 5.92678 3.98744 6.21967 4.28033L7.28033 3.21967ZM11 8L11.5303 8.53033C11.8232 8.23744 11.8232 7.76256 11.5303 7.46967L11 8ZM6.21967 11.7197C5.92678 12.0126 5.92678 12.4874 6.21967 12.7803C6.51256 13.0732 6.98744 13.0732 7.28033 12.7803L6.21967 11.7197ZM6.21967 4.28033L10.4697 8.53033L11.5303 7.46967L7.28033 3.21967L6.21967 4.28033ZM10.4697 7.46967L6.21967 11.7197L7.28033 12.7803L11.5303 8.53033L10.4697 7.46967Z"></path><path class="octicon-chevrow-stem" stroke="currentColor" d="M1.75 8H11" stroke-width="1.5" stroke-linecap="round"></path></svg>
+
+    </p>
+  </a>
+</div>
+
+      <div  class="py-2 py-sm-4 mb-4 col-md-4">
+  <a
+    href="/customer-stories/sph-media"
+    class="no-underline d-block rounded-1 Link--outlineOffset"
+  >
+    <span class="sr-only">Read more about SPH Media&apos;s customer story</span>
+    <div class="mb-4 position-relative">
+      <div style="height: 268px">
+        <picture>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/4efMTQBhOArW82DvW8gyGf/643bbce596119630248bb56235e5301f/IMG_8444.JPG?w=1200&amp;fm=avif 1200w,//images.ctfassets.net/aukesvz1i7g8/4efMTQBhOArW82DvW8gyGf/643bbce596119630248bb56235e5301f/IMG_8444.JPG?w=960&amp;fm=avif 960w,//images.ctfassets.net/aukesvz1i7g8/4efMTQBhOArW82DvW8gyGf/643bbce596119630248bb56235e5301f/IMG_8444.JPG?w=720&amp;fm=avif 720w,//images.ctfassets.net/aukesvz1i7g8/4efMTQBhOArW82DvW8gyGf/643bbce596119630248bb56235e5301f/IMG_8444.JPG?w=600&amp;fm=avif 600w,//images.ctfassets.net/aukesvz1i7g8/4efMTQBhOArW82DvW8gyGf/643bbce596119630248bb56235e5301f/IMG_8444.JPG?w=480&amp;fm=avif 480w,//images.ctfassets.net/aukesvz1i7g8/4efMTQBhOArW82DvW8gyGf/643bbce596119630248bb56235e5301f/IMG_8444.JPG?w=240&amp;fm=avif 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/avif"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/4efMTQBhOArW82DvW8gyGf/643bbce596119630248bb56235e5301f/IMG_8444.JPG?w=1200&amp;fm=webp 1200w,//images.ctfassets.net/aukesvz1i7g8/4efMTQBhOArW82DvW8gyGf/643bbce596119630248bb56235e5301f/IMG_8444.JPG?w=960&amp;fm=webp 960w,//images.ctfassets.net/aukesvz1i7g8/4efMTQBhOArW82DvW8gyGf/643bbce596119630248bb56235e5301f/IMG_8444.JPG?w=720&amp;fm=webp 720w,//images.ctfassets.net/aukesvz1i7g8/4efMTQBhOArW82DvW8gyGf/643bbce596119630248bb56235e5301f/IMG_8444.JPG?w=600&amp;fm=webp 600w,//images.ctfassets.net/aukesvz1i7g8/4efMTQBhOArW82DvW8gyGf/643bbce596119630248bb56235e5301f/IMG_8444.JPG?w=480&amp;fm=webp 480w,//images.ctfassets.net/aukesvz1i7g8/4efMTQBhOArW82DvW8gyGf/643bbce596119630248bb56235e5301f/IMG_8444.JPG?w=240&amp;fm=webp 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/webp"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/4efMTQBhOArW82DvW8gyGf/643bbce596119630248bb56235e5301f/IMG_8444.JPG?w=1200&amp;fm=jpg 1200w,//images.ctfassets.net/aukesvz1i7g8/4efMTQBhOArW82DvW8gyGf/643bbce596119630248bb56235e5301f/IMG_8444.JPG?w=960&amp;fm=jpg 960w,//images.ctfassets.net/aukesvz1i7g8/4efMTQBhOArW82DvW8gyGf/643bbce596119630248bb56235e5301f/IMG_8444.JPG?w=720&amp;fm=jpg 720w,//images.ctfassets.net/aukesvz1i7g8/4efMTQBhOArW82DvW8gyGf/643bbce596119630248bb56235e5301f/IMG_8444.JPG?w=600&amp;fm=jpg 600w,//images.ctfassets.net/aukesvz1i7g8/4efMTQBhOArW82DvW8gyGf/643bbce596119630248bb56235e5301f/IMG_8444.JPG?w=480&amp;fm=jpg 480w,//images.ctfassets.net/aukesvz1i7g8/4efMTQBhOArW82DvW8gyGf/643bbce596119630248bb56235e5301f/IMG_8444.JPG?w=240&amp;fm=jpg 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/jpeg"></source>
+  <img class="d-block width-full height-full object-fit-cover rounded-2" width="1200" height="1400" loading="lazy" decoding="async" alt="" src="//images.ctfassets.net/aukesvz1i7g8/4efMTQBhOArW82DvW8gyGf/643bbce596119630248bb56235e5301f/IMG_8444.JPG?w=1200&amp;fm=jpg" />
+</picture>
+      </div>
+    </div>
+    <h3  class="f4-mktg color-fg-muted pb-2" aria-hidden="true"> SPH Media</h3>
+    <p  class="h6-mktg color-fg-default py-1 pb-sm-4 text-semibold" aria-hidden="true">SPH Media tames tool sprawl and secures code with GitHub.</p>
+    <p class="f4 d-block d-sm-inline no-underline text-semibold arrow-target-mktg color-fg-accent" aria-hidden="true">
+      Read story <svg xmlns="http://www.w3.org/2000/svg" class="octicon arrow-symbol-mktg octicon" width="16" height="16" viewBox="0 0 16 16" fill="none"><path fill="currentColor" d="M7.28033 3.21967C6.98744 2.92678 6.51256 2.92678 6.21967 3.21967C5.92678 3.51256 5.92678 3.98744 6.21967 4.28033L7.28033 3.21967ZM11 8L11.5303 8.53033C11.8232 8.23744 11.8232 7.76256 11.5303 7.46967L11 8ZM6.21967 11.7197C5.92678 12.0126 5.92678 12.4874 6.21967 12.7803C6.51256 13.0732 6.98744 13.0732 7.28033 12.7803L6.21967 11.7197ZM6.21967 4.28033L10.4697 8.53033L11.5303 7.46967L7.28033 3.21967L6.21967 4.28033ZM10.4697 7.46967L6.21967 11.7197L7.28033 12.7803L11.5303 8.53033L10.4697 7.46967Z"></path><path class="octicon-chevrow-stem" stroke="currentColor" d="M1.75 8H11" stroke-width="1.5" stroke-linecap="round"></path></svg>
+
+    </p>
+  </a>
+</div>
+
+      <div  class="py-2 py-sm-4 mb-4 col-md-4">
+  <a
+    href="/customer-stories/raiffeisen-bank"
+    class="no-underline d-block rounded-1 Link--outlineOffset"
+  >
+    <span class="sr-only">Read more about Raiffeisen Bank International&apos;s customer story</span>
+    <div class="mb-4 position-relative">
+      <div style="height: 268px">
+        <picture>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/4TqXdj1RDvOlk6EGXlItwF/28f95a9a822650ae7522dc9fdb8ef62f/21052-04-RBI-Award-_002_.jpg?w=1200&amp;fm=avif 1200w,//images.ctfassets.net/aukesvz1i7g8/4TqXdj1RDvOlk6EGXlItwF/28f95a9a822650ae7522dc9fdb8ef62f/21052-04-RBI-Award-_002_.jpg?w=960&amp;fm=avif 960w,//images.ctfassets.net/aukesvz1i7g8/4TqXdj1RDvOlk6EGXlItwF/28f95a9a822650ae7522dc9fdb8ef62f/21052-04-RBI-Award-_002_.jpg?w=720&amp;fm=avif 720w,//images.ctfassets.net/aukesvz1i7g8/4TqXdj1RDvOlk6EGXlItwF/28f95a9a822650ae7522dc9fdb8ef62f/21052-04-RBI-Award-_002_.jpg?w=600&amp;fm=avif 600w,//images.ctfassets.net/aukesvz1i7g8/4TqXdj1RDvOlk6EGXlItwF/28f95a9a822650ae7522dc9fdb8ef62f/21052-04-RBI-Award-_002_.jpg?w=480&amp;fm=avif 480w,//images.ctfassets.net/aukesvz1i7g8/4TqXdj1RDvOlk6EGXlItwF/28f95a9a822650ae7522dc9fdb8ef62f/21052-04-RBI-Award-_002_.jpg?w=240&amp;fm=avif 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/avif"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/4TqXdj1RDvOlk6EGXlItwF/28f95a9a822650ae7522dc9fdb8ef62f/21052-04-RBI-Award-_002_.jpg?w=1200&amp;fm=webp 1200w,//images.ctfassets.net/aukesvz1i7g8/4TqXdj1RDvOlk6EGXlItwF/28f95a9a822650ae7522dc9fdb8ef62f/21052-04-RBI-Award-_002_.jpg?w=960&amp;fm=webp 960w,//images.ctfassets.net/aukesvz1i7g8/4TqXdj1RDvOlk6EGXlItwF/28f95a9a822650ae7522dc9fdb8ef62f/21052-04-RBI-Award-_002_.jpg?w=720&amp;fm=webp 720w,//images.ctfassets.net/aukesvz1i7g8/4TqXdj1RDvOlk6EGXlItwF/28f95a9a822650ae7522dc9fdb8ef62f/21052-04-RBI-Award-_002_.jpg?w=600&amp;fm=webp 600w,//images.ctfassets.net/aukesvz1i7g8/4TqXdj1RDvOlk6EGXlItwF/28f95a9a822650ae7522dc9fdb8ef62f/21052-04-RBI-Award-_002_.jpg?w=480&amp;fm=webp 480w,//images.ctfassets.net/aukesvz1i7g8/4TqXdj1RDvOlk6EGXlItwF/28f95a9a822650ae7522dc9fdb8ef62f/21052-04-RBI-Award-_002_.jpg?w=240&amp;fm=webp 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/webp"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/4TqXdj1RDvOlk6EGXlItwF/28f95a9a822650ae7522dc9fdb8ef62f/21052-04-RBI-Award-_002_.jpg?w=1200&amp;fm=jpg 1200w,//images.ctfassets.net/aukesvz1i7g8/4TqXdj1RDvOlk6EGXlItwF/28f95a9a822650ae7522dc9fdb8ef62f/21052-04-RBI-Award-_002_.jpg?w=960&amp;fm=jpg 960w,//images.ctfassets.net/aukesvz1i7g8/4TqXdj1RDvOlk6EGXlItwF/28f95a9a822650ae7522dc9fdb8ef62f/21052-04-RBI-Award-_002_.jpg?w=720&amp;fm=jpg 720w,//images.ctfassets.net/aukesvz1i7g8/4TqXdj1RDvOlk6EGXlItwF/28f95a9a822650ae7522dc9fdb8ef62f/21052-04-RBI-Award-_002_.jpg?w=600&amp;fm=jpg 600w,//images.ctfassets.net/aukesvz1i7g8/4TqXdj1RDvOlk6EGXlItwF/28f95a9a822650ae7522dc9fdb8ef62f/21052-04-RBI-Award-_002_.jpg?w=480&amp;fm=jpg 480w,//images.ctfassets.net/aukesvz1i7g8/4TqXdj1RDvOlk6EGXlItwF/28f95a9a822650ae7522dc9fdb8ef62f/21052-04-RBI-Award-_002_.jpg?w=240&amp;fm=jpg 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/jpeg"></source>
+  <img class="d-block width-full height-full object-fit-cover rounded-2" width="1200" height="1400" loading="lazy" decoding="async" alt="" src="//images.ctfassets.net/aukesvz1i7g8/4TqXdj1RDvOlk6EGXlItwF/28f95a9a822650ae7522dc9fdb8ef62f/21052-04-RBI-Award-_002_.jpg?w=1200&amp;fm=jpg" />
+</picture>
+      </div>
+    </div>
+    <h3  class="f4-mktg color-fg-muted pb-2" aria-hidden="true"> Raiffeisen Bank International</h3>
+    <p  class="h6-mktg color-fg-default py-1 pb-sm-4 text-semibold" aria-hidden="true">Raiffeisen Bank International delivers better, more secure customer experiences with GitHub.</p>
+    <p class="f4 d-block d-sm-inline no-underline text-semibold arrow-target-mktg color-fg-accent" aria-hidden="true">
+      Read story <svg xmlns="http://www.w3.org/2000/svg" class="octicon arrow-symbol-mktg octicon" width="16" height="16" viewBox="0 0 16 16" fill="none"><path fill="currentColor" d="M7.28033 3.21967C6.98744 2.92678 6.51256 2.92678 6.21967 3.21967C5.92678 3.51256 5.92678 3.98744 6.21967 4.28033L7.28033 3.21967ZM11 8L11.5303 8.53033C11.8232 8.23744 11.8232 7.76256 11.5303 7.46967L11 8ZM6.21967 11.7197C5.92678 12.0126 5.92678 12.4874 6.21967 12.7803C6.51256 13.0732 6.98744 13.0732 7.28033 12.7803L6.21967 11.7197ZM6.21967 4.28033L10.4697 8.53033L11.5303 7.46967L7.28033 3.21967L6.21967 4.28033ZM10.4697 7.46967L6.21967 11.7197L7.28033 12.7803L11.5303 8.53033L10.4697 7.46967Z"></path><path class="octicon-chevrow-stem" stroke="currentColor" d="M1.75 8H11" stroke-width="1.5" stroke-linecap="round"></path></svg>
+
+    </p>
+  </a>
+</div>
+
+      <div  class="py-2 py-sm-4 mb-4 col-md-4">
+  <a
+    href="/customer-stories/otto-group"
+    class="no-underline d-block rounded-1 Link--outlineOffset"
+  >
+    <span class="sr-only">Read more about Otto Group&apos;s customer story</span>
+    <div class="mb-4 position-relative">
+      <div style="height: 268px">
+        <picture>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/51CHudXJEeB1FwcywHMIOl/c08aef099089493b1a689a1d7b1d17d0/Otto_Group_Campus_01.jpg?w=1200&amp;fm=avif 1200w,//images.ctfassets.net/aukesvz1i7g8/51CHudXJEeB1FwcywHMIOl/c08aef099089493b1a689a1d7b1d17d0/Otto_Group_Campus_01.jpg?w=960&amp;fm=avif 960w,//images.ctfassets.net/aukesvz1i7g8/51CHudXJEeB1FwcywHMIOl/c08aef099089493b1a689a1d7b1d17d0/Otto_Group_Campus_01.jpg?w=720&amp;fm=avif 720w,//images.ctfassets.net/aukesvz1i7g8/51CHudXJEeB1FwcywHMIOl/c08aef099089493b1a689a1d7b1d17d0/Otto_Group_Campus_01.jpg?w=600&amp;fm=avif 600w,//images.ctfassets.net/aukesvz1i7g8/51CHudXJEeB1FwcywHMIOl/c08aef099089493b1a689a1d7b1d17d0/Otto_Group_Campus_01.jpg?w=480&amp;fm=avif 480w,//images.ctfassets.net/aukesvz1i7g8/51CHudXJEeB1FwcywHMIOl/c08aef099089493b1a689a1d7b1d17d0/Otto_Group_Campus_01.jpg?w=240&amp;fm=avif 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/avif"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/51CHudXJEeB1FwcywHMIOl/c08aef099089493b1a689a1d7b1d17d0/Otto_Group_Campus_01.jpg?w=1200&amp;fm=webp 1200w,//images.ctfassets.net/aukesvz1i7g8/51CHudXJEeB1FwcywHMIOl/c08aef099089493b1a689a1d7b1d17d0/Otto_Group_Campus_01.jpg?w=960&amp;fm=webp 960w,//images.ctfassets.net/aukesvz1i7g8/51CHudXJEeB1FwcywHMIOl/c08aef099089493b1a689a1d7b1d17d0/Otto_Group_Campus_01.jpg?w=720&amp;fm=webp 720w,//images.ctfassets.net/aukesvz1i7g8/51CHudXJEeB1FwcywHMIOl/c08aef099089493b1a689a1d7b1d17d0/Otto_Group_Campus_01.jpg?w=600&amp;fm=webp 600w,//images.ctfassets.net/aukesvz1i7g8/51CHudXJEeB1FwcywHMIOl/c08aef099089493b1a689a1d7b1d17d0/Otto_Group_Campus_01.jpg?w=480&amp;fm=webp 480w,//images.ctfassets.net/aukesvz1i7g8/51CHudXJEeB1FwcywHMIOl/c08aef099089493b1a689a1d7b1d17d0/Otto_Group_Campus_01.jpg?w=240&amp;fm=webp 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/webp"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/51CHudXJEeB1FwcywHMIOl/c08aef099089493b1a689a1d7b1d17d0/Otto_Group_Campus_01.jpg?w=1200&amp;fm=jpg 1200w,//images.ctfassets.net/aukesvz1i7g8/51CHudXJEeB1FwcywHMIOl/c08aef099089493b1a689a1d7b1d17d0/Otto_Group_Campus_01.jpg?w=960&amp;fm=jpg 960w,//images.ctfassets.net/aukesvz1i7g8/51CHudXJEeB1FwcywHMIOl/c08aef099089493b1a689a1d7b1d17d0/Otto_Group_Campus_01.jpg?w=720&amp;fm=jpg 720w,//images.ctfassets.net/aukesvz1i7g8/51CHudXJEeB1FwcywHMIOl/c08aef099089493b1a689a1d7b1d17d0/Otto_Group_Campus_01.jpg?w=600&amp;fm=jpg 600w,//images.ctfassets.net/aukesvz1i7g8/51CHudXJEeB1FwcywHMIOl/c08aef099089493b1a689a1d7b1d17d0/Otto_Group_Campus_01.jpg?w=480&amp;fm=jpg 480w,//images.ctfassets.net/aukesvz1i7g8/51CHudXJEeB1FwcywHMIOl/c08aef099089493b1a689a1d7b1d17d0/Otto_Group_Campus_01.jpg?w=240&amp;fm=jpg 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/jpeg"></source>
+  <img class="d-block width-full height-full object-fit-cover rounded-2" width="1200" height="1400" loading="lazy" decoding="async" alt="" src="//images.ctfassets.net/aukesvz1i7g8/51CHudXJEeB1FwcywHMIOl/c08aef099089493b1a689a1d7b1d17d0/Otto_Group_Campus_01.jpg?w=1200&amp;fm=jpg" />
+</picture>
+      </div>
+    </div>
+    <h3  class="f4-mktg color-fg-muted pb-2" aria-hidden="true"> Otto Group</h3>
+    <p  class="h6-mktg color-fg-default py-1 pb-sm-4 text-semibold" aria-hidden="true">Otto Group elevates developer engagement with GitHub Advanced Security.</p>
+    <p class="f4 d-block d-sm-inline no-underline text-semibold arrow-target-mktg color-fg-accent" aria-hidden="true">
+      Read story <svg xmlns="http://www.w3.org/2000/svg" class="octicon arrow-symbol-mktg octicon" width="16" height="16" viewBox="0 0 16 16" fill="none"><path fill="currentColor" d="M7.28033 3.21967C6.98744 2.92678 6.51256 2.92678 6.21967 3.21967C5.92678 3.51256 5.92678 3.98744 6.21967 4.28033L7.28033 3.21967ZM11 8L11.5303 8.53033C11.8232 8.23744 11.8232 7.76256 11.5303 7.46967L11 8ZM6.21967 11.7197C5.92678 12.0126 5.92678 12.4874 6.21967 12.7803C6.51256 13.0732 6.98744 13.0732 7.28033 12.7803L6.21967 11.7197ZM6.21967 4.28033L10.4697 8.53033L11.5303 7.46967L7.28033 3.21967L6.21967 4.28033ZM10.4697 7.46967L6.21967 11.7197L7.28033 12.7803L11.5303 8.53033L10.4697 7.46967Z"></path><path class="octicon-chevrow-stem" stroke="currentColor" d="M1.75 8H11" stroke-width="1.5" stroke-linecap="round"></path></svg>
+
+    </p>
+  </a>
+</div>
+
+      <div  class="py-2 py-sm-4 mb-4 col-md-4">
+  <a
+    href="/customer-stories/paramount-streaming"
+    class="no-underline d-block rounded-1 Link--outlineOffset"
+  >
+    <span class="sr-only">Read more about Paramount Streaming&apos;s customer story</span>
+    <div class="mb-4 position-relative">
+      <div style="height: 268px">
+        <picture>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/5LCaRTIbOWW6fXGzPf6iIj/44951a66df545b34e250b1627d7198ce/Paramount-hero.webp?w=1200&amp;fm=avif 1200w,//images.ctfassets.net/aukesvz1i7g8/5LCaRTIbOWW6fXGzPf6iIj/44951a66df545b34e250b1627d7198ce/Paramount-hero.webp?w=960&amp;fm=avif 960w,//images.ctfassets.net/aukesvz1i7g8/5LCaRTIbOWW6fXGzPf6iIj/44951a66df545b34e250b1627d7198ce/Paramount-hero.webp?w=720&amp;fm=avif 720w,//images.ctfassets.net/aukesvz1i7g8/5LCaRTIbOWW6fXGzPf6iIj/44951a66df545b34e250b1627d7198ce/Paramount-hero.webp?w=600&amp;fm=avif 600w,//images.ctfassets.net/aukesvz1i7g8/5LCaRTIbOWW6fXGzPf6iIj/44951a66df545b34e250b1627d7198ce/Paramount-hero.webp?w=480&amp;fm=avif 480w,//images.ctfassets.net/aukesvz1i7g8/5LCaRTIbOWW6fXGzPf6iIj/44951a66df545b34e250b1627d7198ce/Paramount-hero.webp?w=240&amp;fm=avif 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/avif"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/5LCaRTIbOWW6fXGzPf6iIj/44951a66df545b34e250b1627d7198ce/Paramount-hero.webp?w=1200&amp;fm=webp 1200w,//images.ctfassets.net/aukesvz1i7g8/5LCaRTIbOWW6fXGzPf6iIj/44951a66df545b34e250b1627d7198ce/Paramount-hero.webp?w=960&amp;fm=webp 960w,//images.ctfassets.net/aukesvz1i7g8/5LCaRTIbOWW6fXGzPf6iIj/44951a66df545b34e250b1627d7198ce/Paramount-hero.webp?w=720&amp;fm=webp 720w,//images.ctfassets.net/aukesvz1i7g8/5LCaRTIbOWW6fXGzPf6iIj/44951a66df545b34e250b1627d7198ce/Paramount-hero.webp?w=600&amp;fm=webp 600w,//images.ctfassets.net/aukesvz1i7g8/5LCaRTIbOWW6fXGzPf6iIj/44951a66df545b34e250b1627d7198ce/Paramount-hero.webp?w=480&amp;fm=webp 480w,//images.ctfassets.net/aukesvz1i7g8/5LCaRTIbOWW6fXGzPf6iIj/44951a66df545b34e250b1627d7198ce/Paramount-hero.webp?w=240&amp;fm=webp 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/webp"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/5LCaRTIbOWW6fXGzPf6iIj/44951a66df545b34e250b1627d7198ce/Paramount-hero.webp?w=1200&amp;fm=jpg 1200w,//images.ctfassets.net/aukesvz1i7g8/5LCaRTIbOWW6fXGzPf6iIj/44951a66df545b34e250b1627d7198ce/Paramount-hero.webp?w=960&amp;fm=jpg 960w,//images.ctfassets.net/aukesvz1i7g8/5LCaRTIbOWW6fXGzPf6iIj/44951a66df545b34e250b1627d7198ce/Paramount-hero.webp?w=720&amp;fm=jpg 720w,//images.ctfassets.net/aukesvz1i7g8/5LCaRTIbOWW6fXGzPf6iIj/44951a66df545b34e250b1627d7198ce/Paramount-hero.webp?w=600&amp;fm=jpg 600w,//images.ctfassets.net/aukesvz1i7g8/5LCaRTIbOWW6fXGzPf6iIj/44951a66df545b34e250b1627d7198ce/Paramount-hero.webp?w=480&amp;fm=jpg 480w,//images.ctfassets.net/aukesvz1i7g8/5LCaRTIbOWW6fXGzPf6iIj/44951a66df545b34e250b1627d7198ce/Paramount-hero.webp?w=240&amp;fm=jpg 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/jpeg"></source>
+  <img class="d-block width-full height-full object-fit-cover rounded-2" width="1200" height="1400" loading="lazy" decoding="async" alt="" src="//images.ctfassets.net/aukesvz1i7g8/5LCaRTIbOWW6fXGzPf6iIj/44951a66df545b34e250b1627d7198ce/Paramount-hero.webp?w=1200&amp;fm=jpg" />
+</picture>
+      </div>
+    </div>
+    <h3  class="f4-mktg color-fg-muted pb-2" aria-hidden="true"> Paramount Streaming</h3>
+    <p  class="h6-mktg color-fg-default py-1 pb-sm-4 text-semibold" aria-hidden="true">Paramount Streaming Incorporated GitHub’s Platform In Its Mission to Deliver Exceptional Content to its Global Audience.</p>
+    <p class="f4 d-block d-sm-inline no-underline text-semibold arrow-target-mktg color-fg-accent" aria-hidden="true">
+      Read story <svg xmlns="http://www.w3.org/2000/svg" class="octicon arrow-symbol-mktg octicon" width="16" height="16" viewBox="0 0 16 16" fill="none"><path fill="currentColor" d="M7.28033 3.21967C6.98744 2.92678 6.51256 2.92678 6.21967 3.21967C5.92678 3.51256 5.92678 3.98744 6.21967 4.28033L7.28033 3.21967ZM11 8L11.5303 8.53033C11.8232 8.23744 11.8232 7.76256 11.5303 7.46967L11 8ZM6.21967 11.7197C5.92678 12.0126 5.92678 12.4874 6.21967 12.7803C6.51256 13.0732 6.98744 13.0732 7.28033 12.7803L6.21967 11.7197ZM6.21967 4.28033L10.4697 8.53033L11.5303 7.46967L7.28033 3.21967L6.21967 4.28033ZM10.4697 7.46967L6.21967 11.7197L7.28033 12.7803L11.5303 8.53033L10.4697 7.46967Z"></path><path class="octicon-chevrow-stem" stroke="currentColor" d="M1.75 8H11" stroke-width="1.5" stroke-linecap="round"></path></svg>
+
+    </p>
+  </a>
+</div>
+
+      <div  class="py-2 py-sm-4 mb-4 col-md-4">
+  <a
+    href="/customer-stories/continental"
+    class="no-underline d-block rounded-1 Link--outlineOffset"
+  >
+    <span class="sr-only">Read more about Continental&apos;s customer story</span>
+    <div class="mb-4 position-relative">
+      <div style="height: 268px">
+        <picture>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/39ZCq3bqx9kiF8EtKHP6Kb/76671fac4d8ae03ae9a04ac3eb3c6c31/ContiHero.jpg?w=1200&amp;fm=avif 1200w,//images.ctfassets.net/aukesvz1i7g8/39ZCq3bqx9kiF8EtKHP6Kb/76671fac4d8ae03ae9a04ac3eb3c6c31/ContiHero.jpg?w=960&amp;fm=avif 960w,//images.ctfassets.net/aukesvz1i7g8/39ZCq3bqx9kiF8EtKHP6Kb/76671fac4d8ae03ae9a04ac3eb3c6c31/ContiHero.jpg?w=720&amp;fm=avif 720w,//images.ctfassets.net/aukesvz1i7g8/39ZCq3bqx9kiF8EtKHP6Kb/76671fac4d8ae03ae9a04ac3eb3c6c31/ContiHero.jpg?w=600&amp;fm=avif 600w,//images.ctfassets.net/aukesvz1i7g8/39ZCq3bqx9kiF8EtKHP6Kb/76671fac4d8ae03ae9a04ac3eb3c6c31/ContiHero.jpg?w=480&amp;fm=avif 480w,//images.ctfassets.net/aukesvz1i7g8/39ZCq3bqx9kiF8EtKHP6Kb/76671fac4d8ae03ae9a04ac3eb3c6c31/ContiHero.jpg?w=240&amp;fm=avif 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/avif"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/39ZCq3bqx9kiF8EtKHP6Kb/76671fac4d8ae03ae9a04ac3eb3c6c31/ContiHero.jpg?w=1200&amp;fm=webp 1200w,//images.ctfassets.net/aukesvz1i7g8/39ZCq3bqx9kiF8EtKHP6Kb/76671fac4d8ae03ae9a04ac3eb3c6c31/ContiHero.jpg?w=960&amp;fm=webp 960w,//images.ctfassets.net/aukesvz1i7g8/39ZCq3bqx9kiF8EtKHP6Kb/76671fac4d8ae03ae9a04ac3eb3c6c31/ContiHero.jpg?w=720&amp;fm=webp 720w,//images.ctfassets.net/aukesvz1i7g8/39ZCq3bqx9kiF8EtKHP6Kb/76671fac4d8ae03ae9a04ac3eb3c6c31/ContiHero.jpg?w=600&amp;fm=webp 600w,//images.ctfassets.net/aukesvz1i7g8/39ZCq3bqx9kiF8EtKHP6Kb/76671fac4d8ae03ae9a04ac3eb3c6c31/ContiHero.jpg?w=480&amp;fm=webp 480w,//images.ctfassets.net/aukesvz1i7g8/39ZCq3bqx9kiF8EtKHP6Kb/76671fac4d8ae03ae9a04ac3eb3c6c31/ContiHero.jpg?w=240&amp;fm=webp 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/webp"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/39ZCq3bqx9kiF8EtKHP6Kb/76671fac4d8ae03ae9a04ac3eb3c6c31/ContiHero.jpg?w=1200&amp;fm=jpg 1200w,//images.ctfassets.net/aukesvz1i7g8/39ZCq3bqx9kiF8EtKHP6Kb/76671fac4d8ae03ae9a04ac3eb3c6c31/ContiHero.jpg?w=960&amp;fm=jpg 960w,//images.ctfassets.net/aukesvz1i7g8/39ZCq3bqx9kiF8EtKHP6Kb/76671fac4d8ae03ae9a04ac3eb3c6c31/ContiHero.jpg?w=720&amp;fm=jpg 720w,//images.ctfassets.net/aukesvz1i7g8/39ZCq3bqx9kiF8EtKHP6Kb/76671fac4d8ae03ae9a04ac3eb3c6c31/ContiHero.jpg?w=600&amp;fm=jpg 600w,//images.ctfassets.net/aukesvz1i7g8/39ZCq3bqx9kiF8EtKHP6Kb/76671fac4d8ae03ae9a04ac3eb3c6c31/ContiHero.jpg?w=480&amp;fm=jpg 480w,//images.ctfassets.net/aukesvz1i7g8/39ZCq3bqx9kiF8EtKHP6Kb/76671fac4d8ae03ae9a04ac3eb3c6c31/ContiHero.jpg?w=240&amp;fm=jpg 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/jpeg"></source>
+  <img class="d-block width-full height-full object-fit-cover rounded-2" width="1200" height="1400" loading="lazy" decoding="async" alt="" src="//images.ctfassets.net/aukesvz1i7g8/39ZCq3bqx9kiF8EtKHP6Kb/76671fac4d8ae03ae9a04ac3eb3c6c31/ContiHero.jpg?w=1200&amp;fm=jpg" />
+</picture>
+      </div>
+    </div>
+    <h3  class="f4-mktg color-fg-muted pb-2" aria-hidden="true"> Continental</h3>
+    <p  class="h6-mktg color-fg-default py-1 pb-sm-4 text-semibold" aria-hidden="true">Continental embraces new tools and processes to redefine digital within the automotive industry.</p>
+    <p class="f4 d-block d-sm-inline no-underline text-semibold arrow-target-mktg color-fg-accent" aria-hidden="true">
+      Read story <svg xmlns="http://www.w3.org/2000/svg" class="octicon arrow-symbol-mktg octicon" width="16" height="16" viewBox="0 0 16 16" fill="none"><path fill="currentColor" d="M7.28033 3.21967C6.98744 2.92678 6.51256 2.92678 6.21967 3.21967C5.92678 3.51256 5.92678 3.98744 6.21967 4.28033L7.28033 3.21967ZM11 8L11.5303 8.53033C11.8232 8.23744 11.8232 7.76256 11.5303 7.46967L11 8ZM6.21967 11.7197C5.92678 12.0126 5.92678 12.4874 6.21967 12.7803C6.51256 13.0732 6.98744 13.0732 7.28033 12.7803L6.21967 11.7197ZM6.21967 4.28033L10.4697 8.53033L11.5303 7.46967L7.28033 3.21967L6.21967 4.28033ZM10.4697 7.46967L6.21967 11.7197L7.28033 12.7803L11.5303 8.53033L10.4697 7.46967Z"></path><path class="octicon-chevrow-stem" stroke="currentColor" d="M1.75 8H11" stroke-width="1.5" stroke-linecap="round"></path></svg>
+
+    </p>
+  </a>
+</div>
+
+      <div  class="py-2 py-sm-4 mb-4 col-md-4">
+  <a
+    href="/customer-stories/nytimes"
+    class="no-underline d-block rounded-1 Link--outlineOffset"
+  >
+    <span class="sr-only">Read more about The New York Times&apos;s customer story</span>
+    <div class="mb-4 position-relative">
+      <div style="height: 268px">
+        <picture>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/1pm1alwz23oGZZY1IYCAE6/00465d30ad183a56beb6339e0bb60cc3/nyhero.jpg?w=1200&amp;fm=avif 1200w,//images.ctfassets.net/aukesvz1i7g8/1pm1alwz23oGZZY1IYCAE6/00465d30ad183a56beb6339e0bb60cc3/nyhero.jpg?w=960&amp;fm=avif 960w,//images.ctfassets.net/aukesvz1i7g8/1pm1alwz23oGZZY1IYCAE6/00465d30ad183a56beb6339e0bb60cc3/nyhero.jpg?w=720&amp;fm=avif 720w,//images.ctfassets.net/aukesvz1i7g8/1pm1alwz23oGZZY1IYCAE6/00465d30ad183a56beb6339e0bb60cc3/nyhero.jpg?w=600&amp;fm=avif 600w,//images.ctfassets.net/aukesvz1i7g8/1pm1alwz23oGZZY1IYCAE6/00465d30ad183a56beb6339e0bb60cc3/nyhero.jpg?w=480&amp;fm=avif 480w,//images.ctfassets.net/aukesvz1i7g8/1pm1alwz23oGZZY1IYCAE6/00465d30ad183a56beb6339e0bb60cc3/nyhero.jpg?w=240&amp;fm=avif 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/avif"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/1pm1alwz23oGZZY1IYCAE6/00465d30ad183a56beb6339e0bb60cc3/nyhero.jpg?w=1200&amp;fm=webp 1200w,//images.ctfassets.net/aukesvz1i7g8/1pm1alwz23oGZZY1IYCAE6/00465d30ad183a56beb6339e0bb60cc3/nyhero.jpg?w=960&amp;fm=webp 960w,//images.ctfassets.net/aukesvz1i7g8/1pm1alwz23oGZZY1IYCAE6/00465d30ad183a56beb6339e0bb60cc3/nyhero.jpg?w=720&amp;fm=webp 720w,//images.ctfassets.net/aukesvz1i7g8/1pm1alwz23oGZZY1IYCAE6/00465d30ad183a56beb6339e0bb60cc3/nyhero.jpg?w=600&amp;fm=webp 600w,//images.ctfassets.net/aukesvz1i7g8/1pm1alwz23oGZZY1IYCAE6/00465d30ad183a56beb6339e0bb60cc3/nyhero.jpg?w=480&amp;fm=webp 480w,//images.ctfassets.net/aukesvz1i7g8/1pm1alwz23oGZZY1IYCAE6/00465d30ad183a56beb6339e0bb60cc3/nyhero.jpg?w=240&amp;fm=webp 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/webp"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/1pm1alwz23oGZZY1IYCAE6/00465d30ad183a56beb6339e0bb60cc3/nyhero.jpg?w=1200&amp;fm=jpg 1200w,//images.ctfassets.net/aukesvz1i7g8/1pm1alwz23oGZZY1IYCAE6/00465d30ad183a56beb6339e0bb60cc3/nyhero.jpg?w=960&amp;fm=jpg 960w,//images.ctfassets.net/aukesvz1i7g8/1pm1alwz23oGZZY1IYCAE6/00465d30ad183a56beb6339e0bb60cc3/nyhero.jpg?w=720&amp;fm=jpg 720w,//images.ctfassets.net/aukesvz1i7g8/1pm1alwz23oGZZY1IYCAE6/00465d30ad183a56beb6339e0bb60cc3/nyhero.jpg?w=600&amp;fm=jpg 600w,//images.ctfassets.net/aukesvz1i7g8/1pm1alwz23oGZZY1IYCAE6/00465d30ad183a56beb6339e0bb60cc3/nyhero.jpg?w=480&amp;fm=jpg 480w,//images.ctfassets.net/aukesvz1i7g8/1pm1alwz23oGZZY1IYCAE6/00465d30ad183a56beb6339e0bb60cc3/nyhero.jpg?w=240&amp;fm=jpg 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/jpeg"></source>
+  <img class="d-block width-full height-full object-fit-cover rounded-2" width="1200" height="1400" loading="lazy" decoding="async" alt="" src="//images.ctfassets.net/aukesvz1i7g8/1pm1alwz23oGZZY1IYCAE6/00465d30ad183a56beb6339e0bb60cc3/nyhero.jpg?w=1200&amp;fm=jpg" />
+</picture>
+      </div>
+    </div>
+    <h3  class="f4-mktg color-fg-muted pb-2" aria-hidden="true"> The New York Times</h3>
+    <p  class="h6-mktg color-fg-default py-1 pb-sm-4 text-semibold" aria-hidden="true">The New York Times uses GitHub to keep developers focused on code, not checklists.</p>
+    <p class="f4 d-block d-sm-inline no-underline text-semibold arrow-target-mktg color-fg-accent" aria-hidden="true">
+      Read story <svg xmlns="http://www.w3.org/2000/svg" class="octicon arrow-symbol-mktg octicon" width="16" height="16" viewBox="0 0 16 16" fill="none"><path fill="currentColor" d="M7.28033 3.21967C6.98744 2.92678 6.51256 2.92678 6.21967 3.21967C5.92678 3.51256 5.92678 3.98744 6.21967 4.28033L7.28033 3.21967ZM11 8L11.5303 8.53033C11.8232 8.23744 11.8232 7.76256 11.5303 7.46967L11 8ZM6.21967 11.7197C5.92678 12.0126 5.92678 12.4874 6.21967 12.7803C6.51256 13.0732 6.98744 13.0732 7.28033 12.7803L6.21967 11.7197ZM6.21967 4.28033L10.4697 8.53033L11.5303 7.46967L7.28033 3.21967L6.21967 4.28033ZM10.4697 7.46967L6.21967 11.7197L7.28033 12.7803L11.5303 8.53033L10.4697 7.46967Z"></path><path class="octicon-chevrow-stem" stroke="currentColor" d="M1.75 8H11" stroke-width="1.5" stroke-linecap="round"></path></svg>
+
+    </p>
+  </a>
+</div>
+
+      <div  class="py-2 py-sm-4 mb-4 col-md-4">
+  <a
+    href="/customer-stories/jpl"
+    class="no-underline d-block rounded-1 Link--outlineOffset"
+  >
+    <span class="sr-only">Read more about NASA’s Jet Propulsion Laboratory&apos;s customer story</span>
+    <div class="mb-4 position-relative">
+      <div style="height: 268px">
+        <picture>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/63DcUrIXnJCntBR5BhZj8r/dc4694700fa8ed1c138423db1a9faba4/hero.jpg?w=1200&amp;fm=avif 1200w,//images.ctfassets.net/aukesvz1i7g8/63DcUrIXnJCntBR5BhZj8r/dc4694700fa8ed1c138423db1a9faba4/hero.jpg?w=960&amp;fm=avif 960w,//images.ctfassets.net/aukesvz1i7g8/63DcUrIXnJCntBR5BhZj8r/dc4694700fa8ed1c138423db1a9faba4/hero.jpg?w=720&amp;fm=avif 720w,//images.ctfassets.net/aukesvz1i7g8/63DcUrIXnJCntBR5BhZj8r/dc4694700fa8ed1c138423db1a9faba4/hero.jpg?w=600&amp;fm=avif 600w,//images.ctfassets.net/aukesvz1i7g8/63DcUrIXnJCntBR5BhZj8r/dc4694700fa8ed1c138423db1a9faba4/hero.jpg?w=480&amp;fm=avif 480w,//images.ctfassets.net/aukesvz1i7g8/63DcUrIXnJCntBR5BhZj8r/dc4694700fa8ed1c138423db1a9faba4/hero.jpg?w=240&amp;fm=avif 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/avif"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/63DcUrIXnJCntBR5BhZj8r/dc4694700fa8ed1c138423db1a9faba4/hero.jpg?w=1200&amp;fm=webp 1200w,//images.ctfassets.net/aukesvz1i7g8/63DcUrIXnJCntBR5BhZj8r/dc4694700fa8ed1c138423db1a9faba4/hero.jpg?w=960&amp;fm=webp 960w,//images.ctfassets.net/aukesvz1i7g8/63DcUrIXnJCntBR5BhZj8r/dc4694700fa8ed1c138423db1a9faba4/hero.jpg?w=720&amp;fm=webp 720w,//images.ctfassets.net/aukesvz1i7g8/63DcUrIXnJCntBR5BhZj8r/dc4694700fa8ed1c138423db1a9faba4/hero.jpg?w=600&amp;fm=webp 600w,//images.ctfassets.net/aukesvz1i7g8/63DcUrIXnJCntBR5BhZj8r/dc4694700fa8ed1c138423db1a9faba4/hero.jpg?w=480&amp;fm=webp 480w,//images.ctfassets.net/aukesvz1i7g8/63DcUrIXnJCntBR5BhZj8r/dc4694700fa8ed1c138423db1a9faba4/hero.jpg?w=240&amp;fm=webp 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/webp"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/63DcUrIXnJCntBR5BhZj8r/dc4694700fa8ed1c138423db1a9faba4/hero.jpg?w=1200&amp;fm=jpg 1200w,//images.ctfassets.net/aukesvz1i7g8/63DcUrIXnJCntBR5BhZj8r/dc4694700fa8ed1c138423db1a9faba4/hero.jpg?w=960&amp;fm=jpg 960w,//images.ctfassets.net/aukesvz1i7g8/63DcUrIXnJCntBR5BhZj8r/dc4694700fa8ed1c138423db1a9faba4/hero.jpg?w=720&amp;fm=jpg 720w,//images.ctfassets.net/aukesvz1i7g8/63DcUrIXnJCntBR5BhZj8r/dc4694700fa8ed1c138423db1a9faba4/hero.jpg?w=600&amp;fm=jpg 600w,//images.ctfassets.net/aukesvz1i7g8/63DcUrIXnJCntBR5BhZj8r/dc4694700fa8ed1c138423db1a9faba4/hero.jpg?w=480&amp;fm=jpg 480w,//images.ctfassets.net/aukesvz1i7g8/63DcUrIXnJCntBR5BhZj8r/dc4694700fa8ed1c138423db1a9faba4/hero.jpg?w=240&amp;fm=jpg 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/jpeg"></source>
+  <img class="d-block width-full height-full object-fit-cover rounded-2" width="1200" height="1400" loading="lazy" decoding="async" alt="" src="//images.ctfassets.net/aukesvz1i7g8/63DcUrIXnJCntBR5BhZj8r/dc4694700fa8ed1c138423db1a9faba4/hero.jpg?w=1200&amp;fm=jpg" />
+</picture>
+      </div>
+    </div>
+    <h3  class="f4-mktg color-fg-muted pb-2" aria-hidden="true"> NASA’s Jet Propulsion Laboratory</h3>
+    <p  class="h6-mktg color-fg-default py-1 pb-sm-4 text-semibold" aria-hidden="true">JPL shares their code and reach the farthest corners of the galaxy with GitHub Enterprise.</p>
+    <p class="f4 d-block d-sm-inline no-underline text-semibold arrow-target-mktg color-fg-accent" aria-hidden="true">
+      Read story <svg xmlns="http://www.w3.org/2000/svg" class="octicon arrow-symbol-mktg octicon" width="16" height="16" viewBox="0 0 16 16" fill="none"><path fill="currentColor" d="M7.28033 3.21967C6.98744 2.92678 6.51256 2.92678 6.21967 3.21967C5.92678 3.51256 5.92678 3.98744 6.21967 4.28033L7.28033 3.21967ZM11 8L11.5303 8.53033C11.8232 8.23744 11.8232 7.76256 11.5303 7.46967L11 8ZM6.21967 11.7197C5.92678 12.0126 5.92678 12.4874 6.21967 12.7803C6.51256 13.0732 6.98744 13.0732 7.28033 12.7803L6.21967 11.7197ZM6.21967 4.28033L10.4697 8.53033L11.5303 7.46967L7.28033 3.21967L6.21967 4.28033ZM10.4697 7.46967L6.21967 11.7197L7.28033 12.7803L11.5303 8.53033L10.4697 7.46967Z"></path><path class="octicon-chevrow-stem" stroke="currentColor" d="M1.75 8H11" stroke-width="1.5" stroke-linecap="round"></path></svg>
+
+    </p>
+  </a>
+</div>
+
+      <div  class="py-2 py-sm-4 mb-4 col-md-4">
+  <a
+    href="/customer-stories/zendesk"
+    class="no-underline d-block rounded-1 Link--outlineOffset"
+  >
+    <span class="sr-only">Read more about Zendesk&apos;s customer story</span>
+    <div class="mb-4 position-relative">
+      <div style="height: 268px">
+        <picture>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/4YyBQrpOJ4aqYNMEgOoL0J/b65e2524d78d4e8d7bf2a52f7d9f30d0/zendesk-hero.jpg?w=1200&amp;fm=avif 1200w,//images.ctfassets.net/aukesvz1i7g8/4YyBQrpOJ4aqYNMEgOoL0J/b65e2524d78d4e8d7bf2a52f7d9f30d0/zendesk-hero.jpg?w=960&amp;fm=avif 960w,//images.ctfassets.net/aukesvz1i7g8/4YyBQrpOJ4aqYNMEgOoL0J/b65e2524d78d4e8d7bf2a52f7d9f30d0/zendesk-hero.jpg?w=720&amp;fm=avif 720w,//images.ctfassets.net/aukesvz1i7g8/4YyBQrpOJ4aqYNMEgOoL0J/b65e2524d78d4e8d7bf2a52f7d9f30d0/zendesk-hero.jpg?w=600&amp;fm=avif 600w,//images.ctfassets.net/aukesvz1i7g8/4YyBQrpOJ4aqYNMEgOoL0J/b65e2524d78d4e8d7bf2a52f7d9f30d0/zendesk-hero.jpg?w=480&amp;fm=avif 480w,//images.ctfassets.net/aukesvz1i7g8/4YyBQrpOJ4aqYNMEgOoL0J/b65e2524d78d4e8d7bf2a52f7d9f30d0/zendesk-hero.jpg?w=240&amp;fm=avif 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/avif"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/4YyBQrpOJ4aqYNMEgOoL0J/b65e2524d78d4e8d7bf2a52f7d9f30d0/zendesk-hero.jpg?w=1200&amp;fm=webp 1200w,//images.ctfassets.net/aukesvz1i7g8/4YyBQrpOJ4aqYNMEgOoL0J/b65e2524d78d4e8d7bf2a52f7d9f30d0/zendesk-hero.jpg?w=960&amp;fm=webp 960w,//images.ctfassets.net/aukesvz1i7g8/4YyBQrpOJ4aqYNMEgOoL0J/b65e2524d78d4e8d7bf2a52f7d9f30d0/zendesk-hero.jpg?w=720&amp;fm=webp 720w,//images.ctfassets.net/aukesvz1i7g8/4YyBQrpOJ4aqYNMEgOoL0J/b65e2524d78d4e8d7bf2a52f7d9f30d0/zendesk-hero.jpg?w=600&amp;fm=webp 600w,//images.ctfassets.net/aukesvz1i7g8/4YyBQrpOJ4aqYNMEgOoL0J/b65e2524d78d4e8d7bf2a52f7d9f30d0/zendesk-hero.jpg?w=480&amp;fm=webp 480w,//images.ctfassets.net/aukesvz1i7g8/4YyBQrpOJ4aqYNMEgOoL0J/b65e2524d78d4e8d7bf2a52f7d9f30d0/zendesk-hero.jpg?w=240&amp;fm=webp 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/webp"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/4YyBQrpOJ4aqYNMEgOoL0J/b65e2524d78d4e8d7bf2a52f7d9f30d0/zendesk-hero.jpg?w=1200&amp;fm=jpg 1200w,//images.ctfassets.net/aukesvz1i7g8/4YyBQrpOJ4aqYNMEgOoL0J/b65e2524d78d4e8d7bf2a52f7d9f30d0/zendesk-hero.jpg?w=960&amp;fm=jpg 960w,//images.ctfassets.net/aukesvz1i7g8/4YyBQrpOJ4aqYNMEgOoL0J/b65e2524d78d4e8d7bf2a52f7d9f30d0/zendesk-hero.jpg?w=720&amp;fm=jpg 720w,//images.ctfassets.net/aukesvz1i7g8/4YyBQrpOJ4aqYNMEgOoL0J/b65e2524d78d4e8d7bf2a52f7d9f30d0/zendesk-hero.jpg?w=600&amp;fm=jpg 600w,//images.ctfassets.net/aukesvz1i7g8/4YyBQrpOJ4aqYNMEgOoL0J/b65e2524d78d4e8d7bf2a52f7d9f30d0/zendesk-hero.jpg?w=480&amp;fm=jpg 480w,//images.ctfassets.net/aukesvz1i7g8/4YyBQrpOJ4aqYNMEgOoL0J/b65e2524d78d4e8d7bf2a52f7d9f30d0/zendesk-hero.jpg?w=240&amp;fm=jpg 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/jpeg"></source>
+  <img class="d-block width-full height-full object-fit-cover rounded-2" width="1200" height="1400" loading="lazy" decoding="async" alt="" src="//images.ctfassets.net/aukesvz1i7g8/4YyBQrpOJ4aqYNMEgOoL0J/b65e2524d78d4e8d7bf2a52f7d9f30d0/zendesk-hero.jpg?w=1200&amp;fm=jpg" />
+</picture>
+      </div>
+    </div>
+    <h3  class="f4-mktg color-fg-muted pb-2" aria-hidden="true"> Zendesk</h3>
+    <p  class="h6-mktg color-fg-default py-1 pb-sm-4 text-semibold" aria-hidden="true">Zendesk and GitHub: Building best-in-class tools for a decade—and counting.</p>
+    <p class="f4 d-block d-sm-inline no-underline text-semibold arrow-target-mktg color-fg-accent" aria-hidden="true">
+      Read story <svg xmlns="http://www.w3.org/2000/svg" class="octicon arrow-symbol-mktg octicon" width="16" height="16" viewBox="0 0 16 16" fill="none"><path fill="currentColor" d="M7.28033 3.21967C6.98744 2.92678 6.51256 2.92678 6.21967 3.21967C5.92678 3.51256 5.92678 3.98744 6.21967 4.28033L7.28033 3.21967ZM11 8L11.5303 8.53033C11.8232 8.23744 11.8232 7.76256 11.5303 7.46967L11 8ZM6.21967 11.7197C5.92678 12.0126 5.92678 12.4874 6.21967 12.7803C6.51256 13.0732 6.98744 13.0732 7.28033 12.7803L6.21967 11.7197ZM6.21967 4.28033L10.4697 8.53033L11.5303 7.46967L7.28033 3.21967L6.21967 4.28033ZM10.4697 7.46967L6.21967 11.7197L7.28033 12.7803L11.5303 8.53033L10.4697 7.46967Z"></path><path class="octicon-chevrow-stem" stroke="currentColor" d="M1.75 8H11" stroke-width="1.5" stroke-linecap="round"></path></svg>
+
+    </p>
+  </a>
+</div>
+
+      <div  class="py-2 py-sm-4 mb-4 col-md-4">
+  <a
+    href="/customer-stories/globant"
+    class="no-underline d-block rounded-1 Link--outlineOffset"
+  >
+    <span class="sr-only">Read more about Globant&apos;s customer story</span>
+    <div class="mb-4 position-relative">
+      <div style="height: 268px">
+        <picture>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/2oPkhsANinSDSqApfh7DUc/7ccd2c3aa78abf19daea5d8f0814299b/globant-hero.jpg?w=1200&amp;fm=avif 1200w,//images.ctfassets.net/aukesvz1i7g8/2oPkhsANinSDSqApfh7DUc/7ccd2c3aa78abf19daea5d8f0814299b/globant-hero.jpg?w=960&amp;fm=avif 960w,//images.ctfassets.net/aukesvz1i7g8/2oPkhsANinSDSqApfh7DUc/7ccd2c3aa78abf19daea5d8f0814299b/globant-hero.jpg?w=720&amp;fm=avif 720w,//images.ctfassets.net/aukesvz1i7g8/2oPkhsANinSDSqApfh7DUc/7ccd2c3aa78abf19daea5d8f0814299b/globant-hero.jpg?w=600&amp;fm=avif 600w,//images.ctfassets.net/aukesvz1i7g8/2oPkhsANinSDSqApfh7DUc/7ccd2c3aa78abf19daea5d8f0814299b/globant-hero.jpg?w=480&amp;fm=avif 480w,//images.ctfassets.net/aukesvz1i7g8/2oPkhsANinSDSqApfh7DUc/7ccd2c3aa78abf19daea5d8f0814299b/globant-hero.jpg?w=240&amp;fm=avif 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/avif"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/2oPkhsANinSDSqApfh7DUc/7ccd2c3aa78abf19daea5d8f0814299b/globant-hero.jpg?w=1200&amp;fm=webp 1200w,//images.ctfassets.net/aukesvz1i7g8/2oPkhsANinSDSqApfh7DUc/7ccd2c3aa78abf19daea5d8f0814299b/globant-hero.jpg?w=960&amp;fm=webp 960w,//images.ctfassets.net/aukesvz1i7g8/2oPkhsANinSDSqApfh7DUc/7ccd2c3aa78abf19daea5d8f0814299b/globant-hero.jpg?w=720&amp;fm=webp 720w,//images.ctfassets.net/aukesvz1i7g8/2oPkhsANinSDSqApfh7DUc/7ccd2c3aa78abf19daea5d8f0814299b/globant-hero.jpg?w=600&amp;fm=webp 600w,//images.ctfassets.net/aukesvz1i7g8/2oPkhsANinSDSqApfh7DUc/7ccd2c3aa78abf19daea5d8f0814299b/globant-hero.jpg?w=480&amp;fm=webp 480w,//images.ctfassets.net/aukesvz1i7g8/2oPkhsANinSDSqApfh7DUc/7ccd2c3aa78abf19daea5d8f0814299b/globant-hero.jpg?w=240&amp;fm=webp 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/webp"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/2oPkhsANinSDSqApfh7DUc/7ccd2c3aa78abf19daea5d8f0814299b/globant-hero.jpg?w=1200&amp;fm=jpg 1200w,//images.ctfassets.net/aukesvz1i7g8/2oPkhsANinSDSqApfh7DUc/7ccd2c3aa78abf19daea5d8f0814299b/globant-hero.jpg?w=960&amp;fm=jpg 960w,//images.ctfassets.net/aukesvz1i7g8/2oPkhsANinSDSqApfh7DUc/7ccd2c3aa78abf19daea5d8f0814299b/globant-hero.jpg?w=720&amp;fm=jpg 720w,//images.ctfassets.net/aukesvz1i7g8/2oPkhsANinSDSqApfh7DUc/7ccd2c3aa78abf19daea5d8f0814299b/globant-hero.jpg?w=600&amp;fm=jpg 600w,//images.ctfassets.net/aukesvz1i7g8/2oPkhsANinSDSqApfh7DUc/7ccd2c3aa78abf19daea5d8f0814299b/globant-hero.jpg?w=480&amp;fm=jpg 480w,//images.ctfassets.net/aukesvz1i7g8/2oPkhsANinSDSqApfh7DUc/7ccd2c3aa78abf19daea5d8f0814299b/globant-hero.jpg?w=240&amp;fm=jpg 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/jpeg"></source>
+  <img class="d-block width-full height-full object-fit-cover rounded-2" width="1200" height="1400" loading="lazy" decoding="async" alt="" src="//images.ctfassets.net/aukesvz1i7g8/2oPkhsANinSDSqApfh7DUc/7ccd2c3aa78abf19daea5d8f0814299b/globant-hero.jpg?w=1200&amp;fm=jpg" />
+</picture>
+      </div>
+    </div>
+    <h3  class="f4-mktg color-fg-muted pb-2" aria-hidden="true"> Globant</h3>
+    <p  class="h6-mktg color-fg-default py-1 pb-sm-4 text-semibold" aria-hidden="true">With GitHub, Globant’s globally distributed workforce helps companies keep their edge.</p>
+    <p class="f4 d-block d-sm-inline no-underline text-semibold arrow-target-mktg color-fg-accent" aria-hidden="true">
+      Read story <svg xmlns="http://www.w3.org/2000/svg" class="octicon arrow-symbol-mktg octicon" width="16" height="16" viewBox="0 0 16 16" fill="none"><path fill="currentColor" d="M7.28033 3.21967C6.98744 2.92678 6.51256 2.92678 6.21967 3.21967C5.92678 3.51256 5.92678 3.98744 6.21967 4.28033L7.28033 3.21967ZM11 8L11.5303 8.53033C11.8232 8.23744 11.8232 7.76256 11.5303 7.46967L11 8ZM6.21967 11.7197C5.92678 12.0126 5.92678 12.4874 6.21967 12.7803C6.51256 13.0732 6.98744 13.0732 7.28033 12.7803L6.21967 11.7197ZM6.21967 4.28033L10.4697 8.53033L11.5303 7.46967L7.28033 3.21967L6.21967 4.28033ZM10.4697 7.46967L6.21967 11.7197L7.28033 12.7803L11.5303 8.53033L10.4697 7.46967Z"></path><path class="octicon-chevrow-stem" stroke="currentColor" d="M1.75 8H11" stroke-width="1.5" stroke-linecap="round"></path></svg>
+
+    </p>
+  </a>
+</div>
+
+  </template>
+</turbo-stream>
+
+  <turbo-stream action="replace" target="load-more-stories-button" >
+    <template>
+      <a class="btn-mktg flex-justify-center flex-items-center" data-analytics-event="{&quot;category&quot;:&quot;View more stories&quot;,&quot;action&quot;:&quot;click to View more stories&quot;,&quot;label&quot;:&quot;ref_cta:View more stories;&quot;}" href="/customer-stories/search.turbo_stream?category=Enterprise&amp;category=Enterprise&amp;offset=24&amp;size=Enterprise&amp;target=story-cards-grid" display="flex" border="true" bg="default" data-turbo-stream="" id="load-more-stories-button">
+  View more stories
+  
+        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-chevron-down">
+    <path d="M12.78 5.22a.749.749 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.06 0L3.22 6.28a.749.749 0 1 1 1.06-1.06L8 8.939l3.72-3.719a.749.749 0 0 1 1.06 0Z"></path>
+</svg>
+
+  
+</a>    </template>
+  </turbo-stream>

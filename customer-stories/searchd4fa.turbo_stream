@@ -1,0 +1,181 @@
+<turbo-stream action="append" target="story-cards-grid" >
+  <template>
+      <div  class="py-2 py-sm-4 mb-4 col-md-4">
+  <a
+    href="/customer-stories/white-label-international-retailer"
+    class="no-underline d-block rounded-1 Link--outlineOffset"
+  >
+    <span class="sr-only">Read more about White Label: International Retailer&apos;s customer story</span>
+    <div class="mb-4 position-relative">
+      <div style="height: 268px">
+        <picture>
+  
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/dRemZsBz2gg9z5BgOM73k/7d5932089f95a1824f8aab5a053532cb/003.png?w=1200&amp;fm=webp 1200w,//images.ctfassets.net/aukesvz1i7g8/dRemZsBz2gg9z5BgOM73k/7d5932089f95a1824f8aab5a053532cb/003.png?w=960&amp;fm=webp 960w,//images.ctfassets.net/aukesvz1i7g8/dRemZsBz2gg9z5BgOM73k/7d5932089f95a1824f8aab5a053532cb/003.png?w=720&amp;fm=webp 720w,//images.ctfassets.net/aukesvz1i7g8/dRemZsBz2gg9z5BgOM73k/7d5932089f95a1824f8aab5a053532cb/003.png?w=600&amp;fm=webp 600w,//images.ctfassets.net/aukesvz1i7g8/dRemZsBz2gg9z5BgOM73k/7d5932089f95a1824f8aab5a053532cb/003.png?w=480&amp;fm=webp 480w,//images.ctfassets.net/aukesvz1i7g8/dRemZsBz2gg9z5BgOM73k/7d5932089f95a1824f8aab5a053532cb/003.png?w=240&amp;fm=webp 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/webp"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/dRemZsBz2gg9z5BgOM73k/7d5932089f95a1824f8aab5a053532cb/003.png?w=1200&amp;fm=png 1200w,//images.ctfassets.net/aukesvz1i7g8/dRemZsBz2gg9z5BgOM73k/7d5932089f95a1824f8aab5a053532cb/003.png?w=960&amp;fm=png 960w,//images.ctfassets.net/aukesvz1i7g8/dRemZsBz2gg9z5BgOM73k/7d5932089f95a1824f8aab5a053532cb/003.png?w=720&amp;fm=png 720w,//images.ctfassets.net/aukesvz1i7g8/dRemZsBz2gg9z5BgOM73k/7d5932089f95a1824f8aab5a053532cb/003.png?w=600&amp;fm=png 600w,//images.ctfassets.net/aukesvz1i7g8/dRemZsBz2gg9z5BgOM73k/7d5932089f95a1824f8aab5a053532cb/003.png?w=480&amp;fm=png 480w,//images.ctfassets.net/aukesvz1i7g8/dRemZsBz2gg9z5BgOM73k/7d5932089f95a1824f8aab5a053532cb/003.png?w=240&amp;fm=png 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/png"></source>
+  <img class="d-block width-full height-full object-fit-cover rounded-2" width="1200" height="1400" loading="lazy" decoding="async" alt="" src="//images.ctfassets.net/aukesvz1i7g8/dRemZsBz2gg9z5BgOM73k/7d5932089f95a1824f8aab5a053532cb/003.png?w=1200&amp;fm=png" />
+</picture>
+      </div>
+    </div>
+    <h3  class="f4-mktg color-fg-muted pb-2" aria-hidden="true"> White Label: International Retailer</h3>
+    <p  class="h6-mktg color-fg-default py-1 pb-sm-4 text-semibold" aria-hidden="true">The world’s third largest retailer partners with GitHub to drive innovation through open source best practices.</p>
+    <p class="f4 d-block d-sm-inline no-underline text-semibold arrow-target-mktg color-fg-accent" aria-hidden="true">
+      Read story <svg xmlns="http://www.w3.org/2000/svg" class="octicon arrow-symbol-mktg octicon" width="16" height="16" viewBox="0 0 16 16" fill="none"><path fill="currentColor" d="M7.28033 3.21967C6.98744 2.92678 6.51256 2.92678 6.21967 3.21967C5.92678 3.51256 5.92678 3.98744 6.21967 4.28033L7.28033 3.21967ZM11 8L11.5303 8.53033C11.8232 8.23744 11.8232 7.76256 11.5303 7.46967L11 8ZM6.21967 11.7197C5.92678 12.0126 5.92678 12.4874 6.21967 12.7803C6.51256 13.0732 6.98744 13.0732 7.28033 12.7803L6.21967 11.7197ZM6.21967 4.28033L10.4697 8.53033L11.5303 7.46967L7.28033 3.21967L6.21967 4.28033ZM10.4697 7.46967L6.21967 11.7197L7.28033 12.7803L11.5303 8.53033L10.4697 7.46967Z"></path><path class="octicon-chevrow-stem" stroke="currentColor" d="M1.75 8H11" stroke-width="1.5" stroke-linecap="round"></path></svg>
+
+    </p>
+  </a>
+</div>
+
+      <div  class="py-2 py-sm-4 mb-4 col-md-4">
+  <a
+    href="/customer-stories/trainline"
+    class="no-underline d-block rounded-1 Link--outlineOffset"
+  >
+    <span class="sr-only">Read more about Trainline&apos;s customer story</span>
+    <div class="mb-4 position-relative">
+      <div style="height: 268px">
+        <picture>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/4JNNKFah1LEvLaFXKnvtfS/e2fb3ae8e7a48df881529137456348ae/hero.jpg?w=1200&amp;fm=avif 1200w,//images.ctfassets.net/aukesvz1i7g8/4JNNKFah1LEvLaFXKnvtfS/e2fb3ae8e7a48df881529137456348ae/hero.jpg?w=960&amp;fm=avif 960w,//images.ctfassets.net/aukesvz1i7g8/4JNNKFah1LEvLaFXKnvtfS/e2fb3ae8e7a48df881529137456348ae/hero.jpg?w=720&amp;fm=avif 720w,//images.ctfassets.net/aukesvz1i7g8/4JNNKFah1LEvLaFXKnvtfS/e2fb3ae8e7a48df881529137456348ae/hero.jpg?w=600&amp;fm=avif 600w,//images.ctfassets.net/aukesvz1i7g8/4JNNKFah1LEvLaFXKnvtfS/e2fb3ae8e7a48df881529137456348ae/hero.jpg?w=480&amp;fm=avif 480w,//images.ctfassets.net/aukesvz1i7g8/4JNNKFah1LEvLaFXKnvtfS/e2fb3ae8e7a48df881529137456348ae/hero.jpg?w=240&amp;fm=avif 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/avif"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/4JNNKFah1LEvLaFXKnvtfS/e2fb3ae8e7a48df881529137456348ae/hero.jpg?w=1200&amp;fm=webp 1200w,//images.ctfassets.net/aukesvz1i7g8/4JNNKFah1LEvLaFXKnvtfS/e2fb3ae8e7a48df881529137456348ae/hero.jpg?w=960&amp;fm=webp 960w,//images.ctfassets.net/aukesvz1i7g8/4JNNKFah1LEvLaFXKnvtfS/e2fb3ae8e7a48df881529137456348ae/hero.jpg?w=720&amp;fm=webp 720w,//images.ctfassets.net/aukesvz1i7g8/4JNNKFah1LEvLaFXKnvtfS/e2fb3ae8e7a48df881529137456348ae/hero.jpg?w=600&amp;fm=webp 600w,//images.ctfassets.net/aukesvz1i7g8/4JNNKFah1LEvLaFXKnvtfS/e2fb3ae8e7a48df881529137456348ae/hero.jpg?w=480&amp;fm=webp 480w,//images.ctfassets.net/aukesvz1i7g8/4JNNKFah1LEvLaFXKnvtfS/e2fb3ae8e7a48df881529137456348ae/hero.jpg?w=240&amp;fm=webp 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/webp"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/4JNNKFah1LEvLaFXKnvtfS/e2fb3ae8e7a48df881529137456348ae/hero.jpg?w=1200&amp;fm=jpg 1200w,//images.ctfassets.net/aukesvz1i7g8/4JNNKFah1LEvLaFXKnvtfS/e2fb3ae8e7a48df881529137456348ae/hero.jpg?w=960&amp;fm=jpg 960w,//images.ctfassets.net/aukesvz1i7g8/4JNNKFah1LEvLaFXKnvtfS/e2fb3ae8e7a48df881529137456348ae/hero.jpg?w=720&amp;fm=jpg 720w,//images.ctfassets.net/aukesvz1i7g8/4JNNKFah1LEvLaFXKnvtfS/e2fb3ae8e7a48df881529137456348ae/hero.jpg?w=600&amp;fm=jpg 600w,//images.ctfassets.net/aukesvz1i7g8/4JNNKFah1LEvLaFXKnvtfS/e2fb3ae8e7a48df881529137456348ae/hero.jpg?w=480&amp;fm=jpg 480w,//images.ctfassets.net/aukesvz1i7g8/4JNNKFah1LEvLaFXKnvtfS/e2fb3ae8e7a48df881529137456348ae/hero.jpg?w=240&amp;fm=jpg 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/jpeg"></source>
+  <img class="d-block width-full height-full object-fit-cover rounded-2" width="1200" height="1400" loading="lazy" decoding="async" alt="" src="//images.ctfassets.net/aukesvz1i7g8/4JNNKFah1LEvLaFXKnvtfS/e2fb3ae8e7a48df881529137456348ae/hero.jpg?w=1200&amp;fm=jpg" />
+</picture>
+      </div>
+    </div>
+    <h3  class="f4-mktg color-fg-muted pb-2" aria-hidden="true"> Trainline</h3>
+    <p  class="h6-mktg color-fg-default py-1 pb-sm-4 text-semibold" aria-hidden="true">Trainline started as a call center for booking train tickets. Fifteen years later, they’re on a mission to help their customers make smarter rail journeys.</p>
+    <p class="f4 d-block d-sm-inline no-underline text-semibold arrow-target-mktg color-fg-accent" aria-hidden="true">
+      Read story <svg xmlns="http://www.w3.org/2000/svg" class="octicon arrow-symbol-mktg octicon" width="16" height="16" viewBox="0 0 16 16" fill="none"><path fill="currentColor" d="M7.28033 3.21967C6.98744 2.92678 6.51256 2.92678 6.21967 3.21967C5.92678 3.51256 5.92678 3.98744 6.21967 4.28033L7.28033 3.21967ZM11 8L11.5303 8.53033C11.8232 8.23744 11.8232 7.76256 11.5303 7.46967L11 8ZM6.21967 11.7197C5.92678 12.0126 5.92678 12.4874 6.21967 12.7803C6.51256 13.0732 6.98744 13.0732 7.28033 12.7803L6.21967 11.7197ZM6.21967 4.28033L10.4697 8.53033L11.5303 7.46967L7.28033 3.21967L6.21967 4.28033ZM10.4697 7.46967L6.21967 11.7197L7.28033 12.7803L11.5303 8.53033L10.4697 7.46967Z"></path><path class="octicon-chevrow-stem" stroke="currentColor" d="M1.75 8H11" stroke-width="1.5" stroke-linecap="round"></path></svg>
+
+    </p>
+  </a>
+</div>
+
+      <div  class="py-2 py-sm-4 mb-4 col-md-4">
+  <a
+    href="/customer-stories/zalando"
+    class="no-underline d-block rounded-1 Link--outlineOffset"
+  >
+    <span class="sr-only">Read more about Zalando&apos;s customer story</span>
+    <div class="mb-4 position-relative">
+      <div style="height: 268px">
+        <picture>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/5JUhbFqSB3wR3emHn1hIol/a164292eae4f8e37f0f27bb18bd92459/Zalando-hero.jpg?w=1200&amp;fm=avif 1200w,//images.ctfassets.net/aukesvz1i7g8/5JUhbFqSB3wR3emHn1hIol/a164292eae4f8e37f0f27bb18bd92459/Zalando-hero.jpg?w=960&amp;fm=avif 960w,//images.ctfassets.net/aukesvz1i7g8/5JUhbFqSB3wR3emHn1hIol/a164292eae4f8e37f0f27bb18bd92459/Zalando-hero.jpg?w=720&amp;fm=avif 720w,//images.ctfassets.net/aukesvz1i7g8/5JUhbFqSB3wR3emHn1hIol/a164292eae4f8e37f0f27bb18bd92459/Zalando-hero.jpg?w=600&amp;fm=avif 600w,//images.ctfassets.net/aukesvz1i7g8/5JUhbFqSB3wR3emHn1hIol/a164292eae4f8e37f0f27bb18bd92459/Zalando-hero.jpg?w=480&amp;fm=avif 480w,//images.ctfassets.net/aukesvz1i7g8/5JUhbFqSB3wR3emHn1hIol/a164292eae4f8e37f0f27bb18bd92459/Zalando-hero.jpg?w=240&amp;fm=avif 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/avif"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/5JUhbFqSB3wR3emHn1hIol/a164292eae4f8e37f0f27bb18bd92459/Zalando-hero.jpg?w=1200&amp;fm=webp 1200w,//images.ctfassets.net/aukesvz1i7g8/5JUhbFqSB3wR3emHn1hIol/a164292eae4f8e37f0f27bb18bd92459/Zalando-hero.jpg?w=960&amp;fm=webp 960w,//images.ctfassets.net/aukesvz1i7g8/5JUhbFqSB3wR3emHn1hIol/a164292eae4f8e37f0f27bb18bd92459/Zalando-hero.jpg?w=720&amp;fm=webp 720w,//images.ctfassets.net/aukesvz1i7g8/5JUhbFqSB3wR3emHn1hIol/a164292eae4f8e37f0f27bb18bd92459/Zalando-hero.jpg?w=600&amp;fm=webp 600w,//images.ctfassets.net/aukesvz1i7g8/5JUhbFqSB3wR3emHn1hIol/a164292eae4f8e37f0f27bb18bd92459/Zalando-hero.jpg?w=480&amp;fm=webp 480w,//images.ctfassets.net/aukesvz1i7g8/5JUhbFqSB3wR3emHn1hIol/a164292eae4f8e37f0f27bb18bd92459/Zalando-hero.jpg?w=240&amp;fm=webp 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/webp"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/5JUhbFqSB3wR3emHn1hIol/a164292eae4f8e37f0f27bb18bd92459/Zalando-hero.jpg?w=1200&amp;fm=jpg 1200w,//images.ctfassets.net/aukesvz1i7g8/5JUhbFqSB3wR3emHn1hIol/a164292eae4f8e37f0f27bb18bd92459/Zalando-hero.jpg?w=960&amp;fm=jpg 960w,//images.ctfassets.net/aukesvz1i7g8/5JUhbFqSB3wR3emHn1hIol/a164292eae4f8e37f0f27bb18bd92459/Zalando-hero.jpg?w=720&amp;fm=jpg 720w,//images.ctfassets.net/aukesvz1i7g8/5JUhbFqSB3wR3emHn1hIol/a164292eae4f8e37f0f27bb18bd92459/Zalando-hero.jpg?w=600&amp;fm=jpg 600w,//images.ctfassets.net/aukesvz1i7g8/5JUhbFqSB3wR3emHn1hIol/a164292eae4f8e37f0f27bb18bd92459/Zalando-hero.jpg?w=480&amp;fm=jpg 480w,//images.ctfassets.net/aukesvz1i7g8/5JUhbFqSB3wR3emHn1hIol/a164292eae4f8e37f0f27bb18bd92459/Zalando-hero.jpg?w=240&amp;fm=jpg 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/jpeg"></source>
+  <img class="d-block width-full height-full object-fit-cover rounded-2" width="1200" height="1400" loading="lazy" decoding="async" alt="" src="//images.ctfassets.net/aukesvz1i7g8/5JUhbFqSB3wR3emHn1hIol/a164292eae4f8e37f0f27bb18bd92459/Zalando-hero.jpg?w=1200&amp;fm=jpg" />
+</picture>
+      </div>
+    </div>
+    <h3  class="f4-mktg color-fg-muted pb-2" aria-hidden="true"> Zalando</h3>
+    <p  class="h6-mktg color-fg-default py-1 pb-sm-4 text-semibold" aria-hidden="true">Zalando uses GitHub to facilitate collaboration and prioritize open source contributions.</p>
+    <p class="f4 d-block d-sm-inline no-underline text-semibold arrow-target-mktg color-fg-accent" aria-hidden="true">
+      Read story <svg xmlns="http://www.w3.org/2000/svg" class="octicon arrow-symbol-mktg octicon" width="16" height="16" viewBox="0 0 16 16" fill="none"><path fill="currentColor" d="M7.28033 3.21967C6.98744 2.92678 6.51256 2.92678 6.21967 3.21967C5.92678 3.51256 5.92678 3.98744 6.21967 4.28033L7.28033 3.21967ZM11 8L11.5303 8.53033C11.8232 8.23744 11.8232 7.76256 11.5303 7.46967L11 8ZM6.21967 11.7197C5.92678 12.0126 5.92678 12.4874 6.21967 12.7803C6.51256 13.0732 6.98744 13.0732 7.28033 12.7803L6.21967 11.7197ZM6.21967 4.28033L10.4697 8.53033L11.5303 7.46967L7.28033 3.21967L6.21967 4.28033ZM10.4697 7.46967L6.21967 11.7197L7.28033 12.7803L11.5303 8.53033L10.4697 7.46967Z"></path><path class="octicon-chevrow-stem" stroke="currentColor" d="M1.75 8H11" stroke-width="1.5" stroke-linecap="round"></path></svg>
+
+    </p>
+  </a>
+</div>
+
+      <div  class="py-2 py-sm-4 mb-4 col-md-4">
+  <a
+    href="/customer-stories/delivery-hero"
+    class="no-underline d-block rounded-1 Link--outlineOffset"
+  >
+    <span class="sr-only">Read more about Delivery Hero&apos;s customer story</span>
+    <div class="mb-4 position-relative">
+      <div style="height: 268px">
+        <picture>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/5gh6M26vnSVg4GpVwz0Lzr/43e3076424f98e7ff0d7233694a09fa4/deliveryhero2.jpg?w=1200&amp;fm=avif 1200w,//images.ctfassets.net/aukesvz1i7g8/5gh6M26vnSVg4GpVwz0Lzr/43e3076424f98e7ff0d7233694a09fa4/deliveryhero2.jpg?w=960&amp;fm=avif 960w,//images.ctfassets.net/aukesvz1i7g8/5gh6M26vnSVg4GpVwz0Lzr/43e3076424f98e7ff0d7233694a09fa4/deliveryhero2.jpg?w=720&amp;fm=avif 720w,//images.ctfassets.net/aukesvz1i7g8/5gh6M26vnSVg4GpVwz0Lzr/43e3076424f98e7ff0d7233694a09fa4/deliveryhero2.jpg?w=600&amp;fm=avif 600w,//images.ctfassets.net/aukesvz1i7g8/5gh6M26vnSVg4GpVwz0Lzr/43e3076424f98e7ff0d7233694a09fa4/deliveryhero2.jpg?w=480&amp;fm=avif 480w,//images.ctfassets.net/aukesvz1i7g8/5gh6M26vnSVg4GpVwz0Lzr/43e3076424f98e7ff0d7233694a09fa4/deliveryhero2.jpg?w=240&amp;fm=avif 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/avif"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/5gh6M26vnSVg4GpVwz0Lzr/43e3076424f98e7ff0d7233694a09fa4/deliveryhero2.jpg?w=1200&amp;fm=webp 1200w,//images.ctfassets.net/aukesvz1i7g8/5gh6M26vnSVg4GpVwz0Lzr/43e3076424f98e7ff0d7233694a09fa4/deliveryhero2.jpg?w=960&amp;fm=webp 960w,//images.ctfassets.net/aukesvz1i7g8/5gh6M26vnSVg4GpVwz0Lzr/43e3076424f98e7ff0d7233694a09fa4/deliveryhero2.jpg?w=720&amp;fm=webp 720w,//images.ctfassets.net/aukesvz1i7g8/5gh6M26vnSVg4GpVwz0Lzr/43e3076424f98e7ff0d7233694a09fa4/deliveryhero2.jpg?w=600&amp;fm=webp 600w,//images.ctfassets.net/aukesvz1i7g8/5gh6M26vnSVg4GpVwz0Lzr/43e3076424f98e7ff0d7233694a09fa4/deliveryhero2.jpg?w=480&amp;fm=webp 480w,//images.ctfassets.net/aukesvz1i7g8/5gh6M26vnSVg4GpVwz0Lzr/43e3076424f98e7ff0d7233694a09fa4/deliveryhero2.jpg?w=240&amp;fm=webp 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/webp"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/5gh6M26vnSVg4GpVwz0Lzr/43e3076424f98e7ff0d7233694a09fa4/deliveryhero2.jpg?w=1200&amp;fm=jpg 1200w,//images.ctfassets.net/aukesvz1i7g8/5gh6M26vnSVg4GpVwz0Lzr/43e3076424f98e7ff0d7233694a09fa4/deliveryhero2.jpg?w=960&amp;fm=jpg 960w,//images.ctfassets.net/aukesvz1i7g8/5gh6M26vnSVg4GpVwz0Lzr/43e3076424f98e7ff0d7233694a09fa4/deliveryhero2.jpg?w=720&amp;fm=jpg 720w,//images.ctfassets.net/aukesvz1i7g8/5gh6M26vnSVg4GpVwz0Lzr/43e3076424f98e7ff0d7233694a09fa4/deliveryhero2.jpg?w=600&amp;fm=jpg 600w,//images.ctfassets.net/aukesvz1i7g8/5gh6M26vnSVg4GpVwz0Lzr/43e3076424f98e7ff0d7233694a09fa4/deliveryhero2.jpg?w=480&amp;fm=jpg 480w,//images.ctfassets.net/aukesvz1i7g8/5gh6M26vnSVg4GpVwz0Lzr/43e3076424f98e7ff0d7233694a09fa4/deliveryhero2.jpg?w=240&amp;fm=jpg 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/jpeg"></source>
+  <img class="d-block width-full height-full object-fit-cover rounded-2" width="1200" height="1400" loading="lazy" decoding="async" alt="" src="//images.ctfassets.net/aukesvz1i7g8/5gh6M26vnSVg4GpVwz0Lzr/43e3076424f98e7ff0d7233694a09fa4/deliveryhero2.jpg?w=1200&amp;fm=jpg" />
+</picture>
+      </div>
+    </div>
+    <h3  class="f4-mktg color-fg-muted pb-2" aria-hidden="true"> Delivery Hero</h3>
+    <p  class="h6-mktg color-fg-default py-1 pb-sm-4 text-semibold" aria-hidden="true">Delivery Hero built a central home for community, communication, and code on GitHub Enterprise.</p>
+    <p class="f4 d-block d-sm-inline no-underline text-semibold arrow-target-mktg color-fg-accent" aria-hidden="true">
+      Read story <svg xmlns="http://www.w3.org/2000/svg" class="octicon arrow-symbol-mktg octicon" width="16" height="16" viewBox="0 0 16 16" fill="none"><path fill="currentColor" d="M7.28033 3.21967C6.98744 2.92678 6.51256 2.92678 6.21967 3.21967C5.92678 3.51256 5.92678 3.98744 6.21967 4.28033L7.28033 3.21967ZM11 8L11.5303 8.53033C11.8232 8.23744 11.8232 7.76256 11.5303 7.46967L11 8ZM6.21967 11.7197C5.92678 12.0126 5.92678 12.4874 6.21967 12.7803C6.51256 13.0732 6.98744 13.0732 7.28033 12.7803L6.21967 11.7197ZM6.21967 4.28033L10.4697 8.53033L11.5303 7.46967L7.28033 3.21967L6.21967 4.28033ZM10.4697 7.46967L6.21967 11.7197L7.28033 12.7803L11.5303 8.53033L10.4697 7.46967Z"></path><path class="octicon-chevrow-stem" stroke="currentColor" d="M1.75 8H11" stroke-width="1.5" stroke-linecap="round"></path></svg>
+
+    </p>
+  </a>
+</div>
+
+      <div  class="py-2 py-sm-4 mb-4 col-md-4">
+  <a
+    href="/customer-stories/capillarytech"
+    class="no-underline d-block rounded-1 Link--outlineOffset"
+  >
+    <span class="sr-only">Read more about Capillary Technologies&apos;s customer story</span>
+    <div class="mb-4 position-relative">
+      <div style="height: 268px">
+        <picture>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/2bJNtsQthRgQTDSpM13OUL/fec5010156bb4bb919affe2980baa579/capillary3.jpg?w=1200&amp;fm=avif 1200w,//images.ctfassets.net/aukesvz1i7g8/2bJNtsQthRgQTDSpM13OUL/fec5010156bb4bb919affe2980baa579/capillary3.jpg?w=960&amp;fm=avif 960w,//images.ctfassets.net/aukesvz1i7g8/2bJNtsQthRgQTDSpM13OUL/fec5010156bb4bb919affe2980baa579/capillary3.jpg?w=720&amp;fm=avif 720w,//images.ctfassets.net/aukesvz1i7g8/2bJNtsQthRgQTDSpM13OUL/fec5010156bb4bb919affe2980baa579/capillary3.jpg?w=600&amp;fm=avif 600w,//images.ctfassets.net/aukesvz1i7g8/2bJNtsQthRgQTDSpM13OUL/fec5010156bb4bb919affe2980baa579/capillary3.jpg?w=480&amp;fm=avif 480w,//images.ctfassets.net/aukesvz1i7g8/2bJNtsQthRgQTDSpM13OUL/fec5010156bb4bb919affe2980baa579/capillary3.jpg?w=240&amp;fm=avif 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/avif"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/2bJNtsQthRgQTDSpM13OUL/fec5010156bb4bb919affe2980baa579/capillary3.jpg?w=1200&amp;fm=webp 1200w,//images.ctfassets.net/aukesvz1i7g8/2bJNtsQthRgQTDSpM13OUL/fec5010156bb4bb919affe2980baa579/capillary3.jpg?w=960&amp;fm=webp 960w,//images.ctfassets.net/aukesvz1i7g8/2bJNtsQthRgQTDSpM13OUL/fec5010156bb4bb919affe2980baa579/capillary3.jpg?w=720&amp;fm=webp 720w,//images.ctfassets.net/aukesvz1i7g8/2bJNtsQthRgQTDSpM13OUL/fec5010156bb4bb919affe2980baa579/capillary3.jpg?w=600&amp;fm=webp 600w,//images.ctfassets.net/aukesvz1i7g8/2bJNtsQthRgQTDSpM13OUL/fec5010156bb4bb919affe2980baa579/capillary3.jpg?w=480&amp;fm=webp 480w,//images.ctfassets.net/aukesvz1i7g8/2bJNtsQthRgQTDSpM13OUL/fec5010156bb4bb919affe2980baa579/capillary3.jpg?w=240&amp;fm=webp 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/webp"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/2bJNtsQthRgQTDSpM13OUL/fec5010156bb4bb919affe2980baa579/capillary3.jpg?w=1200&amp;fm=jpg 1200w,//images.ctfassets.net/aukesvz1i7g8/2bJNtsQthRgQTDSpM13OUL/fec5010156bb4bb919affe2980baa579/capillary3.jpg?w=960&amp;fm=jpg 960w,//images.ctfassets.net/aukesvz1i7g8/2bJNtsQthRgQTDSpM13OUL/fec5010156bb4bb919affe2980baa579/capillary3.jpg?w=720&amp;fm=jpg 720w,//images.ctfassets.net/aukesvz1i7g8/2bJNtsQthRgQTDSpM13OUL/fec5010156bb4bb919affe2980baa579/capillary3.jpg?w=600&amp;fm=jpg 600w,//images.ctfassets.net/aukesvz1i7g8/2bJNtsQthRgQTDSpM13OUL/fec5010156bb4bb919affe2980baa579/capillary3.jpg?w=480&amp;fm=jpg 480w,//images.ctfassets.net/aukesvz1i7g8/2bJNtsQthRgQTDSpM13OUL/fec5010156bb4bb919affe2980baa579/capillary3.jpg?w=240&amp;fm=jpg 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/jpeg"></source>
+  <img class="d-block width-full height-full object-fit-cover rounded-2" width="1200" height="1400" loading="lazy" decoding="async" alt="" src="//images.ctfassets.net/aukesvz1i7g8/2bJNtsQthRgQTDSpM13OUL/fec5010156bb4bb919affe2980baa579/capillary3.jpg?w=1200&amp;fm=jpg" />
+</picture>
+      </div>
+    </div>
+    <h3  class="f4-mktg color-fg-muted pb-2" aria-hidden="true"> Capillary Technologies</h3>
+    <p  class="h6-mktg color-fg-default py-1 pb-sm-4 text-semibold" aria-hidden="true">With GitHub at the heart of its developer workflows, Capillary Technologies deploys fast. </p>
+    <p class="f4 d-block d-sm-inline no-underline text-semibold arrow-target-mktg color-fg-accent" aria-hidden="true">
+      Read story <svg xmlns="http://www.w3.org/2000/svg" class="octicon arrow-symbol-mktg octicon" width="16" height="16" viewBox="0 0 16 16" fill="none"><path fill="currentColor" d="M7.28033 3.21967C6.98744 2.92678 6.51256 2.92678 6.21967 3.21967C5.92678 3.51256 5.92678 3.98744 6.21967 4.28033L7.28033 3.21967ZM11 8L11.5303 8.53033C11.8232 8.23744 11.8232 7.76256 11.5303 7.46967L11 8ZM6.21967 11.7197C5.92678 12.0126 5.92678 12.4874 6.21967 12.7803C6.51256 13.0732 6.98744 13.0732 7.28033 12.7803L6.21967 11.7197ZM6.21967 4.28033L10.4697 8.53033L11.5303 7.46967L7.28033 3.21967L6.21967 4.28033ZM10.4697 7.46967L6.21967 11.7197L7.28033 12.7803L11.5303 8.53033L10.4697 7.46967Z"></path><path class="octicon-chevrow-stem" stroke="currentColor" d="M1.75 8H11" stroke-width="1.5" stroke-linecap="round"></path></svg>
+
+    </p>
+  </a>
+</div>
+
+      <div  class="py-2 py-sm-4 mb-4 col-md-4">
+  <a
+    href="/customer-stories/homedepot"
+    class="no-underline d-block rounded-1 Link--outlineOffset"
+  >
+    <span class="sr-only">Read more about The Home Depot&apos;s customer story</span>
+    <div class="mb-4 position-relative">
+      <div style="height: 268px">
+        <picture>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/mqom0ZuShspEmHMSf66eN/c253827c5ba8faf56894108c4b0f0657/THD1.jpg?w=1200&amp;fm=avif 1200w,//images.ctfassets.net/aukesvz1i7g8/mqom0ZuShspEmHMSf66eN/c253827c5ba8faf56894108c4b0f0657/THD1.jpg?w=960&amp;fm=avif 960w,//images.ctfassets.net/aukesvz1i7g8/mqom0ZuShspEmHMSf66eN/c253827c5ba8faf56894108c4b0f0657/THD1.jpg?w=720&amp;fm=avif 720w,//images.ctfassets.net/aukesvz1i7g8/mqom0ZuShspEmHMSf66eN/c253827c5ba8faf56894108c4b0f0657/THD1.jpg?w=600&amp;fm=avif 600w,//images.ctfassets.net/aukesvz1i7g8/mqom0ZuShspEmHMSf66eN/c253827c5ba8faf56894108c4b0f0657/THD1.jpg?w=480&amp;fm=avif 480w,//images.ctfassets.net/aukesvz1i7g8/mqom0ZuShspEmHMSf66eN/c253827c5ba8faf56894108c4b0f0657/THD1.jpg?w=240&amp;fm=avif 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/avif"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/mqom0ZuShspEmHMSf66eN/c253827c5ba8faf56894108c4b0f0657/THD1.jpg?w=1200&amp;fm=webp 1200w,//images.ctfassets.net/aukesvz1i7g8/mqom0ZuShspEmHMSf66eN/c253827c5ba8faf56894108c4b0f0657/THD1.jpg?w=960&amp;fm=webp 960w,//images.ctfassets.net/aukesvz1i7g8/mqom0ZuShspEmHMSf66eN/c253827c5ba8faf56894108c4b0f0657/THD1.jpg?w=720&amp;fm=webp 720w,//images.ctfassets.net/aukesvz1i7g8/mqom0ZuShspEmHMSf66eN/c253827c5ba8faf56894108c4b0f0657/THD1.jpg?w=600&amp;fm=webp 600w,//images.ctfassets.net/aukesvz1i7g8/mqom0ZuShspEmHMSf66eN/c253827c5ba8faf56894108c4b0f0657/THD1.jpg?w=480&amp;fm=webp 480w,//images.ctfassets.net/aukesvz1i7g8/mqom0ZuShspEmHMSf66eN/c253827c5ba8faf56894108c4b0f0657/THD1.jpg?w=240&amp;fm=webp 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/webp"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/mqom0ZuShspEmHMSf66eN/c253827c5ba8faf56894108c4b0f0657/THD1.jpg?w=1200&amp;fm=jpg 1200w,//images.ctfassets.net/aukesvz1i7g8/mqom0ZuShspEmHMSf66eN/c253827c5ba8faf56894108c4b0f0657/THD1.jpg?w=960&amp;fm=jpg 960w,//images.ctfassets.net/aukesvz1i7g8/mqom0ZuShspEmHMSf66eN/c253827c5ba8faf56894108c4b0f0657/THD1.jpg?w=720&amp;fm=jpg 720w,//images.ctfassets.net/aukesvz1i7g8/mqom0ZuShspEmHMSf66eN/c253827c5ba8faf56894108c4b0f0657/THD1.jpg?w=600&amp;fm=jpg 600w,//images.ctfassets.net/aukesvz1i7g8/mqom0ZuShspEmHMSf66eN/c253827c5ba8faf56894108c4b0f0657/THD1.jpg?w=480&amp;fm=jpg 480w,//images.ctfassets.net/aukesvz1i7g8/mqom0ZuShspEmHMSf66eN/c253827c5ba8faf56894108c4b0f0657/THD1.jpg?w=240&amp;fm=jpg 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/jpeg"></source>
+  <img class="d-block width-full height-full object-fit-cover rounded-2" width="1200" height="1400" loading="lazy" decoding="async" alt="" src="//images.ctfassets.net/aukesvz1i7g8/mqom0ZuShspEmHMSf66eN/c253827c5ba8faf56894108c4b0f0657/THD1.jpg?w=1200&amp;fm=jpg" />
+</picture>
+      </div>
+    </div>
+    <h3  class="f4-mktg color-fg-muted pb-2" aria-hidden="true"> The Home Depot</h3>
+    <p  class="h6-mktg color-fg-default py-1 pb-sm-4 text-semibold" aria-hidden="true">The world’s largest home improvement retailer builds on industry expertise to create what’s special about their company.</p>
+    <p class="f4 d-block d-sm-inline no-underline text-semibold arrow-target-mktg color-fg-accent" aria-hidden="true">
+      Read story <svg xmlns="http://www.w3.org/2000/svg" class="octicon arrow-symbol-mktg octicon" width="16" height="16" viewBox="0 0 16 16" fill="none"><path fill="currentColor" d="M7.28033 3.21967C6.98744 2.92678 6.51256 2.92678 6.21967 3.21967C5.92678 3.51256 5.92678 3.98744 6.21967 4.28033L7.28033 3.21967ZM11 8L11.5303 8.53033C11.8232 8.23744 11.8232 7.76256 11.5303 7.46967L11 8ZM6.21967 11.7197C5.92678 12.0126 5.92678 12.4874 6.21967 12.7803C6.51256 13.0732 6.98744 13.0732 7.28033 12.7803L6.21967 11.7197ZM6.21967 4.28033L10.4697 8.53033L11.5303 7.46967L7.28033 3.21967L6.21967 4.28033ZM10.4697 7.46967L6.21967 11.7197L7.28033 12.7803L11.5303 8.53033L10.4697 7.46967Z"></path><path class="octicon-chevrow-stem" stroke="currentColor" d="M1.75 8H11" stroke-width="1.5" stroke-linecap="round"></path></svg>
+
+    </p>
+  </a>
+</div>
+
+      <div  class="py-2 py-sm-4 mb-4 col-md-4">
+  <a
+    href="/customer-stories/shopify"
+    class="no-underline d-block rounded-1 Link--outlineOffset"
+  >
+    <span class="sr-only">Read more about Shopify&apos;s customer story</span>
+    <div class="mb-4 position-relative">
+      <div style="height: 268px">
+        <picture>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/5GYrn64jvg9EEQ7CyIT0ys/3c84fec31cb0ebb6f376861d95de0ea0/shopify3.jpg?w=1200&amp;fm=avif 1200w,//images.ctfassets.net/aukesvz1i7g8/5GYrn64jvg9EEQ7CyIT0ys/3c84fec31cb0ebb6f376861d95de0ea0/shopify3.jpg?w=960&amp;fm=avif 960w,//images.ctfassets.net/aukesvz1i7g8/5GYrn64jvg9EEQ7CyIT0ys/3c84fec31cb0ebb6f376861d95de0ea0/shopify3.jpg?w=720&amp;fm=avif 720w,//images.ctfassets.net/aukesvz1i7g8/5GYrn64jvg9EEQ7CyIT0ys/3c84fec31cb0ebb6f376861d95de0ea0/shopify3.jpg?w=600&amp;fm=avif 600w,//images.ctfassets.net/aukesvz1i7g8/5GYrn64jvg9EEQ7CyIT0ys/3c84fec31cb0ebb6f376861d95de0ea0/shopify3.jpg?w=480&amp;fm=avif 480w,//images.ctfassets.net/aukesvz1i7g8/5GYrn64jvg9EEQ7CyIT0ys/3c84fec31cb0ebb6f376861d95de0ea0/shopify3.jpg?w=240&amp;fm=avif 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/avif"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/5GYrn64jvg9EEQ7CyIT0ys/3c84fec31cb0ebb6f376861d95de0ea0/shopify3.jpg?w=1200&amp;fm=webp 1200w,//images.ctfassets.net/aukesvz1i7g8/5GYrn64jvg9EEQ7CyIT0ys/3c84fec31cb0ebb6f376861d95de0ea0/shopify3.jpg?w=960&amp;fm=webp 960w,//images.ctfassets.net/aukesvz1i7g8/5GYrn64jvg9EEQ7CyIT0ys/3c84fec31cb0ebb6f376861d95de0ea0/shopify3.jpg?w=720&amp;fm=webp 720w,//images.ctfassets.net/aukesvz1i7g8/5GYrn64jvg9EEQ7CyIT0ys/3c84fec31cb0ebb6f376861d95de0ea0/shopify3.jpg?w=600&amp;fm=webp 600w,//images.ctfassets.net/aukesvz1i7g8/5GYrn64jvg9EEQ7CyIT0ys/3c84fec31cb0ebb6f376861d95de0ea0/shopify3.jpg?w=480&amp;fm=webp 480w,//images.ctfassets.net/aukesvz1i7g8/5GYrn64jvg9EEQ7CyIT0ys/3c84fec31cb0ebb6f376861d95de0ea0/shopify3.jpg?w=240&amp;fm=webp 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/webp"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/5GYrn64jvg9EEQ7CyIT0ys/3c84fec31cb0ebb6f376861d95de0ea0/shopify3.jpg?w=1200&amp;fm=jpg 1200w,//images.ctfassets.net/aukesvz1i7g8/5GYrn64jvg9EEQ7CyIT0ys/3c84fec31cb0ebb6f376861d95de0ea0/shopify3.jpg?w=960&amp;fm=jpg 960w,//images.ctfassets.net/aukesvz1i7g8/5GYrn64jvg9EEQ7CyIT0ys/3c84fec31cb0ebb6f376861d95de0ea0/shopify3.jpg?w=720&amp;fm=jpg 720w,//images.ctfassets.net/aukesvz1i7g8/5GYrn64jvg9EEQ7CyIT0ys/3c84fec31cb0ebb6f376861d95de0ea0/shopify3.jpg?w=600&amp;fm=jpg 600w,//images.ctfassets.net/aukesvz1i7g8/5GYrn64jvg9EEQ7CyIT0ys/3c84fec31cb0ebb6f376861d95de0ea0/shopify3.jpg?w=480&amp;fm=jpg 480w,//images.ctfassets.net/aukesvz1i7g8/5GYrn64jvg9EEQ7CyIT0ys/3c84fec31cb0ebb6f376861d95de0ea0/shopify3.jpg?w=240&amp;fm=jpg 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/jpeg"></source>
+  <img class="d-block width-full height-full object-fit-cover rounded-2" width="1200" height="1400" loading="lazy" decoding="async" alt="" src="//images.ctfassets.net/aukesvz1i7g8/5GYrn64jvg9EEQ7CyIT0ys/3c84fec31cb0ebb6f376861d95de0ea0/shopify3.jpg?w=1200&amp;fm=jpg" />
+</picture>
+      </div>
+    </div>
+    <h3  class="f4-mktg color-fg-muted pb-2" aria-hidden="true"> Shopify</h3>
+    <p  class="h6-mktg color-fg-default py-1 pb-sm-4 text-semibold" aria-hidden="true">Shopify keeps pushing eCommerce forward with help from GitHub tools.</p>
+    <p class="f4 d-block d-sm-inline no-underline text-semibold arrow-target-mktg color-fg-accent" aria-hidden="true">
+      Read story <svg xmlns="http://www.w3.org/2000/svg" class="octicon arrow-symbol-mktg octicon" width="16" height="16" viewBox="0 0 16 16" fill="none"><path fill="currentColor" d="M7.28033 3.21967C6.98744 2.92678 6.51256 2.92678 6.21967 3.21967C5.92678 3.51256 5.92678 3.98744 6.21967 4.28033L7.28033 3.21967ZM11 8L11.5303 8.53033C11.8232 8.23744 11.8232 7.76256 11.5303 7.46967L11 8ZM6.21967 11.7197C5.92678 12.0126 5.92678 12.4874 6.21967 12.7803C6.51256 13.0732 6.98744 13.0732 7.28033 12.7803L6.21967 11.7197ZM6.21967 4.28033L10.4697 8.53033L11.5303 7.46967L7.28033 3.21967L6.21967 4.28033ZM10.4697 7.46967L6.21967 11.7197L7.28033 12.7803L11.5303 8.53033L10.4697 7.46967Z"></path><path class="octicon-chevrow-stem" stroke="currentColor" d="M1.75 8H11" stroke-width="1.5" stroke-linecap="round"></path></svg>
+
+    </p>
+  </a>
+</div>
+
+  </template>
+</turbo-stream>
+
+  <turbo-stream action="remove" target="load-more-stories-button" ></turbo-stream>

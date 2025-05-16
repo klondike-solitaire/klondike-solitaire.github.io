@@ -1,0 +1,216 @@
+<turbo-stream action="append" target="story-cards-grid" >
+  <template>
+      <div  class="py-2 py-sm-4 mb-4 col-md-4">
+  <a
+    href="/customer-stories/hover"
+    class="no-underline d-block rounded-1 Link--outlineOffset"
+  >
+    <span class="sr-only">Read more about HOVER&apos;s customer story</span>
+    <div class="mb-4 position-relative">
+      <div style="height: 268px">
+        <picture>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/3waEypt0VeHWwXaOhRyPBG/ae1e9fe3e58220253fea868a00f47173/1_3D_Models_Desktop.avif?w=1200&amp;fm=avif 1200w,//images.ctfassets.net/aukesvz1i7g8/3waEypt0VeHWwXaOhRyPBG/ae1e9fe3e58220253fea868a00f47173/1_3D_Models_Desktop.avif?w=960&amp;fm=avif 960w,//images.ctfassets.net/aukesvz1i7g8/3waEypt0VeHWwXaOhRyPBG/ae1e9fe3e58220253fea868a00f47173/1_3D_Models_Desktop.avif?w=720&amp;fm=avif 720w,//images.ctfassets.net/aukesvz1i7g8/3waEypt0VeHWwXaOhRyPBG/ae1e9fe3e58220253fea868a00f47173/1_3D_Models_Desktop.avif?w=600&amp;fm=avif 600w,//images.ctfassets.net/aukesvz1i7g8/3waEypt0VeHWwXaOhRyPBG/ae1e9fe3e58220253fea868a00f47173/1_3D_Models_Desktop.avif?w=480&amp;fm=avif 480w,//images.ctfassets.net/aukesvz1i7g8/3waEypt0VeHWwXaOhRyPBG/ae1e9fe3e58220253fea868a00f47173/1_3D_Models_Desktop.avif?w=240&amp;fm=avif 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/avif"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/3waEypt0VeHWwXaOhRyPBG/ae1e9fe3e58220253fea868a00f47173/1_3D_Models_Desktop.avif?w=1200&amp;fm=webp 1200w,//images.ctfassets.net/aukesvz1i7g8/3waEypt0VeHWwXaOhRyPBG/ae1e9fe3e58220253fea868a00f47173/1_3D_Models_Desktop.avif?w=960&amp;fm=webp 960w,//images.ctfassets.net/aukesvz1i7g8/3waEypt0VeHWwXaOhRyPBG/ae1e9fe3e58220253fea868a00f47173/1_3D_Models_Desktop.avif?w=720&amp;fm=webp 720w,//images.ctfassets.net/aukesvz1i7g8/3waEypt0VeHWwXaOhRyPBG/ae1e9fe3e58220253fea868a00f47173/1_3D_Models_Desktop.avif?w=600&amp;fm=webp 600w,//images.ctfassets.net/aukesvz1i7g8/3waEypt0VeHWwXaOhRyPBG/ae1e9fe3e58220253fea868a00f47173/1_3D_Models_Desktop.avif?w=480&amp;fm=webp 480w,//images.ctfassets.net/aukesvz1i7g8/3waEypt0VeHWwXaOhRyPBG/ae1e9fe3e58220253fea868a00f47173/1_3D_Models_Desktop.avif?w=240&amp;fm=webp 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/webp"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/3waEypt0VeHWwXaOhRyPBG/ae1e9fe3e58220253fea868a00f47173/1_3D_Models_Desktop.avif?w=1200&amp;fm=jpg 1200w,//images.ctfassets.net/aukesvz1i7g8/3waEypt0VeHWwXaOhRyPBG/ae1e9fe3e58220253fea868a00f47173/1_3D_Models_Desktop.avif?w=960&amp;fm=jpg 960w,//images.ctfassets.net/aukesvz1i7g8/3waEypt0VeHWwXaOhRyPBG/ae1e9fe3e58220253fea868a00f47173/1_3D_Models_Desktop.avif?w=720&amp;fm=jpg 720w,//images.ctfassets.net/aukesvz1i7g8/3waEypt0VeHWwXaOhRyPBG/ae1e9fe3e58220253fea868a00f47173/1_3D_Models_Desktop.avif?w=600&amp;fm=jpg 600w,//images.ctfassets.net/aukesvz1i7g8/3waEypt0VeHWwXaOhRyPBG/ae1e9fe3e58220253fea868a00f47173/1_3D_Models_Desktop.avif?w=480&amp;fm=jpg 480w,//images.ctfassets.net/aukesvz1i7g8/3waEypt0VeHWwXaOhRyPBG/ae1e9fe3e58220253fea868a00f47173/1_3D_Models_Desktop.avif?w=240&amp;fm=jpg 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/jpeg"></source>
+  <img class="d-block width-full height-full object-fit-cover rounded-2" width="1200" height="1400" loading="lazy" decoding="async" alt="" src="//images.ctfassets.net/aukesvz1i7g8/3waEypt0VeHWwXaOhRyPBG/ae1e9fe3e58220253fea868a00f47173/1_3D_Models_Desktop.avif?w=1200&amp;fm=jpg" />
+</picture>
+      </div>
+    </div>
+    <h3  class="f4-mktg color-fg-muted pb-2" aria-hidden="true"> HOVER</h3>
+    <p  class="h6-mktg color-fg-default py-1 pb-sm-4 text-semibold" aria-hidden="true">HOVER keeps developers in the flow with GitHub’s integrated development platform.</p>
+    <p class="f4 d-block d-sm-inline no-underline text-semibold arrow-target-mktg color-fg-accent" aria-hidden="true">
+      Read story <svg xmlns="http://www.w3.org/2000/svg" class="octicon arrow-symbol-mktg octicon" width="16" height="16" viewBox="0 0 16 16" fill="none"><path fill="currentColor" d="M7.28033 3.21967C6.98744 2.92678 6.51256 2.92678 6.21967 3.21967C5.92678 3.51256 5.92678 3.98744 6.21967 4.28033L7.28033 3.21967ZM11 8L11.5303 8.53033C11.8232 8.23744 11.8232 7.76256 11.5303 7.46967L11 8ZM6.21967 11.7197C5.92678 12.0126 5.92678 12.4874 6.21967 12.7803C6.51256 13.0732 6.98744 13.0732 7.28033 12.7803L6.21967 11.7197ZM6.21967 4.28033L10.4697 8.53033L11.5303 7.46967L7.28033 3.21967L6.21967 4.28033ZM10.4697 7.46967L6.21967 11.7197L7.28033 12.7803L11.5303 8.53033L10.4697 7.46967Z"></path><path class="octicon-chevrow-stem" stroke="currentColor" d="M1.75 8H11" stroke-width="1.5" stroke-linecap="round"></path></svg>
+
+    </p>
+  </a>
+</div>
+
+      <div  class="py-2 py-sm-4 mb-4 col-md-4">
+  <a
+    href="/customer-stories/itau"
+    class="no-underline d-block rounded-1 Link--outlineOffset"
+  >
+    <span class="sr-only">Read more about Itaú &apos;s customer story</span>
+    <div class="mb-4 position-relative">
+      <div style="height: 268px">
+        <picture>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/36pazlJDnfxxUO3oF5bj4w/5cd8cf0062334166e016e1ac982a1a70/1650395106826.jpg?w=1200&amp;fm=avif 1200w,//images.ctfassets.net/aukesvz1i7g8/36pazlJDnfxxUO3oF5bj4w/5cd8cf0062334166e016e1ac982a1a70/1650395106826.jpg?w=960&amp;fm=avif 960w,//images.ctfassets.net/aukesvz1i7g8/36pazlJDnfxxUO3oF5bj4w/5cd8cf0062334166e016e1ac982a1a70/1650395106826.jpg?w=720&amp;fm=avif 720w,//images.ctfassets.net/aukesvz1i7g8/36pazlJDnfxxUO3oF5bj4w/5cd8cf0062334166e016e1ac982a1a70/1650395106826.jpg?w=600&amp;fm=avif 600w,//images.ctfassets.net/aukesvz1i7g8/36pazlJDnfxxUO3oF5bj4w/5cd8cf0062334166e016e1ac982a1a70/1650395106826.jpg?w=480&amp;fm=avif 480w,//images.ctfassets.net/aukesvz1i7g8/36pazlJDnfxxUO3oF5bj4w/5cd8cf0062334166e016e1ac982a1a70/1650395106826.jpg?w=240&amp;fm=avif 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/avif"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/36pazlJDnfxxUO3oF5bj4w/5cd8cf0062334166e016e1ac982a1a70/1650395106826.jpg?w=1200&amp;fm=webp 1200w,//images.ctfassets.net/aukesvz1i7g8/36pazlJDnfxxUO3oF5bj4w/5cd8cf0062334166e016e1ac982a1a70/1650395106826.jpg?w=960&amp;fm=webp 960w,//images.ctfassets.net/aukesvz1i7g8/36pazlJDnfxxUO3oF5bj4w/5cd8cf0062334166e016e1ac982a1a70/1650395106826.jpg?w=720&amp;fm=webp 720w,//images.ctfassets.net/aukesvz1i7g8/36pazlJDnfxxUO3oF5bj4w/5cd8cf0062334166e016e1ac982a1a70/1650395106826.jpg?w=600&amp;fm=webp 600w,//images.ctfassets.net/aukesvz1i7g8/36pazlJDnfxxUO3oF5bj4w/5cd8cf0062334166e016e1ac982a1a70/1650395106826.jpg?w=480&amp;fm=webp 480w,//images.ctfassets.net/aukesvz1i7g8/36pazlJDnfxxUO3oF5bj4w/5cd8cf0062334166e016e1ac982a1a70/1650395106826.jpg?w=240&amp;fm=webp 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/webp"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/36pazlJDnfxxUO3oF5bj4w/5cd8cf0062334166e016e1ac982a1a70/1650395106826.jpg?w=1200&amp;fm=jpg 1200w,//images.ctfassets.net/aukesvz1i7g8/36pazlJDnfxxUO3oF5bj4w/5cd8cf0062334166e016e1ac982a1a70/1650395106826.jpg?w=960&amp;fm=jpg 960w,//images.ctfassets.net/aukesvz1i7g8/36pazlJDnfxxUO3oF5bj4w/5cd8cf0062334166e016e1ac982a1a70/1650395106826.jpg?w=720&amp;fm=jpg 720w,//images.ctfassets.net/aukesvz1i7g8/36pazlJDnfxxUO3oF5bj4w/5cd8cf0062334166e016e1ac982a1a70/1650395106826.jpg?w=600&amp;fm=jpg 600w,//images.ctfassets.net/aukesvz1i7g8/36pazlJDnfxxUO3oF5bj4w/5cd8cf0062334166e016e1ac982a1a70/1650395106826.jpg?w=480&amp;fm=jpg 480w,//images.ctfassets.net/aukesvz1i7g8/36pazlJDnfxxUO3oF5bj4w/5cd8cf0062334166e016e1ac982a1a70/1650395106826.jpg?w=240&amp;fm=jpg 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/jpeg"></source>
+  <img class="d-block width-full height-full object-fit-cover rounded-2" width="1200" height="1400" loading="lazy" decoding="async" alt="" src="//images.ctfassets.net/aukesvz1i7g8/36pazlJDnfxxUO3oF5bj4w/5cd8cf0062334166e016e1ac982a1a70/1650395106826.jpg?w=1200&amp;fm=jpg" />
+</picture>
+      </div>
+    </div>
+    <h3  class="f4-mktg color-fg-muted pb-2" aria-hidden="true"> Itaú </h3>
+    <p  class="h6-mktg color-fg-default py-1 pb-sm-4 text-semibold" aria-hidden="true">Itaú delivers software faster with GitHub Enterprise.</p>
+    <p class="f4 d-block d-sm-inline no-underline text-semibold arrow-target-mktg color-fg-accent" aria-hidden="true">
+      Read story <svg xmlns="http://www.w3.org/2000/svg" class="octicon arrow-symbol-mktg octicon" width="16" height="16" viewBox="0 0 16 16" fill="none"><path fill="currentColor" d="M7.28033 3.21967C6.98744 2.92678 6.51256 2.92678 6.21967 3.21967C5.92678 3.51256 5.92678 3.98744 6.21967 4.28033L7.28033 3.21967ZM11 8L11.5303 8.53033C11.8232 8.23744 11.8232 7.76256 11.5303 7.46967L11 8ZM6.21967 11.7197C5.92678 12.0126 5.92678 12.4874 6.21967 12.7803C6.51256 13.0732 6.98744 13.0732 7.28033 12.7803L6.21967 11.7197ZM6.21967 4.28033L10.4697 8.53033L11.5303 7.46967L7.28033 3.21967L6.21967 4.28033ZM10.4697 7.46967L6.21967 11.7197L7.28033 12.7803L11.5303 8.53033L10.4697 7.46967Z"></path><path class="octicon-chevrow-stem" stroke="currentColor" d="M1.75 8H11" stroke-width="1.5" stroke-linecap="round"></path></svg>
+
+    </p>
+  </a>
+</div>
+
+      <div  class="py-2 py-sm-4 mb-4 col-md-4">
+  <a
+    href="/customer-stories/sph-media"
+    class="no-underline d-block rounded-1 Link--outlineOffset"
+  >
+    <span class="sr-only">Read more about SPH Media&apos;s customer story</span>
+    <div class="mb-4 position-relative">
+      <div style="height: 268px">
+        <picture>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/4efMTQBhOArW82DvW8gyGf/643bbce596119630248bb56235e5301f/IMG_8444.JPG?w=1200&amp;fm=avif 1200w,//images.ctfassets.net/aukesvz1i7g8/4efMTQBhOArW82DvW8gyGf/643bbce596119630248bb56235e5301f/IMG_8444.JPG?w=960&amp;fm=avif 960w,//images.ctfassets.net/aukesvz1i7g8/4efMTQBhOArW82DvW8gyGf/643bbce596119630248bb56235e5301f/IMG_8444.JPG?w=720&amp;fm=avif 720w,//images.ctfassets.net/aukesvz1i7g8/4efMTQBhOArW82DvW8gyGf/643bbce596119630248bb56235e5301f/IMG_8444.JPG?w=600&amp;fm=avif 600w,//images.ctfassets.net/aukesvz1i7g8/4efMTQBhOArW82DvW8gyGf/643bbce596119630248bb56235e5301f/IMG_8444.JPG?w=480&amp;fm=avif 480w,//images.ctfassets.net/aukesvz1i7g8/4efMTQBhOArW82DvW8gyGf/643bbce596119630248bb56235e5301f/IMG_8444.JPG?w=240&amp;fm=avif 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/avif"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/4efMTQBhOArW82DvW8gyGf/643bbce596119630248bb56235e5301f/IMG_8444.JPG?w=1200&amp;fm=webp 1200w,//images.ctfassets.net/aukesvz1i7g8/4efMTQBhOArW82DvW8gyGf/643bbce596119630248bb56235e5301f/IMG_8444.JPG?w=960&amp;fm=webp 960w,//images.ctfassets.net/aukesvz1i7g8/4efMTQBhOArW82DvW8gyGf/643bbce596119630248bb56235e5301f/IMG_8444.JPG?w=720&amp;fm=webp 720w,//images.ctfassets.net/aukesvz1i7g8/4efMTQBhOArW82DvW8gyGf/643bbce596119630248bb56235e5301f/IMG_8444.JPG?w=600&amp;fm=webp 600w,//images.ctfassets.net/aukesvz1i7g8/4efMTQBhOArW82DvW8gyGf/643bbce596119630248bb56235e5301f/IMG_8444.JPG?w=480&amp;fm=webp 480w,//images.ctfassets.net/aukesvz1i7g8/4efMTQBhOArW82DvW8gyGf/643bbce596119630248bb56235e5301f/IMG_8444.JPG?w=240&amp;fm=webp 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/webp"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/4efMTQBhOArW82DvW8gyGf/643bbce596119630248bb56235e5301f/IMG_8444.JPG?w=1200&amp;fm=jpg 1200w,//images.ctfassets.net/aukesvz1i7g8/4efMTQBhOArW82DvW8gyGf/643bbce596119630248bb56235e5301f/IMG_8444.JPG?w=960&amp;fm=jpg 960w,//images.ctfassets.net/aukesvz1i7g8/4efMTQBhOArW82DvW8gyGf/643bbce596119630248bb56235e5301f/IMG_8444.JPG?w=720&amp;fm=jpg 720w,//images.ctfassets.net/aukesvz1i7g8/4efMTQBhOArW82DvW8gyGf/643bbce596119630248bb56235e5301f/IMG_8444.JPG?w=600&amp;fm=jpg 600w,//images.ctfassets.net/aukesvz1i7g8/4efMTQBhOArW82DvW8gyGf/643bbce596119630248bb56235e5301f/IMG_8444.JPG?w=480&amp;fm=jpg 480w,//images.ctfassets.net/aukesvz1i7g8/4efMTQBhOArW82DvW8gyGf/643bbce596119630248bb56235e5301f/IMG_8444.JPG?w=240&amp;fm=jpg 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/jpeg"></source>
+  <img class="d-block width-full height-full object-fit-cover rounded-2" width="1200" height="1400" loading="lazy" decoding="async" alt="" src="//images.ctfassets.net/aukesvz1i7g8/4efMTQBhOArW82DvW8gyGf/643bbce596119630248bb56235e5301f/IMG_8444.JPG?w=1200&amp;fm=jpg" />
+</picture>
+      </div>
+    </div>
+    <h3  class="f4-mktg color-fg-muted pb-2" aria-hidden="true"> SPH Media</h3>
+    <p  class="h6-mktg color-fg-default py-1 pb-sm-4 text-semibold" aria-hidden="true">SPH Media tames tool sprawl and secures code with GitHub.</p>
+    <p class="f4 d-block d-sm-inline no-underline text-semibold arrow-target-mktg color-fg-accent" aria-hidden="true">
+      Read story <svg xmlns="http://www.w3.org/2000/svg" class="octicon arrow-symbol-mktg octicon" width="16" height="16" viewBox="0 0 16 16" fill="none"><path fill="currentColor" d="M7.28033 3.21967C6.98744 2.92678 6.51256 2.92678 6.21967 3.21967C5.92678 3.51256 5.92678 3.98744 6.21967 4.28033L7.28033 3.21967ZM11 8L11.5303 8.53033C11.8232 8.23744 11.8232 7.76256 11.5303 7.46967L11 8ZM6.21967 11.7197C5.92678 12.0126 5.92678 12.4874 6.21967 12.7803C6.51256 13.0732 6.98744 13.0732 7.28033 12.7803L6.21967 11.7197ZM6.21967 4.28033L10.4697 8.53033L11.5303 7.46967L7.28033 3.21967L6.21967 4.28033ZM10.4697 7.46967L6.21967 11.7197L7.28033 12.7803L11.5303 8.53033L10.4697 7.46967Z"></path><path class="octicon-chevrow-stem" stroke="currentColor" d="M1.75 8H11" stroke-width="1.5" stroke-linecap="round"></path></svg>
+
+    </p>
+  </a>
+</div>
+
+      <div  class="py-2 py-sm-4 mb-4 col-md-4">
+  <a
+    href="/customer-stories/amplifon"
+    class="no-underline d-block rounded-1 Link--outlineOffset"
+  >
+    <span class="sr-only">Read more about Amplifon&apos;s customer story</span>
+    <div class="mb-4 position-relative">
+      <div style="height: 268px">
+        <picture>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/4ugPKC6tL2NNqfZPqX86Aq/3ab8703920901f2a04ec3015cd62a605/2022_Amplifon_Corporate0570__1_.jpg?w=1200&amp;fm=avif 1200w,//images.ctfassets.net/aukesvz1i7g8/4ugPKC6tL2NNqfZPqX86Aq/3ab8703920901f2a04ec3015cd62a605/2022_Amplifon_Corporate0570__1_.jpg?w=960&amp;fm=avif 960w,//images.ctfassets.net/aukesvz1i7g8/4ugPKC6tL2NNqfZPqX86Aq/3ab8703920901f2a04ec3015cd62a605/2022_Amplifon_Corporate0570__1_.jpg?w=720&amp;fm=avif 720w,//images.ctfassets.net/aukesvz1i7g8/4ugPKC6tL2NNqfZPqX86Aq/3ab8703920901f2a04ec3015cd62a605/2022_Amplifon_Corporate0570__1_.jpg?w=600&amp;fm=avif 600w,//images.ctfassets.net/aukesvz1i7g8/4ugPKC6tL2NNqfZPqX86Aq/3ab8703920901f2a04ec3015cd62a605/2022_Amplifon_Corporate0570__1_.jpg?w=480&amp;fm=avif 480w,//images.ctfassets.net/aukesvz1i7g8/4ugPKC6tL2NNqfZPqX86Aq/3ab8703920901f2a04ec3015cd62a605/2022_Amplifon_Corporate0570__1_.jpg?w=240&amp;fm=avif 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/avif"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/4ugPKC6tL2NNqfZPqX86Aq/3ab8703920901f2a04ec3015cd62a605/2022_Amplifon_Corporate0570__1_.jpg?w=1200&amp;fm=webp 1200w,//images.ctfassets.net/aukesvz1i7g8/4ugPKC6tL2NNqfZPqX86Aq/3ab8703920901f2a04ec3015cd62a605/2022_Amplifon_Corporate0570__1_.jpg?w=960&amp;fm=webp 960w,//images.ctfassets.net/aukesvz1i7g8/4ugPKC6tL2NNqfZPqX86Aq/3ab8703920901f2a04ec3015cd62a605/2022_Amplifon_Corporate0570__1_.jpg?w=720&amp;fm=webp 720w,//images.ctfassets.net/aukesvz1i7g8/4ugPKC6tL2NNqfZPqX86Aq/3ab8703920901f2a04ec3015cd62a605/2022_Amplifon_Corporate0570__1_.jpg?w=600&amp;fm=webp 600w,//images.ctfassets.net/aukesvz1i7g8/4ugPKC6tL2NNqfZPqX86Aq/3ab8703920901f2a04ec3015cd62a605/2022_Amplifon_Corporate0570__1_.jpg?w=480&amp;fm=webp 480w,//images.ctfassets.net/aukesvz1i7g8/4ugPKC6tL2NNqfZPqX86Aq/3ab8703920901f2a04ec3015cd62a605/2022_Amplifon_Corporate0570__1_.jpg?w=240&amp;fm=webp 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/webp"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/4ugPKC6tL2NNqfZPqX86Aq/3ab8703920901f2a04ec3015cd62a605/2022_Amplifon_Corporate0570__1_.jpg?w=1200&amp;fm=jpg 1200w,//images.ctfassets.net/aukesvz1i7g8/4ugPKC6tL2NNqfZPqX86Aq/3ab8703920901f2a04ec3015cd62a605/2022_Amplifon_Corporate0570__1_.jpg?w=960&amp;fm=jpg 960w,//images.ctfassets.net/aukesvz1i7g8/4ugPKC6tL2NNqfZPqX86Aq/3ab8703920901f2a04ec3015cd62a605/2022_Amplifon_Corporate0570__1_.jpg?w=720&amp;fm=jpg 720w,//images.ctfassets.net/aukesvz1i7g8/4ugPKC6tL2NNqfZPqX86Aq/3ab8703920901f2a04ec3015cd62a605/2022_Amplifon_Corporate0570__1_.jpg?w=600&amp;fm=jpg 600w,//images.ctfassets.net/aukesvz1i7g8/4ugPKC6tL2NNqfZPqX86Aq/3ab8703920901f2a04ec3015cd62a605/2022_Amplifon_Corporate0570__1_.jpg?w=480&amp;fm=jpg 480w,//images.ctfassets.net/aukesvz1i7g8/4ugPKC6tL2NNqfZPqX86Aq/3ab8703920901f2a04ec3015cd62a605/2022_Amplifon_Corporate0570__1_.jpg?w=240&amp;fm=jpg 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/jpeg"></source>
+  <img class="d-block width-full height-full object-fit-cover rounded-2" width="1200" height="1400" loading="lazy" decoding="async" alt="" src="//images.ctfassets.net/aukesvz1i7g8/4ugPKC6tL2NNqfZPqX86Aq/3ab8703920901f2a04ec3015cd62a605/2022_Amplifon_Corporate0570__1_.jpg?w=1200&amp;fm=jpg" />
+</picture>
+      </div>
+    </div>
+    <h3  class="f4-mktg color-fg-muted pb-2" aria-hidden="true"> Amplifon</h3>
+    <p  class="h6-mktg color-fg-default py-1 pb-sm-4 text-semibold" aria-hidden="true">Amplifon centralizes development on GitHub to accelerate healthcare innovation.</p>
+    <p class="f4 d-block d-sm-inline no-underline text-semibold arrow-target-mktg color-fg-accent" aria-hidden="true">
+      Read story <svg xmlns="http://www.w3.org/2000/svg" class="octicon arrow-symbol-mktg octicon" width="16" height="16" viewBox="0 0 16 16" fill="none"><path fill="currentColor" d="M7.28033 3.21967C6.98744 2.92678 6.51256 2.92678 6.21967 3.21967C5.92678 3.51256 5.92678 3.98744 6.21967 4.28033L7.28033 3.21967ZM11 8L11.5303 8.53033C11.8232 8.23744 11.8232 7.76256 11.5303 7.46967L11 8ZM6.21967 11.7197C5.92678 12.0126 5.92678 12.4874 6.21967 12.7803C6.51256 13.0732 6.98744 13.0732 7.28033 12.7803L6.21967 11.7197ZM6.21967 4.28033L10.4697 8.53033L11.5303 7.46967L7.28033 3.21967L6.21967 4.28033ZM10.4697 7.46967L6.21967 11.7197L7.28033 12.7803L11.5303 8.53033L10.4697 7.46967Z"></path><path class="octicon-chevrow-stem" stroke="currentColor" d="M1.75 8H11" stroke-width="1.5" stroke-linecap="round"></path></svg>
+
+    </p>
+  </a>
+</div>
+
+      <div  class="py-2 py-sm-4 mb-4 col-md-4">
+  <a
+    href="/customer-stories/indra"
+    class="no-underline d-block rounded-1 Link--outlineOffset"
+  >
+    <span class="sr-only">Read more about Indra&apos;s customer story</span>
+    <div class="mb-4 position-relative">
+      <div style="height: 268px">
+        <picture>
+  
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/5mxfgYUk8B17XvOjnqDT4T/d9c5d9d092bd19b6a25b2eedf7d63168/GettyImages-962449150_adaptada.png?w=1200&amp;fm=webp 1200w,//images.ctfassets.net/aukesvz1i7g8/5mxfgYUk8B17XvOjnqDT4T/d9c5d9d092bd19b6a25b2eedf7d63168/GettyImages-962449150_adaptada.png?w=960&amp;fm=webp 960w,//images.ctfassets.net/aukesvz1i7g8/5mxfgYUk8B17XvOjnqDT4T/d9c5d9d092bd19b6a25b2eedf7d63168/GettyImages-962449150_adaptada.png?w=720&amp;fm=webp 720w,//images.ctfassets.net/aukesvz1i7g8/5mxfgYUk8B17XvOjnqDT4T/d9c5d9d092bd19b6a25b2eedf7d63168/GettyImages-962449150_adaptada.png?w=600&amp;fm=webp 600w,//images.ctfassets.net/aukesvz1i7g8/5mxfgYUk8B17XvOjnqDT4T/d9c5d9d092bd19b6a25b2eedf7d63168/GettyImages-962449150_adaptada.png?w=480&amp;fm=webp 480w,//images.ctfassets.net/aukesvz1i7g8/5mxfgYUk8B17XvOjnqDT4T/d9c5d9d092bd19b6a25b2eedf7d63168/GettyImages-962449150_adaptada.png?w=240&amp;fm=webp 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/webp"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/5mxfgYUk8B17XvOjnqDT4T/d9c5d9d092bd19b6a25b2eedf7d63168/GettyImages-962449150_adaptada.png?w=1200&amp;fm=png 1200w,//images.ctfassets.net/aukesvz1i7g8/5mxfgYUk8B17XvOjnqDT4T/d9c5d9d092bd19b6a25b2eedf7d63168/GettyImages-962449150_adaptada.png?w=960&amp;fm=png 960w,//images.ctfassets.net/aukesvz1i7g8/5mxfgYUk8B17XvOjnqDT4T/d9c5d9d092bd19b6a25b2eedf7d63168/GettyImages-962449150_adaptada.png?w=720&amp;fm=png 720w,//images.ctfassets.net/aukesvz1i7g8/5mxfgYUk8B17XvOjnqDT4T/d9c5d9d092bd19b6a25b2eedf7d63168/GettyImages-962449150_adaptada.png?w=600&amp;fm=png 600w,//images.ctfassets.net/aukesvz1i7g8/5mxfgYUk8B17XvOjnqDT4T/d9c5d9d092bd19b6a25b2eedf7d63168/GettyImages-962449150_adaptada.png?w=480&amp;fm=png 480w,//images.ctfassets.net/aukesvz1i7g8/5mxfgYUk8B17XvOjnqDT4T/d9c5d9d092bd19b6a25b2eedf7d63168/GettyImages-962449150_adaptada.png?w=240&amp;fm=png 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/png"></source>
+  <img class="d-block width-full height-full object-fit-cover rounded-2" width="1200" height="1400" loading="lazy" decoding="async" alt="" src="//images.ctfassets.net/aukesvz1i7g8/5mxfgYUk8B17XvOjnqDT4T/d9c5d9d092bd19b6a25b2eedf7d63168/GettyImages-962449150_adaptada.png?w=1200&amp;fm=png" />
+</picture>
+      </div>
+    </div>
+    <h3  class="f4-mktg color-fg-muted pb-2" aria-hidden="true"> Indra</h3>
+    <p  class="h6-mktg color-fg-default py-1 pb-sm-4 text-semibold" aria-hidden="true">GitHub Copilot helps Indra focus on making the world safer.</p>
+    <p class="f4 d-block d-sm-inline no-underline text-semibold arrow-target-mktg color-fg-accent" aria-hidden="true">
+      Read story <svg xmlns="http://www.w3.org/2000/svg" class="octicon arrow-symbol-mktg octicon" width="16" height="16" viewBox="0 0 16 16" fill="none"><path fill="currentColor" d="M7.28033 3.21967C6.98744 2.92678 6.51256 2.92678 6.21967 3.21967C5.92678 3.51256 5.92678 3.98744 6.21967 4.28033L7.28033 3.21967ZM11 8L11.5303 8.53033C11.8232 8.23744 11.8232 7.76256 11.5303 7.46967L11 8ZM6.21967 11.7197C5.92678 12.0126 5.92678 12.4874 6.21967 12.7803C6.51256 13.0732 6.98744 13.0732 7.28033 12.7803L6.21967 11.7197ZM6.21967 4.28033L10.4697 8.53033L11.5303 7.46967L7.28033 3.21967L6.21967 4.28033ZM10.4697 7.46967L6.21967 11.7197L7.28033 12.7803L11.5303 8.53033L10.4697 7.46967Z"></path><path class="octicon-chevrow-stem" stroke="currentColor" d="M1.75 8H11" stroke-width="1.5" stroke-linecap="round"></path></svg>
+
+    </p>
+  </a>
+</div>
+
+      <div  class="py-2 py-sm-4 mb-4 col-md-4">
+  <a
+    href="/customer-stories/mercado-libre"
+    class="no-underline d-block rounded-1 Link--outlineOffset"
+  >
+    <span class="sr-only">Read more about Mercado Libre&apos;s customer story</span>
+    <div class="mb-4 position-relative">
+      <div style="height: 268px">
+        <picture>
+  
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/24zra1pHxLrhEmlK0rMHBT/26ade08dd2ce4dfaf47889932887cc4e/GitHub_MercadoLibre_v12_SH.00_00_23_19.Still008.png?w=1200&amp;fm=webp 1200w,//images.ctfassets.net/aukesvz1i7g8/24zra1pHxLrhEmlK0rMHBT/26ade08dd2ce4dfaf47889932887cc4e/GitHub_MercadoLibre_v12_SH.00_00_23_19.Still008.png?w=960&amp;fm=webp 960w,//images.ctfassets.net/aukesvz1i7g8/24zra1pHxLrhEmlK0rMHBT/26ade08dd2ce4dfaf47889932887cc4e/GitHub_MercadoLibre_v12_SH.00_00_23_19.Still008.png?w=720&amp;fm=webp 720w,//images.ctfassets.net/aukesvz1i7g8/24zra1pHxLrhEmlK0rMHBT/26ade08dd2ce4dfaf47889932887cc4e/GitHub_MercadoLibre_v12_SH.00_00_23_19.Still008.png?w=600&amp;fm=webp 600w,//images.ctfassets.net/aukesvz1i7g8/24zra1pHxLrhEmlK0rMHBT/26ade08dd2ce4dfaf47889932887cc4e/GitHub_MercadoLibre_v12_SH.00_00_23_19.Still008.png?w=480&amp;fm=webp 480w,//images.ctfassets.net/aukesvz1i7g8/24zra1pHxLrhEmlK0rMHBT/26ade08dd2ce4dfaf47889932887cc4e/GitHub_MercadoLibre_v12_SH.00_00_23_19.Still008.png?w=240&amp;fm=webp 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/webp"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/24zra1pHxLrhEmlK0rMHBT/26ade08dd2ce4dfaf47889932887cc4e/GitHub_MercadoLibre_v12_SH.00_00_23_19.Still008.png?w=1200&amp;fm=png 1200w,//images.ctfassets.net/aukesvz1i7g8/24zra1pHxLrhEmlK0rMHBT/26ade08dd2ce4dfaf47889932887cc4e/GitHub_MercadoLibre_v12_SH.00_00_23_19.Still008.png?w=960&amp;fm=png 960w,//images.ctfassets.net/aukesvz1i7g8/24zra1pHxLrhEmlK0rMHBT/26ade08dd2ce4dfaf47889932887cc4e/GitHub_MercadoLibre_v12_SH.00_00_23_19.Still008.png?w=720&amp;fm=png 720w,//images.ctfassets.net/aukesvz1i7g8/24zra1pHxLrhEmlK0rMHBT/26ade08dd2ce4dfaf47889932887cc4e/GitHub_MercadoLibre_v12_SH.00_00_23_19.Still008.png?w=600&amp;fm=png 600w,//images.ctfassets.net/aukesvz1i7g8/24zra1pHxLrhEmlK0rMHBT/26ade08dd2ce4dfaf47889932887cc4e/GitHub_MercadoLibre_v12_SH.00_00_23_19.Still008.png?w=480&amp;fm=png 480w,//images.ctfassets.net/aukesvz1i7g8/24zra1pHxLrhEmlK0rMHBT/26ade08dd2ce4dfaf47889932887cc4e/GitHub_MercadoLibre_v12_SH.00_00_23_19.Still008.png?w=240&amp;fm=png 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/png"></source>
+  <img class="d-block width-full height-full object-fit-cover rounded-2" width="1200" height="1400" loading="lazy" decoding="async" alt="" src="//images.ctfassets.net/aukesvz1i7g8/24zra1pHxLrhEmlK0rMHBT/26ade08dd2ce4dfaf47889932887cc4e/GitHub_MercadoLibre_v12_SH.00_00_23_19.Still008.png?w=1200&amp;fm=png" />
+</picture>
+      </div>
+        <div  class="position-absolute top-0 right-0 mt-2 mr-2">
+          <span
+            class="d-inline-block rounded p-2 mx-auto"
+            style="background-color: rgba(0,0,0,0.5);"
+          >
+            <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-device-camera-video d-block color-fg-on-emphasis">
+    <path d="M16 3.75v8.5a.75.75 0 0 1-1.136.643L11 10.575v.675A1.75 1.75 0 0 1 9.25 13h-7.5A1.75 1.75 0 0 1 0 11.25v-6.5C0 3.784.784 3 1.75 3h7.5c.966 0 1.75.784 1.75 1.75v.675l3.864-2.318A.75.75 0 0 1 16 3.75Zm-6.5 1a.25.25 0 0 0-.25-.25h-7.5a.25.25 0 0 0-.25.25v6.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-6.5ZM11 8.825l3.5 2.1v-5.85l-3.5 2.1Z"></path>
+</svg>
+          </span>
+        </div>
+    </div>
+    <h3  class="f4-mktg color-fg-muted pb-2" aria-hidden="true"> Mercado Libre</h3>
+    <p  class="h6-mktg color-fg-default py-1 pb-sm-4 text-semibold" aria-hidden="true">Mercado Libre frees developers&#39; minds to focus on their mission with GitHub.</p>
+    <p class="f4 d-block d-sm-inline no-underline text-semibold arrow-target-mktg color-fg-accent" aria-hidden="true">
+      Read story <svg xmlns="http://www.w3.org/2000/svg" class="octicon arrow-symbol-mktg octicon" width="16" height="16" viewBox="0 0 16 16" fill="none"><path fill="currentColor" d="M7.28033 3.21967C6.98744 2.92678 6.51256 2.92678 6.21967 3.21967C5.92678 3.51256 5.92678 3.98744 6.21967 4.28033L7.28033 3.21967ZM11 8L11.5303 8.53033C11.8232 8.23744 11.8232 7.76256 11.5303 7.46967L11 8ZM6.21967 11.7197C5.92678 12.0126 5.92678 12.4874 6.21967 12.7803C6.51256 13.0732 6.98744 13.0732 7.28033 12.7803L6.21967 11.7197ZM6.21967 4.28033L10.4697 8.53033L11.5303 7.46967L7.28033 3.21967L6.21967 4.28033ZM10.4697 7.46967L6.21967 11.7197L7.28033 12.7803L11.5303 8.53033L10.4697 7.46967Z"></path><path class="octicon-chevrow-stem" stroke="currentColor" d="M1.75 8H11" stroke-width="1.5" stroke-linecap="round"></path></svg>
+
+    </p>
+  </a>
+</div>
+
+      <div  class="py-2 py-sm-4 mb-4 col-md-4">
+  <a
+    href="/customer-stories/coyote-logistics"
+    class="no-underline d-block rounded-1 Link--outlineOffset"
+  >
+    <span class="sr-only">Read more about Coyote Logistics&apos;s customer story</span>
+    <div class="mb-4 position-relative">
+      <div style="height: 268px">
+        <picture>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/22trm80UiZmEFiuYmeF1CU/989954957210627dc7236b0f6968cb0d/CoyoteContact_Office_Color_4k__1_.jpg?w=1200&amp;fm=avif 1200w,//images.ctfassets.net/aukesvz1i7g8/22trm80UiZmEFiuYmeF1CU/989954957210627dc7236b0f6968cb0d/CoyoteContact_Office_Color_4k__1_.jpg?w=960&amp;fm=avif 960w,//images.ctfassets.net/aukesvz1i7g8/22trm80UiZmEFiuYmeF1CU/989954957210627dc7236b0f6968cb0d/CoyoteContact_Office_Color_4k__1_.jpg?w=720&amp;fm=avif 720w,//images.ctfassets.net/aukesvz1i7g8/22trm80UiZmEFiuYmeF1CU/989954957210627dc7236b0f6968cb0d/CoyoteContact_Office_Color_4k__1_.jpg?w=600&amp;fm=avif 600w,//images.ctfassets.net/aukesvz1i7g8/22trm80UiZmEFiuYmeF1CU/989954957210627dc7236b0f6968cb0d/CoyoteContact_Office_Color_4k__1_.jpg?w=480&amp;fm=avif 480w,//images.ctfassets.net/aukesvz1i7g8/22trm80UiZmEFiuYmeF1CU/989954957210627dc7236b0f6968cb0d/CoyoteContact_Office_Color_4k__1_.jpg?w=240&amp;fm=avif 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/avif"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/22trm80UiZmEFiuYmeF1CU/989954957210627dc7236b0f6968cb0d/CoyoteContact_Office_Color_4k__1_.jpg?w=1200&amp;fm=webp 1200w,//images.ctfassets.net/aukesvz1i7g8/22trm80UiZmEFiuYmeF1CU/989954957210627dc7236b0f6968cb0d/CoyoteContact_Office_Color_4k__1_.jpg?w=960&amp;fm=webp 960w,//images.ctfassets.net/aukesvz1i7g8/22trm80UiZmEFiuYmeF1CU/989954957210627dc7236b0f6968cb0d/CoyoteContact_Office_Color_4k__1_.jpg?w=720&amp;fm=webp 720w,//images.ctfassets.net/aukesvz1i7g8/22trm80UiZmEFiuYmeF1CU/989954957210627dc7236b0f6968cb0d/CoyoteContact_Office_Color_4k__1_.jpg?w=600&amp;fm=webp 600w,//images.ctfassets.net/aukesvz1i7g8/22trm80UiZmEFiuYmeF1CU/989954957210627dc7236b0f6968cb0d/CoyoteContact_Office_Color_4k__1_.jpg?w=480&amp;fm=webp 480w,//images.ctfassets.net/aukesvz1i7g8/22trm80UiZmEFiuYmeF1CU/989954957210627dc7236b0f6968cb0d/CoyoteContact_Office_Color_4k__1_.jpg?w=240&amp;fm=webp 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/webp"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/22trm80UiZmEFiuYmeF1CU/989954957210627dc7236b0f6968cb0d/CoyoteContact_Office_Color_4k__1_.jpg?w=1200&amp;fm=jpg 1200w,//images.ctfassets.net/aukesvz1i7g8/22trm80UiZmEFiuYmeF1CU/989954957210627dc7236b0f6968cb0d/CoyoteContact_Office_Color_4k__1_.jpg?w=960&amp;fm=jpg 960w,//images.ctfassets.net/aukesvz1i7g8/22trm80UiZmEFiuYmeF1CU/989954957210627dc7236b0f6968cb0d/CoyoteContact_Office_Color_4k__1_.jpg?w=720&amp;fm=jpg 720w,//images.ctfassets.net/aukesvz1i7g8/22trm80UiZmEFiuYmeF1CU/989954957210627dc7236b0f6968cb0d/CoyoteContact_Office_Color_4k__1_.jpg?w=600&amp;fm=jpg 600w,//images.ctfassets.net/aukesvz1i7g8/22trm80UiZmEFiuYmeF1CU/989954957210627dc7236b0f6968cb0d/CoyoteContact_Office_Color_4k__1_.jpg?w=480&amp;fm=jpg 480w,//images.ctfassets.net/aukesvz1i7g8/22trm80UiZmEFiuYmeF1CU/989954957210627dc7236b0f6968cb0d/CoyoteContact_Office_Color_4k__1_.jpg?w=240&amp;fm=jpg 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/jpeg"></source>
+  <img class="d-block width-full height-full object-fit-cover rounded-2" width="1200" height="1400" loading="lazy" decoding="async" alt="" src="//images.ctfassets.net/aukesvz1i7g8/22trm80UiZmEFiuYmeF1CU/989954957210627dc7236b0f6968cb0d/CoyoteContact_Office_Color_4k__1_.jpg?w=1200&amp;fm=jpg" />
+</picture>
+      </div>
+    </div>
+    <h3  class="f4-mktg color-fg-muted pb-2" aria-hidden="true"> Coyote Logistics</h3>
+    <p  class="h6-mktg color-fg-default py-1 pb-sm-4 text-semibold" aria-hidden="true">Coyote Logistics saves countless developer hours with GitHub’s cutting-edge offerings.</p>
+    <p class="f4 d-block d-sm-inline no-underline text-semibold arrow-target-mktg color-fg-accent" aria-hidden="true">
+      Read story <svg xmlns="http://www.w3.org/2000/svg" class="octicon arrow-symbol-mktg octicon" width="16" height="16" viewBox="0 0 16 16" fill="none"><path fill="currentColor" d="M7.28033 3.21967C6.98744 2.92678 6.51256 2.92678 6.21967 3.21967C5.92678 3.51256 5.92678 3.98744 6.21967 4.28033L7.28033 3.21967ZM11 8L11.5303 8.53033C11.8232 8.23744 11.8232 7.76256 11.5303 7.46967L11 8ZM6.21967 11.7197C5.92678 12.0126 5.92678 12.4874 6.21967 12.7803C6.51256 13.0732 6.98744 13.0732 7.28033 12.7803L6.21967 11.7197ZM6.21967 4.28033L10.4697 8.53033L11.5303 7.46967L7.28033 3.21967L6.21967 4.28033ZM10.4697 7.46967L6.21967 11.7197L7.28033 12.7803L11.5303 8.53033L10.4697 7.46967Z"></path><path class="octicon-chevrow-stem" stroke="currentColor" d="M1.75 8H11" stroke-width="1.5" stroke-linecap="round"></path></svg>
+
+    </p>
+  </a>
+</div>
+
+      <div  class="py-2 py-sm-4 mb-4 col-md-4">
+  <a
+    href="/customer-stories/elanco"
+    class="no-underline d-block rounded-1 Link--outlineOffset"
+  >
+    <span class="sr-only">Read more about Elanco&apos;s customer story</span>
+    <div class="mb-4 position-relative">
+      <div style="height: 268px">
+        <picture>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/2KkTKBM7ephNFuFL6tNJZ1/43d1ddaa8861506b375176d54477d0b1/Sheep_3.jpg?w=1200&amp;fm=avif 1200w,//images.ctfassets.net/aukesvz1i7g8/2KkTKBM7ephNFuFL6tNJZ1/43d1ddaa8861506b375176d54477d0b1/Sheep_3.jpg?w=960&amp;fm=avif 960w,//images.ctfassets.net/aukesvz1i7g8/2KkTKBM7ephNFuFL6tNJZ1/43d1ddaa8861506b375176d54477d0b1/Sheep_3.jpg?w=720&amp;fm=avif 720w,//images.ctfassets.net/aukesvz1i7g8/2KkTKBM7ephNFuFL6tNJZ1/43d1ddaa8861506b375176d54477d0b1/Sheep_3.jpg?w=600&amp;fm=avif 600w,//images.ctfassets.net/aukesvz1i7g8/2KkTKBM7ephNFuFL6tNJZ1/43d1ddaa8861506b375176d54477d0b1/Sheep_3.jpg?w=480&amp;fm=avif 480w,//images.ctfassets.net/aukesvz1i7g8/2KkTKBM7ephNFuFL6tNJZ1/43d1ddaa8861506b375176d54477d0b1/Sheep_3.jpg?w=240&amp;fm=avif 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/avif"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/2KkTKBM7ephNFuFL6tNJZ1/43d1ddaa8861506b375176d54477d0b1/Sheep_3.jpg?w=1200&amp;fm=webp 1200w,//images.ctfassets.net/aukesvz1i7g8/2KkTKBM7ephNFuFL6tNJZ1/43d1ddaa8861506b375176d54477d0b1/Sheep_3.jpg?w=960&amp;fm=webp 960w,//images.ctfassets.net/aukesvz1i7g8/2KkTKBM7ephNFuFL6tNJZ1/43d1ddaa8861506b375176d54477d0b1/Sheep_3.jpg?w=720&amp;fm=webp 720w,//images.ctfassets.net/aukesvz1i7g8/2KkTKBM7ephNFuFL6tNJZ1/43d1ddaa8861506b375176d54477d0b1/Sheep_3.jpg?w=600&amp;fm=webp 600w,//images.ctfassets.net/aukesvz1i7g8/2KkTKBM7ephNFuFL6tNJZ1/43d1ddaa8861506b375176d54477d0b1/Sheep_3.jpg?w=480&amp;fm=webp 480w,//images.ctfassets.net/aukesvz1i7g8/2KkTKBM7ephNFuFL6tNJZ1/43d1ddaa8861506b375176d54477d0b1/Sheep_3.jpg?w=240&amp;fm=webp 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/webp"></source>
+  <source srcset="//images.ctfassets.net/aukesvz1i7g8/2KkTKBM7ephNFuFL6tNJZ1/43d1ddaa8861506b375176d54477d0b1/Sheep_3.jpg?w=1200&amp;fm=jpg 1200w,//images.ctfassets.net/aukesvz1i7g8/2KkTKBM7ephNFuFL6tNJZ1/43d1ddaa8861506b375176d54477d0b1/Sheep_3.jpg?w=960&amp;fm=jpg 960w,//images.ctfassets.net/aukesvz1i7g8/2KkTKBM7ephNFuFL6tNJZ1/43d1ddaa8861506b375176d54477d0b1/Sheep_3.jpg?w=720&amp;fm=jpg 720w,//images.ctfassets.net/aukesvz1i7g8/2KkTKBM7ephNFuFL6tNJZ1/43d1ddaa8861506b375176d54477d0b1/Sheep_3.jpg?w=600&amp;fm=jpg 600w,//images.ctfassets.net/aukesvz1i7g8/2KkTKBM7ephNFuFL6tNJZ1/43d1ddaa8861506b375176d54477d0b1/Sheep_3.jpg?w=480&amp;fm=jpg 480w,//images.ctfassets.net/aukesvz1i7g8/2KkTKBM7ephNFuFL6tNJZ1/43d1ddaa8861506b375176d54477d0b1/Sheep_3.jpg?w=240&amp;fm=jpg 240w" sizes="(max-width: 755px) 90vw, 40vw" type="image/jpeg"></source>
+  <img class="d-block width-full height-full object-fit-cover rounded-2" width="1200" height="1400" loading="lazy" decoding="async" alt="" src="//images.ctfassets.net/aukesvz1i7g8/2KkTKBM7ephNFuFL6tNJZ1/43d1ddaa8861506b375176d54477d0b1/Sheep_3.jpg?w=1200&amp;fm=jpg" />
+</picture>
+      </div>
+    </div>
+    <h3  class="f4-mktg color-fg-muted pb-2" aria-hidden="true"> Elanco</h3>
+    <p  class="h6-mktg color-fg-default py-1 pb-sm-4 text-semibold" aria-hidden="true">Elanco accelerates development at lightning speed with GitHub.</p>
+    <p class="f4 d-block d-sm-inline no-underline text-semibold arrow-target-mktg color-fg-accent" aria-hidden="true">
+      Read story <svg xmlns="http://www.w3.org/2000/svg" class="octicon arrow-symbol-mktg octicon" width="16" height="16" viewBox="0 0 16 16" fill="none"><path fill="currentColor" d="M7.28033 3.21967C6.98744 2.92678 6.51256 2.92678 6.21967 3.21967C5.92678 3.51256 5.92678 3.98744 6.21967 4.28033L7.28033 3.21967ZM11 8L11.5303 8.53033C11.8232 8.23744 11.8232 7.76256 11.5303 7.46967L11 8ZM6.21967 11.7197C5.92678 12.0126 5.92678 12.4874 6.21967 12.7803C6.51256 13.0732 6.98744 13.0732 7.28033 12.7803L6.21967 11.7197ZM6.21967 4.28033L10.4697 8.53033L11.5303 7.46967L7.28033 3.21967L6.21967 4.28033ZM10.4697 7.46967L6.21967 11.7197L7.28033 12.7803L11.5303 8.53033L10.4697 7.46967Z"></path><path class="octicon-chevrow-stem" stroke="currentColor" d="M1.75 8H11" stroke-width="1.5" stroke-linecap="round"></path></svg>
+
+    </p>
+  </a>
+</div>
+
+  </template>
+</turbo-stream>
+
+  <turbo-stream action="remove" target="load-more-stories-button" ></turbo-stream>
